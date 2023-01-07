@@ -51,6 +51,7 @@
         "drupal/collective_theme": "^1.0",
         "drupal/colonel": "^2.0",
         "drupal/conference_lite": "^1.2",
+        "drupal/console": "^1.9",
         "drupal/core-composer-scaffold": "^9.5",
         "drupal/core-project-message": "^9.5",
         "drupal/core-recommended": "^9.5",
