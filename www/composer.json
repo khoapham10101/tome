@@ -101,6 +101,7 @@
         "drupal/os_base": "^9.1",
         "drupal/panache": "^1.1",
         "drupal/particles_orange": "^1.2",
+        "drupal/pathauto": "^1.11",
         "drupal/pets_zymphonies_theme": "^2.0",
         "drupal/photographer": "^9.1",
         "drupal/portfolio_theme_explore": "^1.0",
