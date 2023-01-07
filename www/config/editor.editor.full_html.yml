@@ -15,7 +15,13 @@ settings:
     items:
       - bold
       - italic
+      - underline
       - strikethrough
+      - '|'
+      - alignment
+      - outdent
+      - indent
+      - '|'
       - superscript
       - subscript
       - removeFormat
@@ -34,9 +40,13 @@ settings:
       - codeBlock
       - '|'
       - sourceEditing
+      - '|'
+      - undo
+      - redo
   plugins:
     ckeditor5_heading:
       enabled_headings:
+        - heading1
         - heading2
         - heading3
         - heading4
@@ -47,6 +57,12 @@ settings:
     ckeditor5_list:
       reversed: true
       startIndex: true
+    ckeditor5_alignment:
+      enabled_alignments:
+        - left
+        - center
+        - right
+        - justify
     ckeditor5_imageResize:
       allow_resize: true
 image_upload:
