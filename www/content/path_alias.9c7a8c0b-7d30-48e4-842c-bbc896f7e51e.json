@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "9c7a8c0b-7d30-48e4-842c-bbc896f7e51e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/bedf0b7d-a649-475b-b19f-cbe80df17b02"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/cui-inhibeo-neo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "34032103-42b4-4ead-a9b2-4d365cbd8592"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/8da434c9-3c80-472d-9978-562942f06771"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/rusticus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

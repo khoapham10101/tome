@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1d596eed-f206-4cfe-809d-b9b4511bdd01"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/e9e3ad27-cb93-4b79-8474-cbe55f7da734"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/eu-facilisi"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7bc098d7-0925-4603-b19e-ec299b83a49e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/5bedbab5-e1db-4169-9f89-c856aed33f17"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/pagus-quadrum-ut"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

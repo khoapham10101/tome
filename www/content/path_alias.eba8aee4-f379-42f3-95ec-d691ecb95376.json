@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "eba8aee4-f379-42f3-95ec-d691ecb95376"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1ebd8622-a4f3-49e6-8344-5690e375ca2c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/consectetuer-similis"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

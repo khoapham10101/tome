@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "2a6b2814-dafb-4134-84ad-cb3bb58102b1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/61d86f77-3510-4655-a740-2542e30bff19"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/luctus-pagus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

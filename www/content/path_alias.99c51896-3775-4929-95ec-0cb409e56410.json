@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "99c51896-3775-4929-95ec-0cb409e56410"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/c435db22-e9e0-47d2-b328-9e811feb0d14"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/pertineo-tum"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
