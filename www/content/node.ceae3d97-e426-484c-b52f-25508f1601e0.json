@@ -79,8 +79,7 @@
     ],
     "path": [
         {
-            "alias": null,
-            "pid": null,
+            "alias": "\/abluo-ex-lenis",
             "langcode": "en",
             "pathauto": 1
         }

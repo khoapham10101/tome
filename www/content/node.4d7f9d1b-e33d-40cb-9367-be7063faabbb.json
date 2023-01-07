@@ -79,8 +79,7 @@
     ],
     "path": [
         {
-            "alias": null,
-            "pid": null,
+            "alias": "\/enim-0",
             "langcode": "en",
             "pathauto": 1
         }
