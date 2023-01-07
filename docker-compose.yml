@@ -1,0 +1,56 @@
+version: "2"
+services:
+    www:
+        build:
+          context: ./apache-php
+          args:
+              - WITH_XDEBUG=true
+        ports:
+            - "8009:80"
+            - "8010:80"
+            - "3009:3000"
+        env_file: .env
+        environment:
+            XDEBUG_CONFIG: "remote_host=localhost remote_connect_back=1"
+            PHP_IDE_CONFIG: "serverName=localhost"
+        volumes:
+            - ./www:/var/www/html:z
+            - ./www/web/modules/custom:/var/www/html/web/modules/custom:z
+            - ./www/web/themes/custom:/var/www/html/web/themes/custom:z
+            - ./www/web/sites/default/files:/var/www/html/web/sites/default/files:z
+        links:
+            - db
+        networks:
+            - tome-network
+    db:
+        image: mysql
+        ports:
+            - "3309:3306"
+        environment:
+            MYSQL_DATABASE: myDb
+            MYSQL_USER: user
+            MYSQL_PASSWORD: test
+            MYSQL_ROOT_PASSWORD: test
+        volumes:
+            - ./dump:/docker-entrypoint-initdb.d
+            - persistent:/var/lib/mysql
+        networks:
+            - tome-network
+    phpmyadmin:
+        image: phpmyadmin/phpmyadmin
+        links:
+            - db:db
+        ports:
+            - 8011:80
+        environment:
+            MYSQL_USER: user
+            MYSQL_PASSWORD: test
+            MYSQL_ROOT_PASSWORD: test
+        networks:
+            - tome-network
+volumes:
+    persistent:
+
+networks:
+    tome-network:
+        driver: bridge
