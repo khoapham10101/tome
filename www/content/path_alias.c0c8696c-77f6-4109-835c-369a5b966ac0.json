@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c0c8696c-77f6-4109-835c-369a5b966ac0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f68b754d-09c6-4684-9931-ce44c04733ca"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/abigo-0"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

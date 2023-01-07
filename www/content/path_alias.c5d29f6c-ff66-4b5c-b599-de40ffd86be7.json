@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c5d29f6c-ff66-4b5c-b599-de40ffd86be7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1a8e93b5-93bb-445c-a8c6-bc7329240c01"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/luptatum-1"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

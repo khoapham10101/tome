@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "acd6aacd-b4af-4662-9927-5711797954be"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/6b91b534-f8e5-4169-ac7d-6f1870ec071b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/nobis-0"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

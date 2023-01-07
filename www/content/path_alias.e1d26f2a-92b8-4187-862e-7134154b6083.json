@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e1d26f2a-92b8-4187-862e-7134154b6083"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/c6ecdb53-4ebe-47a0-9bb3-412716ed0626"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/mos-obruo-pecus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

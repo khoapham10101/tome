@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "703ceca2-d808-4d2e-9892-b30db34da5c7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/e84f7fc8-7395-44c0-b300-47242ad212cb"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/minim-os-qui-secundum"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

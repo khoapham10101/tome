@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7b04d594-0718-47b5-a1e4-f92142e7ed09"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/5a226e08-e97e-46a2-9c92-be73ae1f7b19"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/cui-illum-jus-uxor"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

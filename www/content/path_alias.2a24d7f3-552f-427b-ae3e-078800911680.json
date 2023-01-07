@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "2a24d7f3-552f-427b-ae3e-078800911680"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/08c99944-f9fa-430e-a088-3f3d2f950454"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/abbas"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "80d049c3-e12a-4897-ae9e-88d36723e4d1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/940aa673-db55-41bc-8bad-1cac7f112235"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/appellatio-defui-duis"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3d2a54c8-1c80-4eee-a947-ad9f43cee3af"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0719862c-545d-4b68-8bf8-3d0982a48535"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/saluto-1"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

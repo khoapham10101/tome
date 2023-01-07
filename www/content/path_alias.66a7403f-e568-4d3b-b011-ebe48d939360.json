@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "66a7403f-e568-4d3b-b011-ebe48d939360"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/6840d3c1-bb1f-46bf-a463-c974b9833ff7"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/genitus-nisl-patria"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

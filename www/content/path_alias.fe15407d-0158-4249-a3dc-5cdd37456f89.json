@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "fe15407d-0158-4249-a3dc-5cdd37456f89"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/539e02ba-3128-408e-93bb-b19fdbecda4d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/nisl"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

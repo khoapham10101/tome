@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "dc49e5ad-edfa-49a6-b121-d02e4c3b2558"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/8682b548-8b6c-4fd2-b137-2ffd5b67054c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/conventio-paulatim"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3ffa99f8-9d07-4e1c-bfd4-1b5ead3f86c6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/c4e589d3-01f7-4dd0-a030-49e6ae560301"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/illum-probo-torqueo-velit"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

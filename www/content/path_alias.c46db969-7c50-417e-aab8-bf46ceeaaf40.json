@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c46db969-7c50-417e-aab8-bf46ceeaaf40"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b04f8314-473a-4acd-a9c2-bf5a1b5b5d32"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/appellatio-commodo-eum-jus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

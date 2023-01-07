@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a0d818fb-50bc-44e2-b25c-1ef241b8db1c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7655ab2f-a26a-4878-84d3-32fc81f7f272"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/melior-pala-similis-voco"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

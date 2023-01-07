@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "5ce238ad-bf45-4dce-a21f-7f14fbefc3bb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/49cd9ec5-2ad0-4e8c-8f85-54d340b172eb"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/causa-sudo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

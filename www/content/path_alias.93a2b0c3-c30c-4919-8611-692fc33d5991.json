@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "93a2b0c3-c30c-4919-8611-692fc33d5991"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/aac4cdb3-d339-4564-809b-044c855321f7"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/iusto-vel-voco"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
