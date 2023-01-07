@@ -50,3 +50,5 @@
 www/vendor/
 www/.editorconfig
 www/.gitattributes
+www/tome_custom.log
+www/tome_error.log

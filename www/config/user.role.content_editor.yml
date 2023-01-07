@@ -5,7 +5,6 @@ dependencies:
   config:
     - filter.format.full_html
     - node.type.article
-    - taxonomy.vocabulary.tags
   module:
     - contextual
     - file
@@ -13,7 +12,6 @@ dependencies:
     - node
     - path
     - system
-    - taxonomy
     - tour
 _core:
   default_config_hash: Wur9kcEOwY1Jal81NssKnz3RhVJxAvBwyWQBGcA_1Go
@@ -29,12 +27,10 @@ permissions:
   - 'access tour'
   - 'administer url aliases'
   - 'create article content'
-  - 'create terms in tags'
   - 'create url aliases'
   - 'delete article revisions'
   - 'delete own article content'
   - 'edit own article content'
-  - 'edit terms in tags'
   - 'revert all revisions'
   - 'use text format full_html'
   - 'view all revisions'
