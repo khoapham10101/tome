@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "35bb3cee-9dfc-4b9e-92a1-788d1b10a171"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3ad5c8ea-18e8-4070-8cb0-fd50b6e9fab9"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/genitus-verto"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

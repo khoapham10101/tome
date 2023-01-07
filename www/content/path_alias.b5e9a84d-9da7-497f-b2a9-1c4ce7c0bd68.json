@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b5e9a84d-9da7-497f-b2a9-1c4ce7c0bd68"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/c5cf7cdf-1968-40fe-8809-3ea0c097f227"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/aliquip-illum-olim"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

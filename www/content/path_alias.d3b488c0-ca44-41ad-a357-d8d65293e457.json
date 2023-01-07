@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d3b488c0-ca44-41ad-a357-d8d65293e457"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0584d6a7-361f-4408-8f4d-8e2aad3fb867"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/valetudo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

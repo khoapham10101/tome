@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "6333c8e6-5d25-4a6f-aca8-298d883774da"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ed7d4e2c-029e-406f-8240-d49a24e30738"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/exerci-iaceo-praesent"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

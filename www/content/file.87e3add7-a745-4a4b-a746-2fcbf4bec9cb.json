@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "87e3add7-a745-4a4b-a746-2fcbf4bec9cb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "e5c3b379-0dd0-4c71-8b8b-1cf235008711"
+        }
+    ],
+    "filename": [
+        {
+            "value": "generateImage_llglcm.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2023-01\/generateImage_llglcm.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 10253
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-01-07T11:14:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-01-07T11:14:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "45167ce6-35ba-4684-a893-bbdeb0503dce"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/936f94de-cb37-4135-981f-585de2133436"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/incassum"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

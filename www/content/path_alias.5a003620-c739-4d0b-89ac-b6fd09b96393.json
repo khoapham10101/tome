@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "5a003620-c739-4d0b-89ac-b6fd09b96393"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7b7797f7-7761-49af-b7b8-802c4eba6f5e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/elit-ludus-nutus-pala"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

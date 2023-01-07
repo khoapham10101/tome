@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ebd30275-6830-4059-9162-cf51d50720b8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1b56d9f0-3ad0-4dac-b1e8-b87651819f71"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/letalis-metuo-oppeto"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

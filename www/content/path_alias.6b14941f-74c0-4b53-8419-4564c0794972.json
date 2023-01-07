@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "6b14941f-74c0-4b53-8419-4564c0794972"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/fb26e66b-b24f-40c5-9446-45918c964175"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/plaga"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

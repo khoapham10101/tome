@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "65600696-a4b6-427d-8701-0d6d3ec48732"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/a31f6737-6321-4bf1-97c9-aabc494f90e1"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/brevitas-dolor"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

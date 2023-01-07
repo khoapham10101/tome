@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d852dee0-0f72-48c2-ae8e-0fc1c71d434e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/947f35b1-cd39-4da6-aeca-3f47bd6820b3"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/probo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

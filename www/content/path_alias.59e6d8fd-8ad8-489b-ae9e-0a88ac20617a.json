@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "59e6d8fd-8ad8-489b-ae9e-0a88ac20617a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/8faa0a86-d801-4323-8873-01f252a93f36"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/paratus-wisi"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

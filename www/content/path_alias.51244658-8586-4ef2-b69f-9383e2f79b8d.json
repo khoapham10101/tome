@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "51244658-8586-4ef2-b69f-9383e2f79b8d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/02ac5fbb-ad5a-414f-97c1-a3ee3b8177ad"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/esca-nisl-utinam-velit"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

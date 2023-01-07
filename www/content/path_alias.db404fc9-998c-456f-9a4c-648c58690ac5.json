@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "db404fc9-998c-456f-9a4c-648c58690ac5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f873fb16-d493-4dfe-91b1-2ce6e059175f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/nibh"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

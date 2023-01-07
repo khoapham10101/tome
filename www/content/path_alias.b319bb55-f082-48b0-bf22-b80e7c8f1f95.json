@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b319bb55-f082-48b0-bf22-b80e7c8f1f95"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/785e8c9e-a43b-480a-809f-7d349ede9598"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/iaceo-immitto"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

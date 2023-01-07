@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "123dbadc-356f-4577-9e0a-e2ab81015a4d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/82af5240-1cd1-4e78-842e-4f246a1308f8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/exerci-feugiat-praesent-valetudo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

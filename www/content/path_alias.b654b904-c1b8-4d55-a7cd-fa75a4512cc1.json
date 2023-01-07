@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b654b904-c1b8-4d55-a7cd-fa75a4512cc1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ef6cfdad-89a4-4701-8cfe-45a25a847c4f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/gemino-0"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

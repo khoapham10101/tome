@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3e0205b9-be02-4e4b-ab4a-834889efb29a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/557d5700-e6d1-4f73-bbe3-54636c5db10a"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/cui-defui-elit-pagus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

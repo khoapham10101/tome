@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "2d1c4161-75a1-44da-a99c-9567f5e8ca73"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3550754c-14d9-4e69-98b4-633f7bd2807b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/paulatim"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

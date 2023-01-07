@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "92cc43b8-e413-4de7-af0e-de318ead8b87"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2751e7ea-d37b-4685-9de9-0518a9911ce9"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/haero-typicus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0a7a35a1-f3a4-46e9-8dc0-51256581cbea"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0775b735-0c7a-4abb-8d31-00ccf863ec24"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/vindico"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

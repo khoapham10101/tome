@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "efafa34f-7be3-4662-bf6e-8bede02182a8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/869e5912-c6dc-4d6b-8b4c-744c0181ab58"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/nimis"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

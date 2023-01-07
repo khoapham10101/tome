@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "cc75b6ff-7a94-4f2b-a936-cd2efc93097c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/cea46991-c126-4ae2-b564-13b52fbac25c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/quadrum-quia"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7726e46d-0dbd-447b-9424-84ef2a36e480"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/35efbb8d-175f-45ff-be49-ab64d8586903"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/aptent-huic-iusto"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

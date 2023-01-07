@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c8974fd4-ba4d-4a68-8494-fcd938ebafba"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1732044d-e5e9-4fc6-8e9d-a1e110e7a098"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/abbas-similis-singularis"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

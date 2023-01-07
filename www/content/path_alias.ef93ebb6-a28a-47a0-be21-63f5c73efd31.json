@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ef93ebb6-a28a-47a0-be21-63f5c73efd31"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/78222181-495b-4080-baea-dde3299576d5"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/eligo-0"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

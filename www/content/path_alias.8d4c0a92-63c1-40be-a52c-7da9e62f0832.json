@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "8d4c0a92-63c1-40be-a52c-7da9e62f0832"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/8efe9e98-7fe3-4a5a-81ee-8020f39d8201"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/tation"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

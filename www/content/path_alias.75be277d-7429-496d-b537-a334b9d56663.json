@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "75be277d-7429-496d-b537-a334b9d56663"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3d837d84-c8f2-440d-885e-cba57f3fafe6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/nutus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d7b754de-f458-4658-b8ae-907dc4c98d52"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/c12eb4cf-db5f-4f6d-80ca-f26559b4db97"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/vereor-0"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

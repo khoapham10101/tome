@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "9b4e082f-e967-4e2d-8c21-0b4f29d9ebd0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2b05e607-700d-401c-80ae-64c577778599"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/abigo-autem-eligo-gemino"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

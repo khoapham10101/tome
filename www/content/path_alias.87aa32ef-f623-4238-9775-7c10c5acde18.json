@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "87aa32ef-f623-4238-9775-7c10c5acde18"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/57b7ed9a-c580-4c7e-bbb2-2f8167fb8002"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/diam-sudo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

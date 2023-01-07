@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "bcf2ab46-bd90-4284-a683-810fc90db2c6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/8952b3e9-8dd1-4e35-a26e-47f665ef2043"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/immitto-quidem-veniam"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

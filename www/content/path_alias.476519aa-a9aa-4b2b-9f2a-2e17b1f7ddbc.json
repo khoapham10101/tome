@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "476519aa-a9aa-4b2b-9f2a-2e17b1f7ddbc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/9b2d91af-b096-4dd0-b893-f39ef336578f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/defui-praesent-secundum-sit"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

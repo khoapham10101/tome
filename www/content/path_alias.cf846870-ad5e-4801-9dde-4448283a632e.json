@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "cf846870-ad5e-4801-9dde-4448283a632e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/d885e9b9-ef40-4b22-8e90-631f509ca5b3"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/neo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

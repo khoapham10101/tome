@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "9a6e871c-3483-44ee-93e6-9939eaa9ef69"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/22031e03-8413-4140-9c7b-3bc219655fd7"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/abico-appellatio-brevitas-saluto"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

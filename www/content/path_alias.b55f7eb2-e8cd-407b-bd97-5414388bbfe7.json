@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b55f7eb2-e8cd-407b-bd97-5414388bbfe7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/bdc1417d-3bce-4685-9ac4-8b6a50b64310"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/luctus-quadrum"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

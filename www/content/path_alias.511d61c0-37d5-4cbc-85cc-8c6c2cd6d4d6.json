@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "511d61c0-37d5-4cbc-85cc-8c6c2cd6d4d6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ea9582c5-0751-4afd-b4c7-67ae0500a5c7"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/gilvus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

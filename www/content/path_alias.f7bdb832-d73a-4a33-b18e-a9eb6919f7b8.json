@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f7bdb832-d73a-4a33-b18e-a9eb6919f7b8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7dd4ee67-a5b4-4bbc-8c09-07876c02d9b1"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/brevitas-eros"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

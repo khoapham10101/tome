@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "035ce159-215a-4a19-902e-57ebf39b1848"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/23ccd4b3-de93-4605-a940-b7fde14ac95a"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/fere-illum-neo-typicus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

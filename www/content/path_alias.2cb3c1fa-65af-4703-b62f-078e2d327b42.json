@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "2cb3c1fa-65af-4703-b62f-078e2d327b42"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b2bca244-8aab-4157-9cb7-645daaddf887"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/bene-interdico-luptatum"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

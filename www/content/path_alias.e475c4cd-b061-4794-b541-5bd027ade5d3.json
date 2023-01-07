@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e475c4cd-b061-4794-b541-5bd027ade5d3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/4785cf94-52b2-437a-9f3e-005fd97833fa"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/immitto-metuo-scisco"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

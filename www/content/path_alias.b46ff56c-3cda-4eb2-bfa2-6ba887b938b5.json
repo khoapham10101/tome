@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b46ff56c-3cda-4eb2-bfa2-6ba887b938b5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b7352e6a-35a3-4cd8-a1f2-190587aa4265"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/luptatum-premo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "295d1f10-941e-48db-8fd6-8091470a2f09"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f6c2900a-e216-46e0-8963-a17c39758088"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/decet"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

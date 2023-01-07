@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "74232e75-8f3d-40a2-b724-79f5ddffe837"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/5d8f4d06-2437-488a-a239-b892a8bd0b78"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/causa-jus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

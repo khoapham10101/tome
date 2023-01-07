@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "01afd6d3-a83a-4853-9056-6daacd7ffb9d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ee2c7a29-899f-4a96-9042-79ec9727f091"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/acsi-cui-dolus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

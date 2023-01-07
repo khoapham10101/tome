@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3d9a3947-3182-49f1-b81d-e62b378aa35b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/29a5ab43-91aa-4874-b158-f2dec5e988f2"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/nunc-te"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

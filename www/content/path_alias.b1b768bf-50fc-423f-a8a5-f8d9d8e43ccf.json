@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b1b768bf-50fc-423f-a8a5-f8d9d8e43ccf"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/fa535e18-8d0f-4ee0-8ee6-23ce62807e24"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/validus-0"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

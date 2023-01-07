@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "eab362ba-3ab8-419f-abb2-e9dd42722443"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b20566d4-7724-4e40-907f-71970e51a0bc"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/camur-macto"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

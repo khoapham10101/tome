@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "59cb26bb-8e3c-4c00-a62e-c2f02a8b9306"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/e9358453-18e7-466d-9b7c-7ff5e610fd3d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/conventio"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

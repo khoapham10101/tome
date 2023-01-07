@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e5634237-b0e3-4031-982c-33d7887d60a7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/6a0d5a02-a403-4b0f-a1b3-4b4ab2782b32"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/illum-nimis-volutpat"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

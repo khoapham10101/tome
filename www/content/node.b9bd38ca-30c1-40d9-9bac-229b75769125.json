@@ -1,0 +1,126 @@
+{
+    "uuid": [
+        {
+            "value": "b9bd38ca-30c1-40d9-9bac-229b75769125"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article",
+            "target_type": "node_type",
+            "target_uuid": "6d9f0af7-9523-4833-ad58-035e1a27be0d"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-01-07T11:14:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "f0784ad9-0392-497f-a2e4-cee9e8fce093"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "f0784ad9-0392-497f-a2e4-cee9e8fce093"
+        }
+    ],
+    "title": [
+        {
+            "value": "Oppeto"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-01-01T13:09:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-01-07T11:14:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/oppeto",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "Conventio exputo feugiat olim oppeto veniam voco. Ille quia scisco. Immitto iusto mos suscipit. Abico adipiscing distineo erat. Erat facilisi letalis mos neo nunc tum.\n\nCamur ille magna mauris molior natu similis vero verto virtus. Abdo qui scisco sit torqueo valetudo vero vindico. Antehabeo dolor fere gravis ideo nulla roto singularis.\n\nExputo haero hendrerit humo singularis tum valetudo. Elit esse eu incassum inhibeo jugis molior quibus turpis velit. Abigo appellatio blandit hos. Accumsan aliquam augue dignissim gemino sagaciter tation.\n\nElit esca facilisis feugiat inhibeo lucidus oppeto saluto sino usitas. Causa gravis nimis paulatim quia quidem refoveo saepius volutpat. Adipiscing commoveo enim et hendrerit huic secundum utinam. Genitus imputo tego. Huic lobortis macto.\n\nLenis macto metuo sudo wisi. Abico euismod hos modo roto vel. Aliquam suscipit vicis. Erat iaceo mauris minim nobis secundum suscipit utinam valde wisi.\n\nHaero mauris pneum quia quidne vereor. Abluo hendrerit hos paratus. Ad gravis verto. Augue jumentum sino. Erat eros exputo gilvus interdico iriure jumentum paratus quae quia. Accumsan esse hendrerit humo molior nimis scisco similis. Ad feugiat genitus jugis magna praesent quidne ratis sagaciter.\n\nImmitto luctus luptatum nutus praesent sit tego ullamcorper vicis. Blandit defui metuo modo pagus quadrum quis usitas. At nobis validus. Illum singularis veniam. Ad camur eum iaceo ludus pneum premo quis ratis. Brevitas commoveo esse gilvus sudo. Consequat dignissim et feugiat genitus iustum nutus plaga sit vulpes.\n\nDamnum lenis lobortis molior nostrud refero si ulciscor venio. Melior nutus plaga. Abico abigo aliquam saepius. Comis defui eum jugis ludus mauris neque pneum turpis valde.\n\nCui immitto minim persto. Eligo facilisis genitus importunus jumentum quidne ratis. Blandit defui jumentum olim proprius si volutpat. Brevitas dolor iusto jugis neo quadrum rusticus utrum venio. Iriure metuo persto quibus veniam verto. Cui jugis nutus tation.\n\nAbigo appellatio iaceo os te turpis. Eum facilisis gravis ideo nibh premo quia saluto singularis ymo. Decet eros iustum refoveo. Neque tamen venio. Caecus erat esca exputo inhibeo iriure letalis pala. Abbas hos si veniam verto. Lobortis pneum premo utinam vicis. Commoveo dolus feugiat incassum inhibeo letalis lobortis pagus roto.\n\nAcsi bene jus lucidus os persto. Abico genitus sagaciter validus. Jumentum loquor populus utrum vereor. Brevitas cui euismod jus letalis neo ratis scisco tamen vereor.\n\nAptent commoveo elit enim feugiat proprius similis ymo. Duis ea genitus sudo usitas. Ad consequat ideo luctus persto pertineo premo quis vindico. Causa cui dolor nostrud utrum. Exputo jumentum nunc saepius. Accumsan antehabeo at brevitas hos laoreet nibh vereor.\n\n",
+            "format": "plain_text",
+            "summary": "Conventio exputo feugiat olim oppeto veniam voco. Ille quia scisco. Immitto iusto mos suscipit. Abico adipiscing distineo erat. Erat facilisi letalis mos neo nunc tum.\n\nCamur ille magna mauris molior natu similis vero verto virtus. Abdo qui scisco sit torqueo valetudo vero vindico. Antehabeo dolor fere gravis ideo nulla roto singularis.\n\nExputo haero hendrerit humo singularis tum valetudo. Elit esse eu incassum inhibeo jugis molior quibus turpis velit. Abigo appellatio blandit hos. Accumsan aliquam augue dignissim gemino sagaciter tation.\n\nElit esca facilisis feugiat inhibeo lucidus oppeto saluto sino usitas. Causa gravis nimis paulatim quia quidem refoveo saepius volutpat. Adipiscing commoveo enim et hendrerit huic secundum utinam. Genitus imputo tego. Huic lobortis macto.\n\nLenis macto metuo sudo wisi. Abico euismod hos modo roto vel. Aliquam suscipit vicis. Erat iaceo mauris minim nobis secundum suscipit utinam valde wisi.\n\nHaero mauris pneum quia quidne vereor. Abluo hendrerit hos paratus. Ad gravis verto. Augue jumentum sino. Erat eros exputo gilvus interdico iriure jumentum paratus quae quia. Accumsan esse hendrerit humo molior nimis scisco similis. Ad feugiat genitus jugis magna praesent quidne ratis sagaciter.\n\nImmitto luctus luptatum nutus praesent sit tego ullamcorper vicis. Blandit defui metuo modo pagus quadrum quis usitas. At nobis validus. Illum singularis veniam. Ad camur eum iaceo ludus pneum premo quis ratis. Brevitas commoveo esse gilvus sudo. Consequat dignissim et feugiat genitus iustum nutus plaga sit vulpes.\n\nDamnum lenis lobortis molior nostrud refero si ulciscor venio. Melior nutus plaga. Abico abigo aliquam saepius. Comis defui eum jugis ludus mauris neque pneum turpis valde.\n\nCui immitto minim persto. Eligo facilisis genitus importunus jumentum quidne ratis. Blandit defui jumentum olim proprius si volutpat. Brevitas dolor iusto jugis neo quadrum rusticus utrum venio. Iriure metuo persto quibus veniam verto. Cui jugis nutus tation.\n\nAbigo appellatio iaceo os te turpis. Eum facilisis gravis ideo nibh premo quia saluto singularis ymo. Decet eros iustum refoveo. Neque tamen venio. Caecus erat esca exputo inhibeo iriure letalis pala. Abbas hos si veniam verto. Lobortis pneum premo utinam vicis. Commoveo dolus feugiat incassum inhibeo letalis lobortis pagus roto.\n\nAcsi bene jus lucidus os persto. Abico genitus sagaciter validus. Jumentum loquor populus utrum vereor. Brevitas cui euismod jus letalis neo ratis scisco tamen vereor.\n\nAptent commoveo elit enim feugiat proprius similis ymo. Duis ea genitus sudo usitas. Ad consequat ideo luctus persto pertineo premo quis vindico. Causa cui dolor nostrud utrum. Exputo jumentum nunc saepius. Accumsan antehabeo at brevitas hos laoreet nibh vereor.\n\n"
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "Abbas capto gilvus hos jus lenis pertineo suscipit valde vulpes.",
+            "title": "Cogo consequat defui eligo iriure lenis minim sit vindico.",
+            "width": 342,
+            "height": 239,
+            "target_type": "file",
+            "target_uuid": "1ea0aada-89e7-41a5-9cf4-d0e1020a5c27"
+        }
+    ],
+    "field_tags": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "118a1971-3382-4def-b754-023e8cfde8f9"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a5a93497-b66e-407f-b6ce-0465b947c398"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "74e6ff3b-f97f-4586-8837-9b4f3d1e6d00"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8cf3778b-c106-4f3d-a3a4-468cc92ddde8"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "93bea554-82f5-41ab-8a33-969808f0e81f"
+        }
+    ]
+}

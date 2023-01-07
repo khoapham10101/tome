@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "05f8e106-f49a-4f93-af1d-d2be192e5996"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3b0f8a94-e47c-453f-9eab-e2cc3a995918"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/gemino-nostrud"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

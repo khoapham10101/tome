@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b4a8998c-f12e-48b6-a03a-ed818afffd6a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/36fac242-c784-4774-aebf-0a85e8d495e9"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/abluo-pertineo-tum"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

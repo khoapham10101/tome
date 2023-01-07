@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d7e9341c-e61f-46dd-a8a2-e68576848712"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3b2789db-21c7-49e8-8f4c-244b41f3a4ae"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/paratus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

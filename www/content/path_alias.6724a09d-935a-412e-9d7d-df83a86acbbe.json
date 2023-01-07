@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "6724a09d-935a-412e-9d7d-df83a86acbbe"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1455596f-2edb-4932-a5ea-62f5a2ba4682"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/ulciscor-wisi"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

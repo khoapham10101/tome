@@ -1,0 +1,56 @@
+{
+    "uuid": [
+        {
+            "value": "8c6100ab-235c-4ee7-97cc-875af87c1876"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "tags",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "7a0c6132-9274-450c-b161-c0bf291e8d68"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-12-07T21:15:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "f0784ad9-0392-497f-a2e4-cee9e8fce093"
+        }
+    ],
+    "revision_log_message": [
+        {
+            "value": "Eros ludus volutpat vulputate. Amet ille jugis pala quidne quis scisco sudo. Ille nulla singularis ut. Abluo amet ille immitto iusto jumentum nisl odio similis. Damnum gemino genitus quidem.\n\nCommodo commoveo esca gilvus interdico melior pala ratis utinam. Defui enim gilvus letalis pecus praesent tamen tum utrum verto. Ad aptent autem exerci ideo luctus mauris pagus quis uxor. Amet commoveo populus tation. Luctus praesent wisi. Abigo enim feugiat loquor nulla odio persto sit te ymo.\n\nAdipiscing brevitas causa ille modo persto populus qui verto. Blandit damnum huic neque paratus tincidunt tum. Distineo imputo occuro. Ad causa tum. Abigo aliquip appellatio aptent. Gilvus gravis ideo nutus saepius.\n\nIdeo luctus pertineo secundum voco. Commodo fere venio. Camur capto cogo ex feugiat odio quibus saepius verto vindico. Accumsan bene exputo gravis imputo letalis. Aliquam nisl praemitto. Abdo bene conventio hendrerit huic. Abico autem capto neo proprius.\n\nHos occuro os praemitto qui tation. Cogo genitus ideo jugis mos nisl pala sit valde. Dolore esse iriure jumentum metuo modo natu persto tego vindico.\n\nAbbas aliquam consequat dignissim duis iriure ludus nutus tego uxor. Esse proprius ymo. Blandit eros facilisis iustum jugis sit ullamcorper usitas. Consequat conventio dignissim hendrerit minim pagus pneum rusticus similis. Illum jumentum natu nimis turpis typicus velit. Acsi aliquam cui elit sed. Immitto jumentum nimis. Abluo antehabeo humo luptatum modo. Appellatio erat facilisis haero iustum minim quia.\n\nCommoveo iriure jumentum jus luctus magna persto plaga pneum refoveo. Abbas decet si. Ad in inhibeo mauris odio os qui sagaciter scisco vulpes.\n\nAccumsan appellatio caecus ea exputo laoreet similis turpis. Camur capto causa diam exputo ille pecus qui vindico. Adipiscing consequat esca ideo luptatum meus proprius quia quidem similis. Dolus exputo magna minim obruo pertineo. Abluo aliquam interdico mauris vero.\n\nDefui dignissim importunus iustum mauris patria refero ut venio. Consectetuer exerci inhibeo macto magna os refoveo saluto vicis. Eum occuro praemitto qui. Abico gilvus lobortis luptatum occuro quibus. At camur eum roto tation usitas. Aliquam consequat jus quis secundum vel. Laoreet luctus si suscipit tum. Abigo abluo immitto quibus singularis wisi.\n\nFacilisis ille imputo jus lobortis valetudo. Feugiat haero metuo. Eros premo similis typicus. Defui eligo haero nobis saluto. Acsi appellatio in pneum qui quis sit torqueo vel velit.\n\nAd at dolore hendrerit hos obruo quis validus. Gilvus roto vulpes. Elit loquor minim tincidunt typicus. Aptent gemino genitus incassum praesent secundum usitas. Abdo et molior persto vicis.\n\nEuismod nostrud obruo occuro persto tamen turpis typicus. Ad aptent mauris minim qui roto. Consequat dolus interdico persto quadrum quae tation tum verto wisi. Et fere ludus pneum tego utinam velit. Dignissim ex iusto lenis neque roto uxor.\n\n"
+        }
+    ],
+    "status": [],
+    "name": [],
+    "description": [],
+    "weight": [],
+    "parent": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "93bea554-82f5-41ab-8a33-969808f0e81f"
+        }
+    ],
+    "changed": [],
+    "default_langcode": [],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/ea-erat-hendrerit-vel-vulpes.",
+            "langcode": "und",
+            "pathauto": 0
+        }
+    ]
+}

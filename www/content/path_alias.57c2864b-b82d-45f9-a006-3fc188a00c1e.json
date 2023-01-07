@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "57c2864b-b82d-45f9-a006-3fc188a00c1e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f1d43485-79f1-47ab-8a79-28b3eddf661c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/euismod-facilisis-gravis"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

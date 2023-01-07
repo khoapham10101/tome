@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c802062b-90a0-4a1e-b5c1-d7f0599380bd"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0746ecad-d1fc-400f-ad1b-cad9fce76144"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/cogo-jumentum"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

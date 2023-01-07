@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f8109493-5338-406b-929f-1d952d38f7cd"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0cbe65f8-fa3c-4575-bf58-e8a026f64894"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/acsi-duis-haero"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

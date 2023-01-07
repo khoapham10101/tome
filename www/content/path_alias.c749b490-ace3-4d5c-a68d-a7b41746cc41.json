@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c749b490-ace3-4d5c-a68d-a7b41746cc41"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/6273b9a9-b366-4e9e-8825-91b8276e001e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/abico-eligo-sudo-validus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

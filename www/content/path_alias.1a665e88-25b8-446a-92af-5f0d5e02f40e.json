@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1a665e88-25b8-446a-92af-5f0d5e02f40e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3dffb27e-5194-4f15-baa2-b41becb9d05b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/ille-sino"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "aa33dbed-ce7b-4c6a-9e27-15964ab1d32a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/26a1abe3-8032-455d-801f-adc12ee82117"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/cogo-hos-rusticus-tamen"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

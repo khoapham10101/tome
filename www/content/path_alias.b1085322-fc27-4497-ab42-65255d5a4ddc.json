@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b1085322-fc27-4497-ab42-65255d5a4ddc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f2467dc1-aec7-44b1-8b3d-ff382964d15d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/humo-minim-odio"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c47e311b-1254-43ae-9331-ba832ced762c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/a2b2456c-c7b5-4388-98f6-b9425cca3b40"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/conventio-molior-zelus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

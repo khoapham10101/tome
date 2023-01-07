@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7b78a3be-59aa-400c-b991-8078b928bda1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3a549458-d70e-4792-af8f-dbff73c5f9a6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/erat"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

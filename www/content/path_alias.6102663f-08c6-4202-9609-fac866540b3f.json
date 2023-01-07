@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "6102663f-08c6-4202-9609-fac866540b3f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f96e82c8-55cb-47b2-889d-04c8f5010840"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/hos-praemitto-torqueo-valde"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

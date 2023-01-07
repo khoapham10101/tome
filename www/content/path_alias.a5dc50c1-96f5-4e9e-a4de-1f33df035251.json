@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a5dc50c1-96f5-4e9e-a4de-1f33df035251"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/4df5d5ca-e661-467c-8a60-6cf86f63d262"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/refero-volutpat"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

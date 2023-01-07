@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7d279bf7-f01e-4655-94d3-aabeec72958b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/55b995cd-8632-46d6-b8bc-49aaa362e2d5"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/gemino-venio-vulpes"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

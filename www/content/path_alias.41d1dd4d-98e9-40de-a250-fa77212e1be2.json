@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "41d1dd4d-98e9-40de-a250-fa77212e1be2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ff98e29a-6b33-4f3d-90db-71d65f5aa2bb"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/caecus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "efd55981-3d5e-4197-94ed-a9b99dc8fc26"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/taxonomy\/term\/113"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/comis-damnum-ea-et-eum-jugis-nunc-nutus-sudo."
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "6bdb0eb0-66c0-4dcb-9a50-ac5e1f089201"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0c914792-b8a4-421f-8d58-304cad9604ae"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/ea-saluto-suscipere"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

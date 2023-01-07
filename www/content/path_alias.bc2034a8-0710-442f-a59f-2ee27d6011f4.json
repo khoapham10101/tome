@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "bc2034a8-0710-442f-a59f-2ee27d6011f4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/12fbee40-2512-4e81-a278-8387a339dcd3"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/amet-humo-vulputate"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

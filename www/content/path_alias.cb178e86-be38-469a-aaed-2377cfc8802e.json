@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "cb178e86-be38-469a-aaed-2377cfc8802e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/5d7115e3-af9c-48f6-9d33-3a4baf84a31b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/elit-usitas-ut-verto"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

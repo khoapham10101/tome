@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1eac9fb0-949a-4e82-8205-83a6df4fb187"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/c75b78a1-45bf-40e3-b68e-76b26aaa4fb5"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/capto-iustum-quia-refoveo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

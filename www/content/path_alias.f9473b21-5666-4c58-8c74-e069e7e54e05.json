@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f9473b21-5666-4c58-8c74-e069e7e54e05"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/e3cb5f4c-94f7-430b-9813-10920af41eb0"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/immitto"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

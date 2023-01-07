@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "43b383b0-72a3-4374-a7fb-f4cf78b038a1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ebf6cf84-99e2-4b47-a5cb-6447b9dbda89"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/iusto-metuo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

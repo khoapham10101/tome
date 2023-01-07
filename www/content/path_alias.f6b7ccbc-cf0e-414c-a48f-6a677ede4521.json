@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f6b7ccbc-cf0e-414c-a48f-6a677ede4521"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/d2ae96a9-0306-485f-9544-a027f183ad0c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/blandit-huic-mauris-turpis"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

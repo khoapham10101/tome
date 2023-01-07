@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "4e3bb11a-b95f-4e5a-b28a-27cc9cf16df8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/98edc374-71f2-49bf-bf54-59cddf2ff147"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/abluo-dolus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

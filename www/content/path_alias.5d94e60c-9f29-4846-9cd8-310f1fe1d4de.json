@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "5d94e60c-9f29-4846-9cd8-310f1fe1d4de"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/48144d35-39b3-4874-bc06-5d6405b791cd"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/luctus-molior"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

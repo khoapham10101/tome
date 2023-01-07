@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d21ec73d-b94f-4349-8723-c03934d72a59"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/47ea4e1c-26fe-4488-b74d-c16f30f361f3"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/iustum-quibus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

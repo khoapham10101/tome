@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ddb48549-daeb-49a4-bdd7-99049ae406af"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0bd59022-3679-4b80-b9f4-ff8193abe22b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/haero-secundum"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

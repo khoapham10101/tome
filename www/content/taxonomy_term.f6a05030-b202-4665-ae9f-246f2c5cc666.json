@@ -1,0 +1,56 @@
+{
+    "uuid": [
+        {
+            "value": "f6a05030-b202-4665-ae9f-246f2c5cc666"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "tags",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "7a0c6132-9274-450c-b161-c0bf291e8d68"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-11-13T10:07:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "e5c3b379-0dd0-4c71-8b8b-1cf235008711"
+        }
+    ],
+    "revision_log_message": [
+        {
+            "value": "Genitus mauris secundum. Aptent enim eros lucidus pagus probo quidne virtus. Abluo quae ymo. Fere luctus metuo. Hos jumentum nimis nutus plaga sino torqueo utinam. Iriure macto neque odio paratus pecus pneum wisi. Abico antehabeo elit ille laoreet mos paulatim saepius secundum tation. Similis typicus ulciscor utrum vereor.\n\nBrevitas et facilisis iusto. Consequat damnum dolus ideo immitto melior metuo pala velit. Defui gemino ille inhibeo paulatim pertineo qui singularis usitas. Causa consequat esse gilvus iaceo lenis obruo pertineo sino. Abico antehabeo erat ille iustum magna olim quae tum ullamcorper. Euismod importunus jumentum ludus nibh os probo velit virtus.\n\nImputo pecus te veniam wisi. Lobortis nibh ut. Brevitas eligo importunus loquor pecus sagaciter saluto suscipit. Autem eligo gravis iaceo mauris natu nobis tamen velit vicis. Facilisi minim suscipere. Camur damnum enim gilvus in os venio. Abluo ad diam exerci hendrerit magna nobis uxor vulpes ymo. Consectetuer enim esse obruo refero secundum tincidunt. Damnum diam immitto macto quae suscipit tincidunt turpis verto.\n\nCapto elit lenis minim odio probo sit veniam. Abluo brevitas fere haero ideo in metuo suscipere. Brevitas camur consectetuer damnum duis ex melior pagus suscipere virtus. Abluo diam erat importunus mauris nibh paulatim quia sino virtus.\n\nBrevitas caecus consequat enim esse et ex in populus tego. Antehabeo augue comis diam eu hendrerit jus sagaciter singularis valde. Dolor lenis lobortis melior minim probo quadrum saluto voco. Aliquip camur eligo jus mauris melior saepius.\n\nRefoveo saluto typicus. Gemino in metuo modo populus praemitto qui ulciscor. Immitto sudo utrum vereor. Abdo ex haero loquor ludus melior plaga sudo tation zelus.\n\nHendrerit illum imputo nostrud patria quadrum quia usitas ut validus. Antehabeo duis in iusto pneum quae volutpat. Fere genitus humo loquor minim nunc paulatim quibus utinam velit. Consectetuer distineo veniam. Autem causa enim importunus magna natu neo nisl typicus usitas. Causa commoveo dignissim eum genitus neque quidem quidne. Caecus duis eum hendrerit os quibus. Commodo gemino iriure loquor melior pertineo saluto venio.\n\nAugue autem causa ea exputo fere nostrud probo quidem scisco. Amet dolus ex facilisi iaceo iriure modo molior quidne. Diam distineo odio paulatim te. Defui duis inhibeo natu praemitto refoveo rusticus si tamen vero. Loquor quia saepius tego. Conventio distineo letalis nostrud plaga proprius secundum tego. Abigo accumsan cui illum immitto in luptatum rusticus.\n\nAbbas caecus elit exputo immitto. Autem decet ea hos occuro scisco singularis tincidunt. Eum quis wisi. Aliquam importunus validus. Blandit comis illum macto modo quibus sudo valetudo venio. Jus loquor neque patria refero torqueo uxor wisi. Aptent defui esse interdico nibh oppeto torqueo ymo. Immitto importunus inhibeo metuo sino tincidunt velit. Aptent caecus esca immitto tation typicus.\n\nCogo exerci gravis hendrerit imputo luctus macto nimis oppeto saepius. Accumsan at autem dolor feugiat luptatum pecus similis vindico. Bene gravis modo nutus saepius volutpat. Damnum defui euismod fere molior. Abbas causa et haero importunus lobortis meus. Consectetuer eu mauris meus neo nisl odio populus suscipere. Decet dolus duis huic luctus ludus quadrum quia tincidunt uxor. Ad amet feugiat imputo iusto iustum modo pecus veniam wisi.\n\nCommoveo consequat iustum plaga praemitto saluto suscipit. Aptent et nimis pala scisco sed. Dignissim ex in. Ad huic nisl quae secundum tamen. Et odio pneum praesent quadrum quidem si.\n\nLudus tamen tego. Esca exerci validus virtus volutpat. Qui tation turpis ut. Enim gravis neo plaga tincidunt uxor wisi. Damnum duis enim humo ille lobortis lucidus sagaciter vulpes. Iaceo quia uxor. At dolus erat nostrud populus suscipere valetudo. Appellatio pala scisco utrum. Nostrud patria vulpes vulputate. Abdo damnum nimis. Importunus interdico pala. Abluo hendrerit ludus mauris odio persto populus uxor veniam vindico.\n\n"
+        }
+    ],
+    "status": [],
+    "name": [],
+    "description": [],
+    "weight": [],
+    "parent": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c92dff91-f714-4b54-9026-9a109d0caf80"
+        }
+    ],
+    "changed": [],
+    "default_langcode": [],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/brevitas-commoveo-ideo-in-laoreet.",
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ]
+}

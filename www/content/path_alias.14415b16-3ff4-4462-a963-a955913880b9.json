@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "14415b16-3ff4-4462-a963-a955913880b9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/e91ec9b8-144a-4ceb-9ef1-9cfa9c265dff"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/commoveo-sino-ulciscor"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

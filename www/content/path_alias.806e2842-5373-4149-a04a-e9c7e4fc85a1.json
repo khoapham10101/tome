@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "806e2842-5373-4149-a04a-e9c7e4fc85a1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7776d4a1-5af8-43a2-b587-84545db14743"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/exputo-0"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

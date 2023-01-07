@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e4935887-e5c3-44dc-9bcc-f4cceef88807"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/56960b46-32fd-415a-b1d7-54b3c290b358"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/abigo-comis"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

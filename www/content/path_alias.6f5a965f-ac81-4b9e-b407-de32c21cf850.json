@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "6f5a965f-ac81-4b9e-b407-de32c21cf850"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/c08be6d1-2702-4e07-adeb-cd35adbff342"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/loquor-magna-refoveo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

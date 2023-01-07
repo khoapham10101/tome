@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a721a605-4315-4b49-af4d-72ef1f7f8742"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/aa99d8a0-a58a-4574-b3bd-680131555be5"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/damnum-quibus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

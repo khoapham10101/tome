@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "5d8adcf1-4418-4f1c-98df-f2282b0d2854"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/e84d17b4-8ab9-4dc5-99ec-27ef47e9e46b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/genitus-humo-ideo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

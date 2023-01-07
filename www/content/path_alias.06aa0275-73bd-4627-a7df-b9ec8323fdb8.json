@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "06aa0275-73bd-4627-a7df-b9ec8323fdb8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/bb4af4f7-d004-4332-a229-100f7aac110e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/capto-ex"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

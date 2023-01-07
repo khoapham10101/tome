@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a61fe3a3-158d-4f4d-aea4-195436e701e7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/5001df8a-ad4e-46ff-9cbe-ced9e970a575"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/lucidus-nisl-populus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

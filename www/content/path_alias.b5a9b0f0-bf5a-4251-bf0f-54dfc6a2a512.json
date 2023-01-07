@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b5a9b0f0-bf5a-4251-bf0f-54dfc6a2a512"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f1e78583-04a3-4a34-9665-aaeda6ad7e16"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/eligo-eu-iaceo-quidne"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

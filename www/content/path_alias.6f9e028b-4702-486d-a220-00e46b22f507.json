@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "6f9e028b-4702-486d-a220-00e46b22f507"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/d368ed28-4dd2-48a6-a59e-a0fbebb36335"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/acsi-si-turpis"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

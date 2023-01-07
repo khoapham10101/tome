@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "174c1155-8d21-4585-aa26-17a3d4768bd3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/5988ebd0-df84-4667-9f3e-2cf88319dfc7"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/lucidus-plaga-quadrum-ulciscor"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

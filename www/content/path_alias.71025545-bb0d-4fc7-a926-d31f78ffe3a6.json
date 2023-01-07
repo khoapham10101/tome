@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "71025545-bb0d-4fc7-a926-d31f78ffe3a6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/828e98d4-9678-4b8a-8801-230ae565fd49"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/quis-vicis"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

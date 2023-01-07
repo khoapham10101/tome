@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a0741e59-16e2-4313-94dc-d496df34372a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2403ffdc-6760-4b48-9801-aeafee0b0a9b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/suscipere"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

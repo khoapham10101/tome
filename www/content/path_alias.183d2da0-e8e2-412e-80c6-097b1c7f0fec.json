@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "183d2da0-e8e2-412e-80c6-097b1c7f0fec"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/e41c900b-1c02-471c-8206-e08c7d491811"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/nobis-plaga-tum"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

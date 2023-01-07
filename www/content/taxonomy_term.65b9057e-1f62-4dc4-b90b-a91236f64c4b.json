@@ -1,0 +1,56 @@
+{
+    "uuid": [
+        {
+            "value": "65b9057e-1f62-4dc4-b90b-a91236f64c4b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "tags",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "7a0c6132-9274-450c-b161-c0bf291e8d68"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-10-17T20:56:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "e5c3b379-0dd0-4c71-8b8b-1cf235008711"
+        }
+    ],
+    "revision_log_message": [
+        {
+            "value": "Abbas abico diam interdico jumentum tincidunt venio. Abigo acsi fere iustum populus. Duis enim facilisis gravis iaceo luptatum minim obruo praesent quidem. Antehabeo patria utinam utrum.\n\nCapto distineo dolor duis lenis oppeto suscipit velit. Defui ideo plaga typicus. Aliquip tum vereor. Caecus gemino pertineo sit torqueo turpis.\n\nCogo facilisis luctus nulla occuro os sit te. Immitto pagus volutpat. Premo roto si velit veniam. Damnum erat fere incassum vulpes. Abdo dolus metuo tum ullamcorper ut. Abluo causa te tego turpis uxor. Ad consectetuer feugiat laoreet populus refoveo si. Fere letalis pertineo tego vereor. Abdo camur gravis nobis nutus veniam. Autem ea immitto melior torqueo.\n\nEsca praemitto quadrum quibus utrum volutpat. Acsi aptent humo. Adipiscing fere nisl paulatim premo quibus quidem saepius. Abigo accumsan incassum interdico plaga praesent saluto sit vulpes. Ad camur et genitus luptatum mauris te validus. Augue consequat ideo loquor olim pneum sed zelus.\n\nAbluo aliquam exputo humo nimis os paratus. Dolus pala quis. Causa feugiat iaceo nutus turpis. Acsi augue facilisis in mauris saluto. Blandit molior pecus quis refoveo. Aptent facilisis quia tum turpis. Dignissim quadrum suscipere. Elit et lobortis lucidus luptatum nunc. Cui exerci loquor minim nisl os paulatim valde.\n\nCommoveo erat in lobortis paulatim ut. Antehabeo autem gravis jus meus nobis premo qui sit utinam. Commoveo decet eum importunus luctus secundum. Abico molior natu quadrum tamen usitas verto. Camur torqueo utinam. Consectetuer dolore esse loquor ratis torqueo uxor vereor. Pala praesent proprius. At nulla persto refero. Duis immitto imputo jugis lucidus ludus neo paratus uxor verto.\n\nEa illum laoreet neque nibh nutus quadrum rusticus singularis. Aptent iusto ludus persto praesent probo quibus refero. Elit gilvus inhibeo nostrud olim os premo refoveo verto. Aliquip distineo gemino ideo interdico iustum ludus nostrud patria ullamcorper. Dolus nobis sit. Commoveo eros magna mauris saepius similis singularis sudo. Abico appellatio consectetuer damnum ludus oppeto tum. Comis incassum iustum jugis luptatum melior nulla suscipit torqueo.\n\nEuismod exerci facilisis huic nutus populus praesent quis tincidunt. Eu euismod quadrum saepius. Amet fere ullamcorper. Quidne sudo uxor. Abbas antehabeo capto natu quidem velit. Abico aliquip esca ideo neque oppeto suscipere ullamcorper. Dolore et illum jugis sagaciter. Ludus occuro singularis. Aptent humo suscipere. Esse facilisis praesent qui tincidunt usitas venio.\n\nAntehabeo capto eu gravis luctus zelus. Importunus magna nulla persto saluto tego vero. Abdo amet euismod feugiat lobortis proprius valetudo. Facilisi iaceo pertineo. At et gravis hendrerit in inhibeo minim nimis veniam.\n\nImportunus incassum patria populus sit utrum vindico. Blandit haero importunus incassum persto probo secundum sudo uxor validus. Abbas abluo brevitas consectetuer humo odio pneum sino valetudo.\n\nCommoveo haero huic jumentum premo. Brevitas genitus illum patria sit typicus vereor. Aptent conventio eros exputo jugis olim pala. Damnum dolor esse ex haero imputo meus sino. Defui fere incassum luctus similis valetudo vulpes.\n\nAutem consequat dignissim nunc. Et humo nunc valde. Jugis loquor macto quia tamen tum venio. Aliquip conventio diam haero letalis pala paulatim persto quidne. Blandit eum luptatum nostrud premo tamen. Capto te ulciscor vel veniam. Abico consectetuer esca inhibeo suscipit tego verto. Accumsan blandit commodo conventio metuo molior nutus premo singularis turpis. Eros eu iriure lenis te ut valde. Appellatio enim et jus luctus occuro refoveo.\n\n"
+        }
+    ],
+    "status": [],
+    "name": [],
+    "description": [],
+    "weight": [],
+    "parent": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "40af6353-2e0b-4b74-a57b-51ec52aa44c1"
+        }
+    ],
+    "changed": [],
+    "default_langcode": [],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/abluo-augue-ullamcorper.",
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e4175a45-23d5-4c69-ade8-4357c9b75087"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/42ab85a0-91d6-4ded-bc41-7af6ddddd8bd"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/gravis-magna-tincidunt"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

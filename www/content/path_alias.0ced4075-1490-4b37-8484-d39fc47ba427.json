@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0ced4075-1490-4b37-8484-d39fc47ba427"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/6c381e2e-1896-4d4b-94a8-2853e98b02b7"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/autem-immitto-loquor-quadrum"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

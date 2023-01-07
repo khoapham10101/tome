@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "320cb69d-9896-4538-9d88-7be525c6a3d4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/a976b514-8815-4281-9b7e-c32f59e785be"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/probo-quia-tum"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

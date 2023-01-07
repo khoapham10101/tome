@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f137376b-140a-4af8-bea2-40a7a27d67f8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/50381291-4d99-4fae-b07a-d0476eb90506"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/huic"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

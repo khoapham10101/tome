@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "cfbe3796-e18e-4ac0-99b9-f51e8939516e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/37c1e3bf-7d45-4038-943d-5bcdd0fafa99"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/sudo-valde"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

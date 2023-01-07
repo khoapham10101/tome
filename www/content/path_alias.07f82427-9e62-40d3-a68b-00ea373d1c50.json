@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "07f82427-9e62-40d3-a68b-00ea373d1c50"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1e8c10b9-eaf5-44e0-9289-b4db0e1e2ede"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/camur-probo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

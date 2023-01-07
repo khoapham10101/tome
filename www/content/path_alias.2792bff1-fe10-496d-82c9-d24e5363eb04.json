@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "2792bff1-fe10-496d-82c9-d24e5363eb04"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/71daacff-6d2d-465a-a54a-d2c3894a839f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/iustum-loquor-pala-quis"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

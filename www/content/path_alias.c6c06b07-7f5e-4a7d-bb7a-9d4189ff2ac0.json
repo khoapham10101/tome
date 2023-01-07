@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c6c06b07-7f5e-4a7d-bb7a-9d4189ff2ac0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/55e53641-d119-4dda-a93e-3a73c2137aa3"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/tamen"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

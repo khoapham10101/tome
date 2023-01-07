@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e3ae7763-719d-4c99-9dea-dc2a09eb9427"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/5978b379-8661-421c-a6a5-3841e050bc7b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/molior-1"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

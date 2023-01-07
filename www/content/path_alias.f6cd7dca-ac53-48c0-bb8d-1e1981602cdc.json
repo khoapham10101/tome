@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f6cd7dca-ac53-48c0-bb8d-1e1981602cdc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b1f37ae8-27bc-4ba5-be78-5b71c252381e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/aptent-distineo-gilvus-roto"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

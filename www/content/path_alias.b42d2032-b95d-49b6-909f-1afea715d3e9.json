@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b42d2032-b95d-49b6-909f-1afea715d3e9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/622d9852-3416-4ab6-9803-279774ee31bd"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/paratus-valetudo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

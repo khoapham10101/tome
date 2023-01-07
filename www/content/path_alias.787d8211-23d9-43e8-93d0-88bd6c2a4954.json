@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "787d8211-23d9-43e8-93d0-88bd6c2a4954"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/73c1c951-9559-4342-90f2-08d093b559ac"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/fere"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

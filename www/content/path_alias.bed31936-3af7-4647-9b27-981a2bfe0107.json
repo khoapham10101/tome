@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "bed31936-3af7-4647-9b27-981a2bfe0107"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1554e875-8163-4500-bb8f-957db504cf72"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/ibidem-ut"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3ffe70ab-a637-40ef-acbf-23cd0609fd92"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/9a589052-2000-4204-a3ec-b1c6c68663aa"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/interdico-turpis-utrum"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0c8f7f5f-873a-4b4b-8bdb-d381446a23b4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/4507ddcb-1564-4cf5-8fd2-e656c67c9b98"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/hos-huic-singularis-ymo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

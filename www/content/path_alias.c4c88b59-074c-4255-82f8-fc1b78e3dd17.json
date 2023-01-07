@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c4c88b59-074c-4255-82f8-fc1b78e3dd17"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b90fc022-fc34-420c-8275-0de117bfde58"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/decet-nisl-premo-vereor"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

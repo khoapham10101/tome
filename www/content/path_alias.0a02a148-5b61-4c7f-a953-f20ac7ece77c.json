@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0a02a148-5b61-4c7f-a953-f20ac7ece77c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7d19d931-593c-47d2-a856-3db02dadb687"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/dolus-gilvus-tamen-vel"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

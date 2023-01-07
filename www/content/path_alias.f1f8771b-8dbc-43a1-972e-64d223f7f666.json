@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f1f8771b-8dbc-43a1-972e-64d223f7f666"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f07770a5-9391-4308-8a26-f11198f62ddb"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/conventio-lobortis-verto"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

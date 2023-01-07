@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a5c7bbb4-320e-4f29-bbf2-777345c9aa40"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/dcfcc04a-084f-406b-b843-bdf1973f570f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/zelus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

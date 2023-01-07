@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ac3898f4-0608-45e1-b4da-d8759c0a9ab9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/30d5ac7e-75b7-42f6-bf91-05bcaa097861"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/damnum-rusticus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

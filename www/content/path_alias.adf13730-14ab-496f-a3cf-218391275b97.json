@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "adf13730-14ab-496f-a3cf-218391275b97"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f07244a5-733a-4061-9c08-e21a82f7c511"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/dignissim-proprius"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

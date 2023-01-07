@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "133223ee-2715-4078-935a-479bbfae85bb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/c282ca81-76b3-4d70-8e69-47a464d84ed5"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/rusticus-sagaciter"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

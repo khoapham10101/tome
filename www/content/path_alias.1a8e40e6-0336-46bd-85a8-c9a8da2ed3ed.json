@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1a8e40e6-0336-46bd-85a8-c9a8da2ed3ed"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7b85c126-8d81-417e-adda-f489d3cebcad"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/lucidus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

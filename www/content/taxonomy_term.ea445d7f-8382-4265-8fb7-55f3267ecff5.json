@@ -1,0 +1,56 @@
+{
+    "uuid": [
+        {
+            "value": "ea445d7f-8382-4265-8fb7-55f3267ecff5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "tags",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "7a0c6132-9274-450c-b161-c0bf291e8d68"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-05-05T17:44:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "e5c3b379-0dd0-4c71-8b8b-1cf235008711"
+        }
+    ],
+    "revision_log_message": [
+        {
+            "value": "Eu nisl vulpes. Autem causa esse eu exputo melior vel. Camur eu pertineo. Commodo laoreet vulputate. Camur ea sudo. Et jumentum nulla quae. Gemino iriure paratus refero. Abbas brevitas dolor et huic lucidus nimis paratus turpis. Loquor praesent suscipere.\n\nErat iaceo proprius sit tamen. Iaceo quibus saepius. Feugiat humo iaceo jugis lobortis nisl persto velit vereor. Comis damnum facilisi hendrerit jus loquor obruo utrum. Abluo defui feugiat huic immitto interdico meus rusticus. Accumsan acsi et facilisis iaceo pala pertineo quae suscipere ut. Abdo cogo cui eligo letalis magna occuro olim premo. Aliquip cogo comis enim facilisi ludus os plaga quis.\n\nEligo facilisis nimis tum validus verto. Diam distineo ille imputo interdico sed. Ad blandit commodo iustum neque plaga premo quidem. Causa genitus iusto lenis neque paratus praemitto tego validus. Autem hos mauris valetudo voco. Adipiscing tation usitas. Abigo huic laoreet lucidus pneum suscipere. Commodo consequat ex immitto tego wisi. Loquor pala praemitto quidem. Gravis jugis nisl patria sed virtus.\n\nCapto eligo quae. Elit feugiat luptatum macto meus natu os patria quis sino. Abbas elit iaceo nimis pagus praesent saepius utrum. Ille incassum metuo rusticus sino. Dignissim nisl refero scisco. Damnum lobortis mauris saepius.\n\nCamur hos iustum meus odio quadrum sit. Causa commoveo consequat facilisis immitto paratus persto plaga venio ymo. Acsi aliquip at blandit letalis luctus melior natu paulatim sit. Augue exputo ibidem luptatum quia refoveo rusticus sed te. At gravis ideo scisco torqueo utinam.\n\nExputo humo meus. Neque nibh patria sudo vero. Brevitas causa conventio facilisi neque qui vero virtus wisi. Amet blandit commoveo exputo in jumentum luptatum nibh quae singularis. Ad et facilisi ideo os quadrum si veniam. Aliquip autem dolus eligo ille rusticus scisco. Abigo dignissim quae.\n\nDistineo dolus exerci iusto nutus si typicus vulpes. Cogo dignissim ex mauris minim volutpat. Damnum immitto nisl obruo rusticus. Brevitas dolus haero importunus lobortis molior tamen vel. Amet commodo erat praesent. Blandit causa luptatum similis ulciscor valde veniam. Aptent facilisi hos illum oppeto quadrum scisco ut verto.\n\nAliquip eu ex facilisis iustum lenis tum usitas. Gemino tation vereor. Cui facilisi haero jus premo ut. Aptent diam inhibeo nostrud secundum. Amet camur cui nibh nostrud refoveo sagaciter turpis venio. Camur paratus zelus. Abdo lenis obruo odio ullamcorper. Cogo facilisi ille paulatim sed tamen valde ymo.\n\nDiam facilisis iusto persto. Amet brevitas elit exputo facilisis huic mauris. Comis commodo oppeto ullamcorper. Adipiscing damnum olim velit. Exerci genitus immitto luptatum natu vindico virtus. Appellatio dignissim exerci fere lucidus probo. Commoveo os qui. Ad dolor te. Adipiscing et rusticus vulpes. Aliquip augue gilvus modo nisl proprius similis validus vulputate.\n\nAliquip bene duis ea facilisis metuo pecus singularis verto. Abico luptatum obruo os paratus praesent scisco wisi. Accumsan aliquip aptent ea huic mos neo nunc os paulatim. Abigo bene decet defui imputo nulla oppeto valde vindico. Abbas melior nobis nunc praemitto utrum.\n\nDistineo jugis obruo paratus tincidunt turpis ullamcorper. Bene caecus cui enim luptatum neo praesent sagaciter vindico voco. Blandit dolus nibh nutus scisco singularis. Abico interdico luctus nibh saluto sit. Comis turpis venio. Acsi decet distineo mauris quibus zelus.\n\nAbigo damnum pagus quadrum similis suscipere utrum. Iaceo incassum jumentum nibh. Dignissim gilvus metuo suscipere turpis. Aptent cogo ille modo pecus plaga roto si vero.\n\n"
+        }
+    ],
+    "status": [],
+    "name": [],
+    "description": [],
+    "weight": [],
+    "parent": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "702d863e-084d-4ace-824b-00bdcb16bcd9"
+        }
+    ],
+    "changed": [],
+    "default_langcode": [],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/abluo-aptent-capto-commoveo-nulla-paulatim-praesent-usitas-valetudo-verto.",
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ]
+}

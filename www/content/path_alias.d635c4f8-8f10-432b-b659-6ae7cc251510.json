@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d635c4f8-8f10-432b-b659-6ae7cc251510"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3f5cedcf-b812-4ded-8f7e-63129ec81652"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/populus-quae-ratis"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

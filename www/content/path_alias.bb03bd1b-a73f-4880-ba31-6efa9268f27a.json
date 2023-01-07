@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "bb03bd1b-a73f-4880-ba31-6efa9268f27a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b422d011-4c0b-4646-83fe-2144d605bbf7"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/cogo-lenis-vindico"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

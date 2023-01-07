@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "df0e3885-53bf-4830-b63d-849fb805068f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f0e13185-8f76-4cd0-9e0d-6d758922beaf"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/ideo-odio"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

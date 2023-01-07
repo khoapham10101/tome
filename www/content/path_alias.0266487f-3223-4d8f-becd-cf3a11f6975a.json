@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0266487f-3223-4d8f-becd-cf3a11f6975a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7e8479bc-44a6-45fd-98a3-228d7e7b1721"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/lucidus-luptatum"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7f5bd0fc-ebfc-4009-90e5-6574c9b79e39"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7a4ae870-ef63-44e7-b059-3218309bf110"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/autem-minim-quadrum"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

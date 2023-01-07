@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "32ecd7ec-58f9-49b8-b643-1a7336e0dac1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0263bf41-59d1-4cc4-b8d4-4a2be9c84b2c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/dolus-os"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

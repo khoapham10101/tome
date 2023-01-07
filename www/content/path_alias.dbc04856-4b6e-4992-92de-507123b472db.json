@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "dbc04856-4b6e-4992-92de-507123b472db"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/d48864f9-61da-4596-9ae0-16837bb26e82"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/dolus-verto"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

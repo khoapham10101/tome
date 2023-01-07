@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "20e3d443-3aab-45f2-acc2-61ce888888f5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/e9b34eb0-f237-4258-b759-403d88e43670"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/quibus-zelus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

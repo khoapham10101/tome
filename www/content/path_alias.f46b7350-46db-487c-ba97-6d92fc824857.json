@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f46b7350-46db-487c-ba97-6d92fc824857"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/6202cf9a-4cd3-43a7-a95a-002a91f59afd"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/jumentum-tamen"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

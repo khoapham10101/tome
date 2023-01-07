@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "601f9ad7-91e3-40e9-b1af-5bb8d3ad731c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b772ed07-335a-4221-9c8f-187d277c6d6f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/diam"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

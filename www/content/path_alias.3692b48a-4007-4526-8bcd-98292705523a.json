@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3692b48a-4007-4526-8bcd-98292705523a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/cb32ac4e-e1c5-45ae-98a5-bf40fd1f7972"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/bene-dolore"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

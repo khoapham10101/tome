@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "418a43a2-d7a1-4dfd-b751-9adbad6bd8d0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/a21e76af-fca8-4b6f-b3e4-829757df42d1"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/iustum-si"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

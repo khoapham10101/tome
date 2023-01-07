@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "bbfe444c-72c5-4286-b65b-59970be20688"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/dcd0b1fe-2eff-4bb3-8fc4-a975d8d5ada6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/modo-quidne-sagaciter"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

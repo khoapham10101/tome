@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "863e8efc-b347-489f-8ce3-df66099dfb5e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1af1ebd1-269c-4144-90cb-4f5ca106fa3f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/commoveo-0"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

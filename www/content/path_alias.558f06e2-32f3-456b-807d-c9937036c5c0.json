@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "558f06e2-32f3-456b-807d-c9937036c5c0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/390895d1-5986-4140-8219-7dc6f365911f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/eum"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

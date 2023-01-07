@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "05a88fbe-c639-4eed-87d0-a0784d8125a1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/82dc9645-4064-45a2-80b5-f52de431517e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/eu-pagus-veniam"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

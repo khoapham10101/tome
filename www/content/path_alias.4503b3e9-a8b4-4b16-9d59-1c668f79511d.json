@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "4503b3e9-a8b4-4b16-9d59-1c668f79511d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/80666d38-92a0-44ce-b425-bb5a0b279701"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/nunc-tamen"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

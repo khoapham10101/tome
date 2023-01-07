@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f22f736f-c7ea-4465-9242-df9422d94053"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/54ff37db-f6a5-4162-b0e7-e72e314e714c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/defui-iaceo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

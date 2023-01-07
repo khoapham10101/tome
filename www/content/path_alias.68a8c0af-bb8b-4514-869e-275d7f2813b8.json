@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "68a8c0af-bb8b-4514-869e-275d7f2813b8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/af8531cd-fae4-4c42-8015-d4454f51d467"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/haero-incassum-paulatim"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

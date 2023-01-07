@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "94da2ba8-cea1-4532-901f-91e21b813486"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/af14c64e-f092-4fb7-a14f-95b035920ef7"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/diam-elit-ex"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

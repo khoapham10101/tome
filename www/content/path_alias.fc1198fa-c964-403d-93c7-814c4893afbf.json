@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "fc1198fa-c964-403d-93c7-814c4893afbf"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/91d04d02-4fdd-46d5-8bea-7923e2b619dc"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/causa-persto-vel-verto"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

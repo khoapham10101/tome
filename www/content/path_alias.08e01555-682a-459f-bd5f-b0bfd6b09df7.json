@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "08e01555-682a-459f-bd5f-b0bfd6b09df7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/64df97e9-cd54-47ac-abd3-1a3c73947dab"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/scisco-utinam"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

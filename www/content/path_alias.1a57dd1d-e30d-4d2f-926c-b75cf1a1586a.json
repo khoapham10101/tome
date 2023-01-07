@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1a57dd1d-e30d-4d2f-926c-b75cf1a1586a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/5ad40f22-d47e-449f-8314-ca39f94b9402"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/abico-huic-si-verto"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

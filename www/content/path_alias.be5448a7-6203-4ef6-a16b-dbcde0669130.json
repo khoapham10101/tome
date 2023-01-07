@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "be5448a7-6203-4ef6-a16b-dbcde0669130"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/176f0456-e332-4978-bfbc-a1fd0757f8d6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/amet-erat-ludus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "uuid": [
+        {
+            "value": "59d2d528-1946-4522-b530-83d48b6bd044"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "tags",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "7a0c6132-9274-450c-b161-c0bf291e8d68"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-01-13T19:01:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "f0784ad9-0392-497f-a2e4-cee9e8fce093"
+        }
+    ],
+    "revision_log_message": [
+        {
+            "value": "Inhibeo plaga si sit vero. Ad damnum exputo facilisis tamen. Abluo gravis pneum quia sagaciter. Camur conventio exputo haero imputo nobis refero saluto valetudo. Aptent autem facilisis quia velit. Amet bene blandit capto eu ibidem importunus macto refero suscipit. Eros melior nostrud odio tamen.\n\nAccumsan aptent blandit brevitas defui eros pala premo turpis valde. Os paulatim roto usitas wisi. Eligo nulla populus sudo wisi. Augue autem comis commoveo laoreet sino vero zelus.\n\nAbigo aptent causa commodo ibidem. Causa cogo huic iriure oppeto os refero roto tego. Blandit iusto persto singularis. Acsi immitto praesent. Aliquam dolus gemino interdico molior oppeto pala quadrum quibus scisco. Gemino loquor secundum tego vereor.\n\nAbbas capto imputo natu odio patria qui valde vero. Gemino gilvus haero te utrum valde. Appellatio dignissim elit facilisis hendrerit immitto jumentum persto saluto virtus. In paratus vindico. Eligo jumentum lenis neque nibh olim sagaciter ut. Abluo adipiscing brevitas dolore ea immitto lucidus paratus usitas.\n\nAbbas ad damnum ludus os secundum te ulciscor. Distineo eu hendrerit lobortis macto meus uxor. Olim populus sagaciter suscipit. Iriure quia sit uxor vicis. Abbas esca mauris quidne tincidunt usitas utrum. Dolore esca euismod imputo lobortis meus sudo valetudo. Autem conventio ex exputo nulla si ulciscor utrum valde velit. Abigo autem consequat elit pala persto quidem sagaciter virtus.\n\nAbbas aliquip capto enim exerci ludus neque premo sino. Adipiscing appellatio bene ex letalis odio pertineo praesent premo ullamcorper. Commodo metuo nibh quadrum sit tation utrum valde vel zelus. Gemino ille neque. Acsi augue defui dolus eligo gilvus immitto mauris quibus valetudo.\n\nAdipiscing feugiat interdico jus paratus premo quae quia rusticus suscipere. Abluo cui diam elit hos ideo incassum neo ut. Abluo damnum neo obruo. Abdo antehabeo exerci hendrerit modo pecus rusticus si.\n\nCapto commodo ea meus modo os paratus. Antehabeo facilisis neo nobis oppeto saluto tation. Conventio gravis jugis laoreet ratis tum vel vulpes. Dolore enim neo. Luptatum mauris nutus probo sit suscipit tincidunt. Aliquip obruo olim proprius quadrum tincidunt valde. Abluo ad cui odio torqueo turpis virtus. Damnum dolor jus luptatum neque vicis virtus voco. Exputo sed usitas vel.\n\nGemino humo nibh odio quae quis usitas ut. Autem elit fere iriure jugis nisl vulputate. Adipiscing mauris neque paratus. Esse exputo hendrerit huic metuo pecus probo. Qui saluto uxor.\n\nAbigo eligo iriure meus roto usitas ut volutpat. Ea facilisi nibh quibus refero singularis te. Enim euismod exputo ideo jumentum meus nimis nulla suscipere tum. Haero neque os populus probo quibus rusticus valetudo. Blandit meus si. Abluo jugis os. Paulatim tamen zelus. Abico defui euismod exputo mauris odio similis tego tincidunt vel. Nostrud obruo sed.\n\nAliquam bene luctus magna sed validus vindico virtus. Defui dolor nisl quae suscipere. Erat haero luctus premo vero zelus. Ille natu zelus. Camur distineo dolore fere hendrerit lucidus mauris. Illum luptatum macto neque validus velit ymo. Comis consequat genitus immitto macto natu odio quia. Iustum magna nibh persto roto scisco. Esca iriure populus sit ulciscor vindico. Ea et vindico.\n\nAliquip nostrud paulatim quia quidne quis refoveo turpis. Jumentum neo typicus. Abico aliquip ibidem interdico metuo mos pala praesent quibus. Abdo appellatio autem huic nimis populus quadrum secundum ut. Esse illum inhibeo meus scisco. Abico accumsan distineo mauris nimis nisl pagus quadrum suscipere ut. Cogo commodo lenis sudo. Bene brevitas commoveo facilisi humo nulla validus venio. Abdo esse eu hendrerit letalis luctus os patria refoveo rusticus.\n\n"
+        }
+    ],
+    "status": [],
+    "name": [],
+    "description": [],
+    "weight": [],
+    "parent": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c81452bd-6898-4222-97a2-25e87c8c79ff"
+        }
+    ],
+    "changed": [],
+    "default_langcode": [],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/camur-cogo-nibh-occuro-patria-sed-tincidunt.",
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ]
+}

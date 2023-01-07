@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b02cef11-cdf9-41b2-b5f5-918ce06fed0b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/710ce9f3-b342-42fa-8669-a8358bfb5ed1"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/caecus-exerci-odio"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

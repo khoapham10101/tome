@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "01d267b6-c038-47ce-8f4c-c4d0bd863746"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/aa3d14ef-6329-42e7-bca5-5c7c8c24e11e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/tego-typicus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

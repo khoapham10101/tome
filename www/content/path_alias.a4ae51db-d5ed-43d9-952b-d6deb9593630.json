@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a4ae51db-d5ed-43d9-952b-d6deb9593630"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "zxx"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/taxonomy\/term\/81"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/brevitas-patria-vulpes."
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

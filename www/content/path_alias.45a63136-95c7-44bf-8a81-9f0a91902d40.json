@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "45a63136-95c7-44bf-8a81-9f0a91902d40"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/6f9260c3-7286-4022-a51d-c296d11af885"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/veniam"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

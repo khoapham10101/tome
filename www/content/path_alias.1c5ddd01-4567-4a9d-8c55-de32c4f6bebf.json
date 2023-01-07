@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1c5ddd01-4567-4a9d-8c55-de32c4f6bebf"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f1c399db-25dd-4437-97b9-812ed15fd1ee"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/capto-paratus-sed"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

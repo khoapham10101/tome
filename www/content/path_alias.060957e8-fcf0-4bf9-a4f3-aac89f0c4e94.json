@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "060957e8-fcf0-4bf9-a4f3-aac89f0c4e94"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/4bb00a38-a9b9-41a5-a722-8505a16d3dc2"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/ratis"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a572b417-3e0a-46db-aee8-d66150496a6d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/faf4cae7-5620-4fad-b04f-3cab0971da24"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/incassum-paulatim-proprius"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

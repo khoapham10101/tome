@@ -1,0 +1,56 @@
+{
+    "uuid": [
+        {
+            "value": "118a1971-3382-4def-b754-023e8cfde8f9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "tags",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "7a0c6132-9274-450c-b161-c0bf291e8d68"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2022-12-05T01:29:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "f0784ad9-0392-497f-a2e4-cee9e8fce093"
+        }
+    ],
+    "revision_log_message": [
+        {
+            "value": "Commodo duis iaceo pagus patria paulatim. Caecus capto nulla turpis. Populus refoveo saepius. At esse olim. Abluo diam facilisis luctus sino tamen uxor. Haero hendrerit refero tation vel. Capto feugiat minim scisco singularis. Acsi commoveo et lucidus. Cogo consequat letalis probo velit. Blandit esse lobortis molior olim sudo venio.\n\nLenis pertineo premo refero si virtus. Aptent consequat ex lobortis minim nulla utinam. Caecus humo illum jus premo ullamcorper validus vereor. Abico eros typicus. Ad meus suscipit tum ulciscor.\n\nAutem causa jus natu neque nimis quis torqueo. Aptent capto diam ideo praemitto sagaciter. Consectetuer dolus ex os pecus saepius sino. Abbas exerci ille inhibeo iriure velit. Aptent at commoveo eligo luptatum populus vulpes. Ad esse et gilvus interdico iusto pagus secundum utrum vicis. Jus praemitto tego turpis ut ymo. Abdo huic nisl oppeto quidem vulputate. Minim odio usitas voco.\n\nDolore et euismod humo interdico lenis lobortis sagaciter tation turpis. At causa consectetuer iaceo imputo jugis lucidus luctus plaga. Abigo adipiscing enim illum volutpat. Os praesent refoveo roto si. Conventio enim haero inhibeo occuro sagaciter uxor valetudo. Aliquam qui tation.\n\nAd fere interdico tum typicus ymo. Accumsan conventio eligo importunus pala qui quis turpis. Abdo camur dolor nostrud si suscipit valde. Camur dolor duis euismod feugiat interdico odio os quia uxor. Brevitas quadrum sit te tum turpis. Abbas bene diam elit imputo modo sit suscipit vulputate.\n\nComis huic ille inhibeo modo suscipere validus. Magna meus secundum. Caecus et magna valetudo. Causa consectetuer iaceo nunc pagus quidem roto saluto vero. Accumsan dolore genitus in iusto obruo refoveo. Commodo dolus in occuro rusticus. Acsi exerci refero. Consectetuer ille ludus luptatum macto nutus paratus praesent suscipere torqueo. Nutus roto ulciscor.\n\nAbigo jus mos suscipere. Erat hendrerit nisl praemitto roto. Ex nibh odio. Blandit gravis meus pecus quae tum usitas. Abigo dolore ea eros quidne singularis te valde. Cui huic jus persto quadrum.\n\nEnim euismod haero os quae rusticus volutpat. Conventio nobis quibus te uxor. Antehabeo augue dignissim jugis neque nisl occuro os proprius scisco. Antehabeo at commoveo defui et immitto plaga torqueo volutpat. Lucidus nunc olim vero voco.\n\nAliquam jumentum laoreet modo turpis ymo. Causa dolus gravis immitto nobis obruo. Diam euismod ex laoreet metuo occuro ratis sit sudo. Brevitas consequat nunc persto pneum quis valde voco volutpat.\n\nAbigo at facilisi importunus meus neque patria quidne. Acsi eu hendrerit humo iaceo in jumentum quia turpis typicus. Abluo amet euismod macto nimis quadrum quibus. Antehabeo augue autem bene hos iriure premo roto uxor. Cogo commoveo decet inhibeo iusto plaga praesent turpis. Causa obruo paulatim.\n\nOs quadrum typicus. Comis modo pala patria. Brevitas commoveo damnum genitus immitto imputo in suscipere. Duis eum huic ideo jumentum nimis obruo qui quia. Conventio elit esca et pagus virtus. Eligo elit ex fere gravis ille molior nibh zelus. Aptent caecus distineo jugis lenis saluto scisco volutpat vulpes. Abluo cogo loquor modo pala quidem roto sagaciter vereor vicis.\n\nAptent fere letalis olim paulatim tego ulciscor voco zelus. Facilisi ibidem imputo nimis vindico. Abluo consectetuer euismod nisl occuro. Illum nisl praesent quae quibus scisco si uxor. Importunus macto nimis quadrum. Fere gravis ibidem jugis similis vero virtus voco vulputate.\n\n"
+        }
+    ],
+    "status": [],
+    "name": [],
+    "description": [],
+    "weight": [],
+    "parent": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "583b1785-e6d5-41ec-83eb-380e0df80e84"
+        }
+    ],
+    "changed": [],
+    "default_langcode": [],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/dolus-saepius-sit-ulciscor.",
+            "langcode": "und",
+            "pathauto": 0
+        }
+    ]
+}

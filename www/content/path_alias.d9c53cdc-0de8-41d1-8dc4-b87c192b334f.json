@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d9c53cdc-0de8-41d1-8dc4-b87c192b334f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1b7efa43-e73e-4e38-a755-6bd6baea58d6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/iriure"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

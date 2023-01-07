@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "aa16b56a-542d-42fe-b18d-dacb0931f62f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/taxonomy\/term\/105"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/acsi-haero-jus."
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

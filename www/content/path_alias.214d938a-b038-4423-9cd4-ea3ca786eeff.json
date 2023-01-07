@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "214d938a-b038-4423-9cd4-ea3ca786eeff"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/64383c36-194f-4229-b012-bc9ce67222c2"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/ille"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

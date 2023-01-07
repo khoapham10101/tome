@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "59bfaa68-4867-463f-a05a-a4aa6e3040dc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b3c6f335-afdd-41ee-ba45-abd3bf8ad509"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/antehabeo-illum-typicus-venio"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

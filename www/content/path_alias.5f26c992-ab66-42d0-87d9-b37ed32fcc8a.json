@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "5f26c992-ab66-42d0-87d9-b37ed32fcc8a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7d5b326d-0569-4cb9-aa0d-cf0b45c025fa"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/populus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

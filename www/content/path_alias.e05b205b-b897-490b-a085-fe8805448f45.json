@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e05b205b-b897-490b-a085-fe8805448f45"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1bacf529-d89c-4fda-ba3d-6392bd4d7f32"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/erat-virtus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "efe9abc2-6ea3-4627-9f40-673b430b41eb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/bb32d923-c050-4328-a478-01e8b8373a2d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/jumentum-modo-praesent"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
