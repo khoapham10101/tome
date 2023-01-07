@@ -62,7 +62,8 @@ RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/bin/ 
 # Install npm, yarn
 RUN curl -sL https://deb.nodesource.com/setup_19.x | bash - && \
     apt-get install -y nodejs && \
-    npm install -g autocannon
+    npm install -g autocannon && \
+    npm install -g firebase-tools
 RUN apt-get purge -y --auto-remove && \
     rm -rf /var/lib/apt/lists/*
 
