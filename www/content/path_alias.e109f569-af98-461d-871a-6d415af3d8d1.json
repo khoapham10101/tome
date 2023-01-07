@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e109f569-af98-461d-871a-6d415af3d8d1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/bda73bcd-3976-40d2-b1ff-665c924f4726"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/abbas-jugis-typicus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

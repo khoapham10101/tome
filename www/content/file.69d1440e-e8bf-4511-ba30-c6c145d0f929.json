@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "69d1440e-e8bf-4511-ba30-c6c145d0f929"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "e5c3b379-0dd0-4c71-8b8b-1cf235008711"
+        }
+    ],
+    "filename": [
+        {
+            "value": "generateImage_Cauaiw.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2023-01\/generateImage_Cauaiw.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 801
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-01-07T23:24:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-01-07T23:24:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

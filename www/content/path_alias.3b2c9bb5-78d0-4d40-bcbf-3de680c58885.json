@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3b2c9bb5-78d0-4d40-bcbf-3de680c58885"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/8feb4927-9765-4bc6-b083-d8ee720a1cfb"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/abico-genitus-vel"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

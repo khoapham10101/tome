@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "9da477ac-f19c-40b5-bc2d-f59f7325173e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/72d4b446-5d30-4e13-bce5-fc850faf211b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/node-1304-article"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

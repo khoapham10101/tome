@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b91ae32d-c45c-46a6-abcb-f0c97c5fa782"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f0f48ff9-4792-46ad-8aa9-2f684c4028dc"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/dolus-letalis"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

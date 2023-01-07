@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "da99431d-1d32-4cf3-b14d-3ffbe052b4c6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/de047c67-9db6-4dc5-b127-443e6213263d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/mos"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

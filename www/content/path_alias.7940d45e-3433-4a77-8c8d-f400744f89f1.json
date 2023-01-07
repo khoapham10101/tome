@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7940d45e-3433-4a77-8c8d-f400744f89f1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/125909d0-e7e3-430e-8e6e-d29f1e9074b7"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/eros-odio"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

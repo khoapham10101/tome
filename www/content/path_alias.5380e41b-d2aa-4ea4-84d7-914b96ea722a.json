@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "5380e41b-d2aa-4ea4-84d7-914b96ea722a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/5f3bf12e-081f-4f2a-b08f-eb93ceaed87e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/eros"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
