@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "5ac0db93-a981-47f1-b99a-1099c434e52a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/fb54925c-959e-4aeb-85ca-bcd462e91e4c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/ideo-illum-populus-sagaciter"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

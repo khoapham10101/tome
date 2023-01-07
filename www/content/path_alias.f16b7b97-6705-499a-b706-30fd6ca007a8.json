@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f16b7b97-6705-499a-b706-30fd6ca007a8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/191d8c0d-f5c9-44ba-98e8-bff7e9b99031"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/nostrud"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

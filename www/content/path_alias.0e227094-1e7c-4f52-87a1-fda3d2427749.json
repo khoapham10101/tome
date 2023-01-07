@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0e227094-1e7c-4f52-87a1-fda3d2427749"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2d04aa2e-2d82-4af1-bbd0-c0b44706f6f8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/letalis-virtus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c4816cf8-c43a-4382-91e0-531d1ac5f0eb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/d4d7f70d-c7c7-4434-9ae3-b73140aed1ba"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/singularis-vel"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

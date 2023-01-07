@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "205e9fdc-b394-4af8-9427-5060c9e65155"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f6d69fda-184e-40e3-b7ae-2c4325b2d3a5"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/melior-sagaciter-scisco"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

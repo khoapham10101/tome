@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "74f7723e-8a0b-4156-9682-cf222ad218cc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f10f4272-f1dd-4d3b-9e41-50c00549b16d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/dignissim-pagus-saluto"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

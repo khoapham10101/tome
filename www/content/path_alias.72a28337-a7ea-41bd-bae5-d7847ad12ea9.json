@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "72a28337-a7ea-41bd-bae5-d7847ad12ea9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/bda2995d-6e85-40a0-9cde-d37998903b69"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/eu-nostrud"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

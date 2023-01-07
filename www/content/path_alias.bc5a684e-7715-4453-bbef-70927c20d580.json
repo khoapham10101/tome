@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "bc5a684e-7715-4453-bbef-70927c20d580"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/630da11d-dca7-4d08-8ed8-7eec8ff04acf"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/abico-aliquip-vulpes"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

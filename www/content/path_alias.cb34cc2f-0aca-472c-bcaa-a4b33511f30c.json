@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "cb34cc2f-0aca-472c-bcaa-a4b33511f30c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/6adf09fe-f182-4371-afe9-1db1ddfba02c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/comis-ibidem-obruo-venio"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

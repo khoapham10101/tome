@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "67e55213-3adf-40d0-8165-e2d6437505f4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/733c6336-ffb6-4a58-a1d8-a60305e264bc"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/molior-pecus-sudo-utinam"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "8ce18257-780c-4bd4-a1a2-ef74abe8669f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ef90a6bf-7aa5-49de-874b-a157189e89bb"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/iusto"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

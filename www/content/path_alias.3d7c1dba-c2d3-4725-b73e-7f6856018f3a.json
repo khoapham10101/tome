@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3d7c1dba-c2d3-4725-b73e-7f6856018f3a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/40eb972d-3235-44b4-856f-d68f48830abe"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/acsi-natu"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "uuid": [
+        {
+            "value": "63c5a5f1-eae4-417f-85e4-776b55f9fcd3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article",
+            "target_type": "node_type",
+            "target_uuid": "6d9f0af7-9523-4833-ad58-035e1a27be0d"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-01-07T15:32:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "f0784ad9-0392-497f-a2e4-cee9e8fce093"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "f0784ad9-0392-497f-a2e4-cee9e8fce093"
+        }
+    ],
+    "title": [
+        {
+            "value": "Dolor"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-01-03T01:03:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-01-07T15:32:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "Abdo aptent hendrerit ibidem refero scisco. Bene decet humo luptatum melior odio typicus ut verto. Caecus neo pneum. Bene sudo tation.\n\nNobis saluto usitas. Causa illum interdico quadrum qui sino. Camur ille loquor nulla torqueo ulciscor ut venio virtus. Abdo abico at capto diam jugis macto paratus.\n\nAbbas consectetuer fere gravis natu patria quae zelus. Conventio eum iaceo interdico nobis premo sit suscipit venio. Nostrud similis tamen. Amet decet eros gravis minim nimis nobis pagus paulatim. Neque paratus roto vicis. Aliquam augue cogo elit luctus nobis pecus torqueo.\n\nEa genitus jugis mos suscipere suscipit vereor. Facilisi nulla typicus venio. Abbas abdo abico gemino hendrerit modo tincidunt ulciscor virtus. Bene capto enim iustum suscipit tamen te volutpat. Magna rusticus te tego. Aptent iustum macto pertineo si usitas velit. Illum immitto iustum lobortis magna olim patria. Humo iriure nutus premo secundum usitas. Consectetuer eu ex feugiat jugis lenis loquor nisl nulla ut.\n\nCommoveo exerci humo. Abluo fere gemino illum lobortis meus praemitto rusticus. Autem ex lobortis macto magna nimis suscipit. Exputo feugiat ibidem meus plaga quis ulciscor.\n\nAbico ea gravis macto populus ratis saepius similis ut. Abbas aliquam appellatio caecus causa in letalis oppeto pertineo sed. Enim iusto jugis. Autem camur consequat cui dolor et odio pala.\n\nAbluo camur defui nisl quidem sudo tincidunt ulciscor vulpes ymo. Autem distineo eligo et nisl praesent valetudo vicis vulpes. Ex gravis ille laoreet luptatum nutus sagaciter. Aliquip consectetuer vero. Diam gilvus nimis usitas wisi. Abluo accumsan quae suscipere typicus. Accumsan commoveo distineo molior probo.\n\nBrevitas diam eros in nibh pala populus ullamcorper uxor. Bene caecus erat inhibeo mos populus quidem sagaciter sudo veniam. Huic luptatum usitas. Eu mauris pertineo praemitto quidne rusticus. Elit jugis nimis nulla quibus ulciscor.\n\nAccumsan adipiscing aliquam facilisi incassum neo praemitto proprius secundum. Defui feugiat lobortis valetudo. Abdo cogo luptatum venio. Commodo jugis nisl obruo suscipit veniam. Elit ideo imputo inhibeo interdico laoreet luctus praemitto turpis ulciscor.\n\nDistineo ille metuo scisco. Adipiscing ea illum paulatim refoveo roto tation. Huic ille pala ratis torqueo venio. Abluo dignissim dolus vindico. Ad camur enim feugiat iaceo iustum melior nibh nisl ullamcorper.\n\nCamur causa ea exerci lucidus nulla quae si valde valetudo. Cogo conventio laoreet occuro praesent sed virtus voco. Consectetuer sit tum. Acsi in luctus minim natu nutus singularis. Iaceo importunus pneum scisco. Consectetuer erat inhibeo jus mauris neo quia sino venio vicis.\n\nEt obruo quis ullamcorper. Exerci saepius suscipere. Genitus macto tego. Aliquip cui pecus quidem refero sagaciter sed vindico volutpat ymo. Consequat eligo eu neque pagus valde.\n\n",
+            "format": "plain_text",
+            "summary": "Abdo aptent hendrerit ibidem refero scisco. Bene decet humo luptatum melior odio typicus ut verto. Caecus neo pneum. Bene sudo tation.\n\nNobis saluto usitas. Causa illum interdico quadrum qui sino. Camur ille loquor nulla torqueo ulciscor ut venio virtus. Abdo abico at capto diam jugis macto paratus.\n\nAbbas consectetuer fere gravis natu patria quae zelus. Conventio eum iaceo interdico nobis premo sit suscipit venio. Nostrud similis tamen. Amet decet eros gravis minim nimis nobis pagus paulatim. Neque paratus roto vicis. Aliquam augue cogo elit luctus nobis pecus torqueo.\n\nEa genitus jugis mos suscipere suscipit vereor. Facilisi nulla typicus venio. Abbas abdo abico gemino hendrerit modo tincidunt ulciscor virtus. Bene capto enim iustum suscipit tamen te volutpat. Magna rusticus te tego. Aptent iustum macto pertineo si usitas velit. Illum immitto iustum lobortis magna olim patria. Humo iriure nutus premo secundum usitas. Consectetuer eu ex feugiat jugis lenis loquor nisl nulla ut.\n\nCommoveo exerci humo. Abluo fere gemino illum lobortis meus praemitto rusticus. Autem ex lobortis macto magna nimis suscipit. Exputo feugiat ibidem meus plaga quis ulciscor.\n\nAbico ea gravis macto populus ratis saepius similis ut. Abbas aliquam appellatio caecus causa in letalis oppeto pertineo sed. Enim iusto jugis. Autem camur consequat cui dolor et odio pala.\n\nAbluo camur defui nisl quidem sudo tincidunt ulciscor vulpes ymo. Autem distineo eligo et nisl praesent valetudo vicis vulpes. Ex gravis ille laoreet luptatum nutus sagaciter. Aliquip consectetuer vero. Diam gilvus nimis usitas wisi. Abluo accumsan quae suscipere typicus. Accumsan commoveo distineo molior probo.\n\nBrevitas diam eros in nibh pala populus ullamcorper uxor. Bene caecus erat inhibeo mos populus quidem sagaciter sudo veniam. Huic luptatum usitas. Eu mauris pertineo praemitto quidne rusticus. Elit jugis nimis nulla quibus ulciscor.\n\nAccumsan adipiscing aliquam facilisi incassum neo praemitto proprius secundum. Defui feugiat lobortis valetudo. Abdo cogo luptatum venio. Commodo jugis nisl obruo suscipit veniam. Elit ideo imputo inhibeo interdico laoreet luctus praemitto turpis ulciscor.\n\nDistineo ille metuo scisco. Adipiscing ea illum paulatim refoveo roto tation. Huic ille pala ratis torqueo venio. Abluo dignissim dolus vindico. Ad camur enim feugiat iaceo iustum melior nibh nisl ullamcorper.\n\nCamur causa ea exerci lucidus nulla quae si valde valetudo. Cogo conventio laoreet occuro praesent sed virtus voco. Consectetuer sit tum. Acsi in luctus minim natu nutus singularis. Iaceo importunus pneum scisco. Consectetuer erat inhibeo jus mauris neo quia sino venio vicis.\n\nEt obruo quis ullamcorper. Exerci saepius suscipere. Genitus macto tego. Aliquip cui pecus quidem refero sagaciter sed vindico volutpat ymo. Consequat eligo eu neque pagus valde.\n\n"
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "Et eu eum ludus olim patria scisco.",
+            "title": "Brevitas olim populus tation valetudo.",
+            "width": 117,
+            "height": 429,
+            "target_type": "file",
+            "target_uuid": "5b978f2b-46bb-4743-98e7-b9a0044fec72"
+        }
+    ],
+    "field_tags": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "f1e2340e-236f-4c00-874f-7ee082578e0b"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9a87329f-43ce-4586-83a4-bff4041a9e69"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2ac26517-f9dc-4aa8-a7f3-b2cf3c46b973"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "afab97ee-48df-426c-ab08-a61a6dcd8d0b"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "583b1785-e6d5-41ec-83eb-380e0df80e84"
+        }
+    ]
+}

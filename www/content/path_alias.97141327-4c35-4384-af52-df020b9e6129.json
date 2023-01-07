@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "97141327-4c35-4384-af52-df020b9e6129"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ea9cd55d-db06-4b97-95b8-73c6288bfa56"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/causa-sagaciter-tum"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

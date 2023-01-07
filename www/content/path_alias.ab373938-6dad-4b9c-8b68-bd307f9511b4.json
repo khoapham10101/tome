@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ab373938-6dad-4b9c-8b68-bd307f9511b4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/e336b2ce-1a89-431e-8535-07d7adef6fff"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/caecus-tation"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

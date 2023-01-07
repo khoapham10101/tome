@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "9239a9c7-21a3-4259-b557-f50aa8486981"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1a45208e-af75-45cb-a038-5f5462fed16f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/diam-et-quidem"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

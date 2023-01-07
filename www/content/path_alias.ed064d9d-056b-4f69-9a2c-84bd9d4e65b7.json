@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ed064d9d-056b-4f69-9a2c-84bd9d4e65b7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/608117a7-d28f-4da8-8b0d-9168d81bd730"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/immitto-usitas"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

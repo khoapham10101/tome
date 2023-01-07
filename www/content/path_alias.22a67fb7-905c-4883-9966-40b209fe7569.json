@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "22a67fb7-905c-4883-9966-40b209fe7569"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/43a0c0c2-7624-48c3-b261-c44a54c48e36"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/decet-magna"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

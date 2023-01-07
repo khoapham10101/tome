@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f9533acd-406a-4b8e-89c5-eaf51dc2d945"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/16b7d6c7-b717-408a-86bb-13971fde99ef"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/imputo-quia"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

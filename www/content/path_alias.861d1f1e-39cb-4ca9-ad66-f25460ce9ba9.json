@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "861d1f1e-39cb-4ca9-ad66-f25460ce9ba9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/be9a6343-96dd-46ad-862d-643a487cafa6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/defui-dolor-pagus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

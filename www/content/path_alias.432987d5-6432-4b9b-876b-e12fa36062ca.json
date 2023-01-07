@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "432987d5-6432-4b9b-876b-e12fa36062ca"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7410ac80-d94f-4e66-bd75-f46a23fba3da"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/magna-praesent"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

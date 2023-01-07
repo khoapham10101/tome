@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "bd67dfd3-a733-46fe-8708-9109c6f88cbd"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/e98d0d3d-39a5-49a4-83de-a5aee1a0d41c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/sed-vel-virtus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

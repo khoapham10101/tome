@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3d8f7181-59b5-4639-a0e4-102901c1cec6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7df41635-259a-48e5-8490-db519a00f415"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/vicis"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

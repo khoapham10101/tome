@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "87df0851-0531-4984-9b17-99c0bdff9343"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/d7f954b9-86ee-4ef4-a528-461adabad736"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/abdo-duis-gravis"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

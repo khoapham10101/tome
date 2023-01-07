@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ea3c2d9b-1d0f-4f79-a802-739ff2771ebf"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/451f57e4-d6ac-4492-910c-1c88ed6abe9e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/ad-pagus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

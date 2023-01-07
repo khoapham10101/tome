@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1dbfcaf2-d6c9-49ec-8924-920043c9d3ae"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/62b4a212-1a1c-44c7-9c91-63020b5540f7"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/distineo-ideo-obruo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

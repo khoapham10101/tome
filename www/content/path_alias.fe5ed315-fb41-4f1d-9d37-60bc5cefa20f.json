@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "fe5ed315-fb41-4f1d-9d37-60bc5cefa20f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/4277dfa9-6742-48c3-bc81-28f2d0e40a7b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/et-te-valetudo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

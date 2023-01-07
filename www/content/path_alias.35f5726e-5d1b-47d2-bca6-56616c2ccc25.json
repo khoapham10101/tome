@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "35f5726e-5d1b-47d2-bca6-56616c2ccc25"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b20df6b1-afd2-4337-b248-9f6628ca3834"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/ideo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

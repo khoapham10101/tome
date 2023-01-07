@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c49e1b6f-c2e3-4bf1-a780-687e634fd15a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/58f46122-b4dc-4532-8e93-315c5fca986b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/humo-jugis-suscipit"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

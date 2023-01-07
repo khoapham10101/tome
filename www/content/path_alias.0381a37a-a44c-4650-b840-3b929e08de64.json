@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0381a37a-a44c-4650-b840-3b929e08de64"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/decf8036-fe3b-442d-a815-73de2472dfe4"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/quadrum-voco"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

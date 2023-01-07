@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "69f56e28-6305-46fa-af40-677087bbc94f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1f4e3842-6999-4a05-b2c4-5fbdc7eb328d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/comis-commodo-imputo-tation"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

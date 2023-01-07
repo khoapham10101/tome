@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3d2dc111-902b-48c9-8460-ccf9497a6584"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2994744d-c069-4b36-b758-93e75d75391f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/magna-refero"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "bdc20b94-6e6b-4f46-b451-651ef91ffd17"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/36ba3da1-2d0f-47b5-8972-7a7047e9bcc8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/nisl-virtus-voco"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

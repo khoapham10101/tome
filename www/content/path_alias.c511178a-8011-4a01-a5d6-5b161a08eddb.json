@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c511178a-8011-4a01-a5d6-5b161a08eddb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b50cfb5c-25cc-4178-896f-9ae285946c63"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/cogo-ex-obruo-pertineo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

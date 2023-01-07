@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1485b7c4-e802-456e-9b66-fe3447bc8100"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/719ebbd5-2d18-4725-8755-d03602ed8c74"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/magna"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

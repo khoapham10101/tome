@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c9b8aef2-602b-433a-8709-168404d8fbf8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/44016a37-db28-4473-a592-6027bcfd1b36"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/torqueo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

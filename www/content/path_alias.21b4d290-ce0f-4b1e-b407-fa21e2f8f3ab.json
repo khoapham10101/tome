@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "21b4d290-ce0f-4b1e-b407-fa21e2f8f3ab"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/8a2c74cd-837f-46d0-844e-a62acc4f3c9f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/cui-duis"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

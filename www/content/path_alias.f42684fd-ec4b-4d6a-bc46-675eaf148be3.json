@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f42684fd-ec4b-4d6a-bc46-675eaf148be3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/63c5a5f1-eae4-417f-85e4-776b55f9fcd3"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/dolor"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

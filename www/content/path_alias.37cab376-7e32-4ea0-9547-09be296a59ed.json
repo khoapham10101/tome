@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "37cab376-7e32-4ea0-9547-09be296a59ed"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/09639b8e-5288-4799-8d44-b26fb2a0c7de"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/quibus-sit-ut"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

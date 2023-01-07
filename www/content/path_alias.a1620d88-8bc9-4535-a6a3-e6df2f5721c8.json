@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a1620d88-8bc9-4535-a6a3-e6df2f5721c8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/d00cd4e0-502c-4b58-9f47-a72032b9ece7"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/nutus-volutpat"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

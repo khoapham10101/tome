@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e8e82481-9bc4-433b-a398-9cc1abe44f64"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/48d0dea3-95c9-4e33-a9b1-8357a16f74da"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/cui-lenis-mos-valde"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

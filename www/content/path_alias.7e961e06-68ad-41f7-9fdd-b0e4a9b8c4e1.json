@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7e961e06-68ad-41f7-9fdd-b0e4a9b8c4e1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3399ac03-bbbd-4adc-98c5-8ac4009fc03d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/iriure-metuo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

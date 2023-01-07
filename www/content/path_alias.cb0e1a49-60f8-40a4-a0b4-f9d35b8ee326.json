@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "cb0e1a49-60f8-40a4-a0b4-f9d35b8ee326"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/13e89f65-c60d-4608-8dbc-87dc9f341fce"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/saluto-venio"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

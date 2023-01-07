@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d50c2c14-cc40-48ce-b66f-6bd078e0fbad"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/e6a9ee69-509f-48ba-9355-2c29a1ca3516"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/camur-lenis-pertineo-plaga"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

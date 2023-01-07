@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "48353206-fee7-4269-b217-37364707783a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/94fe74ba-e692-4cd6-82bd-119cd67d401b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/eligo-immitto-odio-venio"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

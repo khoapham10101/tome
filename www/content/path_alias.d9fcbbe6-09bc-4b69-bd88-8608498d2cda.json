@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d9fcbbe6-09bc-4b69-bd88-8608498d2cda"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/cbb6db38-0c06-4e43-ac39-b8ec0c53c12e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/pala"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

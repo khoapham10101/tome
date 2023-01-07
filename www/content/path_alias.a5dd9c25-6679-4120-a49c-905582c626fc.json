@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a5dd9c25-6679-4120-a49c-905582c626fc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/18cf5927-3b47-4f97-ad0b-b01157d6f9a9"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/quia"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

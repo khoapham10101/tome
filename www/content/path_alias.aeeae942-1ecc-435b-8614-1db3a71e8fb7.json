@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "aeeae942-1ecc-435b-8614-1db3a71e8fb7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0bd323f3-9265-4a2d-a8d8-cdc7164d4f8b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/aptent"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

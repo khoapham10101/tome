@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "467c5066-a9a6-487c-a13d-ebe391fea0d5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b13cc3b9-0124-4bd2-b6e3-3acffe5caac1"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/aptent-eros-sino"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

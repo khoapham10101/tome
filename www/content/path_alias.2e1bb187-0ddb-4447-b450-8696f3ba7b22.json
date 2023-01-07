@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "2e1bb187-0ddb-4447-b450-8696f3ba7b22"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ed4065ad-60ef-4781-a250-25a9818d87d9"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/premo-verto"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

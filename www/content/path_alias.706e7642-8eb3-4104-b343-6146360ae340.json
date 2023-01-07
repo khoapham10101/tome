@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "706e7642-8eb3-4104-b343-6146360ae340"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/651e59e4-284b-4beb-8267-2502d9acd81a"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/blandit-occuro"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

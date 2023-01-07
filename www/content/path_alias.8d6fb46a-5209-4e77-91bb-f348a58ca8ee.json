@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "8d6fb46a-5209-4e77-91bb-f348a58ca8ee"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/cba4e259-a81b-446e-a59e-503be1e467b5"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/eligo-haero-sed-zelus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f81019a7-e7e4-4aae-908b-73a92005d5de"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/e93d8572-0484-4655-ae03-dba21d63637c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/natu"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

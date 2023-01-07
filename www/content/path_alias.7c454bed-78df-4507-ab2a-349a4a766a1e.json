@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7c454bed-78df-4507-ab2a-349a4a766a1e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/fccccd6d-05e6-4793-9ddd-0b9b10acc3d8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/abico-scisco"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

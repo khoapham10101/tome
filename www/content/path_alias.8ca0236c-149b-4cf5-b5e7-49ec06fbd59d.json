@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "8ca0236c-149b-4cf5-b5e7-49ec06fbd59d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/54111604-1ddd-49e5-8ffb-c06332f0f292"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/defui-luctus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

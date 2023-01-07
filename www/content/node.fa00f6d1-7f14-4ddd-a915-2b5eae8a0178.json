@@ -1,0 +1,127 @@
+{
+    "uuid": [
+        {
+            "value": "fa00f6d1-7f14-4ddd-a915-2b5eae8a0178"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article",
+            "target_type": "node_type",
+            "target_uuid": "6d9f0af7-9523-4833-ad58-035e1a27be0d"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-01-07T15:34:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "f0784ad9-0392-497f-a2e4-cee9e8fce093"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "f0784ad9-0392-497f-a2e4-cee9e8fce093"
+        }
+    ],
+    "title": [
+        {
+            "value": "Et Nutus"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-01-06T13:54:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-01-07T15:34:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "Adipiscing bene et letalis pneum torqueo typicus. Accumsan cui duis. Accumsan hos luctus quidne sed singularis. Abluo amet defui dolus loquor quidem suscipit. Augue decet erat exputo iaceo letalis turpis utrum validus voco. Dignissim eum patria roto ymo.\n\nLobortis pagus patria praemitto qui quidem turpis utinam valde vulputate. Ea gravis ille immitto nibh sagaciter. Acsi feugiat ulciscor voco. Augue cui duis ludus quadrum te tincidunt venio. Facilisi laoreet lucidus odio. Feugiat jus lucidus mauris praemitto proprius sudo te utrum. Aliquam caecus fere immitto iriure iusto lenis neque plaga proprius. Pertineo quidem venio.\n\nConsequat dignissim duis humo metuo nibh refoveo vulpes. Mos pala sed. Aliquam ideo macto nutus plaga quidem saepius tamen typicus validus. Ea facilisi importunus imputo inhibeo iustum nunc pagus quae secundum.\n\nEum neque nibh saepius sudo uxor. Abdo imputo neo velit. Metuo praemitto quibus similis vereor. Aliquam ea luctus valde vel. Antehabeo dolor dolus et macto nobis occuro patria populus quidne. Conventio esca praesent. Exputo interdico lucidus veniam.\n\nAdipiscing brevitas eros exerci haero hendrerit lucidus te turpis ymo. Ad aliquip at consequat enim gemino olim sagaciter secundum tego. Esse lobortis metuo velit. Adipiscing comis probo ullamcorper verto. Accumsan antehabeo in. Comis damnum nobis pecus praesent vindico. Damnum ibidem importunus nulla patria volutpat.\n\nBene facilisis ille paulatim pneum similis te ymo. Eligo elit eros eu ideo in luctus persto uxor veniam. Cogo ea similis torqueo. Aliquam dolor populus te usitas. Conventio jumentum lucidus melior plaga refoveo sed virtus wisi. Capto genitus quibus roto secundum similis sino utrum.\n\nAbluo eros haero jugis macto nulla oppeto sit veniam zelus. Enim qui typicus. Roto ut valde. Ea elit ideo illum incassum mauris pneum vero. At augue hos ideo immitto luctus nimis pneum venio. Acsi capto distineo erat gilvus jus melior neque olim saluto.\n\nElit inhibeo valetudo. Iaceo ideo neo nostrud praesent quae suscipere tamen. Commoveo hos ludus. Bene cui hos ibidem pagus saepius utinam uxor. Dignissim ibidem melior premo probo ut zelus. Lenis occuro tamen.\n\nDistineo ex jumentum. Commodo eros iusto neo nisl quia ut. Ad neque nutus zelus. Esse magna qui turpis vel vulputate. Consectetuer nisl patria.\n\nEt jugis nibh. Caecus defui feugiat gemino gravis iustum lobortis pagus tamen ymo. Adipiscing gravis pagus vereor. Ad facilisis modo nunc quibus te turpis ut.\n\nEsca haero iriure velit vindico. Huic interdico luptatum validus. Autem dolore metuo occuro pagus pecus suscipit tation ut valetudo. Amet nunc pagus patria pecus. Abdo esca paulatim praesent sagaciter secundum. Commodo dolus enim iusto luctus qui usitas. Adipiscing cogo commoveo ibidem iustum luctus melior valde veniam.\n\nBlandit nibh te typicus. Aliquip erat iustum pneum quidne utinam. Accumsan ad blandit erat humo si typicus wisi. Acsi eum ibidem incassum lenis patria quis roto. Consectetuer ex ille mos neo probo. Distineo enim immitto iusto loquor odio pertineo.\n\n",
+            "format": "plain_text",
+            "summary": "Adipiscing bene et letalis pneum torqueo typicus. Accumsan cui duis. Accumsan hos luctus quidne sed singularis. Abluo amet defui dolus loquor quidem suscipit. Augue decet erat exputo iaceo letalis turpis utrum validus voco. Dignissim eum patria roto ymo.\n\nLobortis pagus patria praemitto qui quidem turpis utinam valde vulputate. Ea gravis ille immitto nibh sagaciter. Acsi feugiat ulciscor voco. Augue cui duis ludus quadrum te tincidunt venio. Facilisi laoreet lucidus odio. Feugiat jus lucidus mauris praemitto proprius sudo te utrum. Aliquam caecus fere immitto iriure iusto lenis neque plaga proprius. Pertineo quidem venio.\n\nConsequat dignissim duis humo metuo nibh refoveo vulpes. Mos pala sed. Aliquam ideo macto nutus plaga quidem saepius tamen typicus validus. Ea facilisi importunus imputo inhibeo iustum nunc pagus quae secundum.\n\nEum neque nibh saepius sudo uxor. Abdo imputo neo velit. Metuo praemitto quibus similis vereor. Aliquam ea luctus valde vel. Antehabeo dolor dolus et macto nobis occuro patria populus quidne. Conventio esca praesent. Exputo interdico lucidus veniam.\n\nAdipiscing brevitas eros exerci haero hendrerit lucidus te turpis ymo. Ad aliquip at consequat enim gemino olim sagaciter secundum tego. Esse lobortis metuo velit. Adipiscing comis probo ullamcorper verto. Accumsan antehabeo in. Comis damnum nobis pecus praesent vindico. Damnum ibidem importunus nulla patria volutpat.\n\nBene facilisis ille paulatim pneum similis te ymo. Eligo elit eros eu ideo in luctus persto uxor veniam. Cogo ea similis torqueo. Aliquam dolor populus te usitas. Conventio jumentum lucidus melior plaga refoveo sed virtus wisi. Capto genitus quibus roto secundum similis sino utrum.\n\nAbluo eros haero jugis macto nulla oppeto sit veniam zelus. Enim qui typicus. Roto ut valde. Ea elit ideo illum incassum mauris pneum vero. At augue hos ideo immitto luctus nimis pneum venio. Acsi capto distineo erat gilvus jus melior neque olim saluto.\n\nElit inhibeo valetudo. Iaceo ideo neo nostrud praesent quae suscipere tamen. Commoveo hos ludus. Bene cui hos ibidem pagus saepius utinam uxor. Dignissim ibidem melior premo probo ut zelus. Lenis occuro tamen.\n\nDistineo ex jumentum. Commodo eros iusto neo nisl quia ut. Ad neque nutus zelus. Esse magna qui turpis vel vulputate. Consectetuer nisl patria.\n\nEt jugis nibh. Caecus defui feugiat gemino gravis iustum lobortis pagus tamen ymo. Adipiscing gravis pagus vereor. Ad facilisis modo nunc quibus te turpis ut.\n\nEsca haero iriure velit vindico. Huic interdico luptatum validus. Autem dolore metuo occuro pagus pecus suscipit tation ut valetudo. Amet nunc pagus patria pecus. Abdo esca paulatim praesent sagaciter secundum. Commodo dolus enim iusto luctus qui usitas. Adipiscing cogo commoveo ibidem iustum luctus melior valde veniam.\n\nBlandit nibh te typicus. Aliquip erat iustum pneum quidne utinam. Accumsan ad blandit erat humo si typicus wisi. Acsi eum ibidem incassum lenis patria quis roto. Consectetuer ex ille mos neo probo. Distineo enim immitto iusto loquor odio pertineo.\n\n"
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "Cogo gilvus typicus zelus.",
+            "title": "Appellatio bene iaceo metuo patria proprius usitas.",
+            "width": 163,
+            "height": 511,
+            "target_type": "file",
+            "target_uuid": "b01c2433-1111-45cc-a4a2-b32aad869ab1"
+        }
+    ],
+    "field_tags": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "827dba83-ec8f-4cbf-8d1f-5dec315ae96f"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c4932c7c-bdf0-4c4a-a6c3-33bbd6fcf5de"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "811c8e9e-c7ea-4926-af1d-ceb23bf9059c"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "94ea31fa-b5e4-41b0-be08-12ed918af715"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "dd125db3-2899-4312-9fff-574798f01668"
+        }
+    ]
+}

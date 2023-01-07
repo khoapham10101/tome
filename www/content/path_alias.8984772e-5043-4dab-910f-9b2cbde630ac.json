@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "8984772e-5043-4dab-910f-9b2cbde630ac"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/4e084ef9-5836-4cdd-a698-7af73f74fd74"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/huic-occuro"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

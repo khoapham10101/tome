@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "121b2db6-86f0-4e38-8132-eeeca5f3f3fa"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2671eb41-1dd7-40f7-84f5-70359af78a41"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/distineo-melior-modo-paulatim"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

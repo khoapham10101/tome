@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e93e7bc9-aab3-48ab-a259-6dede27d2112"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b4e462c5-7b0c-4f6f-b55a-342a7b97ef39"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/nobis-proprius-voco"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

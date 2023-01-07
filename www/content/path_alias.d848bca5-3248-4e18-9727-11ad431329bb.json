@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d848bca5-3248-4e18-9727-11ad431329bb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ef80f2fa-0062-44d5-a8c4-612f7454acdb"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/olim-ulciscor"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

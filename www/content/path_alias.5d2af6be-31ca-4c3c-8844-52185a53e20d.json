@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "5d2af6be-31ca-4c3c-8844-52185a53e20d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/aae24af5-d20d-4438-ae72-8f6f5019c2d4"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/scisco-0"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

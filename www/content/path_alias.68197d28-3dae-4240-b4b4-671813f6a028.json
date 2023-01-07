@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "68197d28-3dae-4240-b4b4-671813f6a028"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/c55b49ac-36a4-4577-96db-91908ae0508e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/iustum-refoveo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

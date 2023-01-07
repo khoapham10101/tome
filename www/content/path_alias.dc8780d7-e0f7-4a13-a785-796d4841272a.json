@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "dc8780d7-e0f7-4a13-a785-796d4841272a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1a813dd0-62eb-4785-839e-83cf8efcbf56"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/esse-refero-saluto"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

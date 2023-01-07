@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "76569c8b-2098-48a5-a7cf-14443fd64f6d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/edf408ee-b0db-4d72-8d3d-ae22f52ccaad"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/virtus-voco"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

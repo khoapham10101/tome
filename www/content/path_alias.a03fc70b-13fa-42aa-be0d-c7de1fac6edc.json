@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a03fc70b-13fa-42aa-be0d-c7de1fac6edc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0844282b-b1ce-4077-9a48-a7ae652bcc44"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/diam-neo-voco"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

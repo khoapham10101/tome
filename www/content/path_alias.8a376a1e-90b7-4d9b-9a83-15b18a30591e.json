@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "8a376a1e-90b7-4d9b-9a83-15b18a30591e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/5750bfbb-26a7-4021-b3d8-14054bfab7dd"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/ad-lucidus-ulciscor"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

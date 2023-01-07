@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "caadc42d-aba7-4e68-9bcd-7201a193f590"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/63c6c0b9-64ff-4890-b578-81811a22d844"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/abico-esca"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

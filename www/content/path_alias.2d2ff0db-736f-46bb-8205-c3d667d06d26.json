@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "2d2ff0db-736f-46bb-8205-c3d667d06d26"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/49fc0557-ecf2-4cdf-90cd-eb9e48df0c97"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/jumentum-praemitto-quae"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

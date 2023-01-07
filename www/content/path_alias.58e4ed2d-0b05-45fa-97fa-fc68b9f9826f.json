@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "58e4ed2d-0b05-45fa-97fa-fc68b9f9826f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/eeb0ca33-88f6-44be-ac32-b552247574d9"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/ludus-nobis"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f3acfd5a-85e5-48b4-9400-dd1789647754"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b81c9b8e-f413-4805-abe7-2b6389a6a389"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/exerci-sudo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

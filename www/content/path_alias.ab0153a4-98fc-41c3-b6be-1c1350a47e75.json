@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ab0153a4-98fc-41c3-b6be-1c1350a47e75"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/d4c2ecfd-b920-4b3a-b0db-9111bbdad20e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/nimis-tincidunt"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

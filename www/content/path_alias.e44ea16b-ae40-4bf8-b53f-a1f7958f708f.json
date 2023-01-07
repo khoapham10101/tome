@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e44ea16b-ae40-4bf8-b53f-a1f7958f708f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b6ce6cd3-5d09-4b22-a474-105a14851824"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/gravis"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

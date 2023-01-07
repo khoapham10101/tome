@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "64bdd694-93db-413e-bb3c-9672a606e0cc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7179af3b-08fb-4908-b853-609bd327a1a3"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/acsi"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "53ca4081-a280-489a-b33d-dd7971dba824"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2209cddc-bb0c-4c6e-8304-e1a82ad86ac0"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/commoveo-vel"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

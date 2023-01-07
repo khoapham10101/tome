@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "49a124b1-2df3-426e-b5f0-bfce5adbb210"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/c6f8c51b-fc38-426e-8529-0b2fa51365a5"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/bene-secundum"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

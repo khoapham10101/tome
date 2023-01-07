@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "bad81362-0979-4213-b5ba-07428de0bb89"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3f7ec027-1471-4485-a413-a1e90b608e0f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/sagaciter"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

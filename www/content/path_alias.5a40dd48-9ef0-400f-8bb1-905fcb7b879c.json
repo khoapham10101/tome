@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "5a40dd48-9ef0-400f-8bb1-905fcb7b879c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/5ea5f3f6-c6c5-44be-ab4a-c00ef15862d3"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/gilvus-similis-ut"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

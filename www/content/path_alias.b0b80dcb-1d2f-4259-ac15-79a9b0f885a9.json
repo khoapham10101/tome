@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b0b80dcb-1d2f-4259-ac15-79a9b0f885a9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/305a30d1-3979-4860-a5cf-47088517d3f2"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/lucidus-persto-sit"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

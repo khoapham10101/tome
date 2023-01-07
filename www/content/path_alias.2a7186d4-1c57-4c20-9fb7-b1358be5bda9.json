@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "2a7186d4-1c57-4c20-9fb7-b1358be5bda9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/bd8e4708-9972-491c-92c2-f2b7b9e72c2e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/accumsan-os"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

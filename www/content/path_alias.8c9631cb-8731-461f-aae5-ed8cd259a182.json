@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "8c9631cb-8731-461f-aae5-ed8cd259a182"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b68e75d2-bd56-4ecd-8103-0be122fea219"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/illum"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

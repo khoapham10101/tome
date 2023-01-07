@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "397fa073-7265-4aec-bbbd-8c7f344baf00"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1180aa24-f467-42e8-9e8a-96bc62fd12b7"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/nimis-quadrum-suscipere"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

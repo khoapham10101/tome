@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "bd4152fb-ba65-44b0-8e2f-e89dddb2d5a2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/01abbddd-9c0f-410d-8bc7-fc349982d89d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/modo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

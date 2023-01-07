@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e8cc69fc-831b-4ab3-892b-6dbe7fc9d1e8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/79c59c30-e7a5-463e-b4ff-ed17225b5642"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/haero"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

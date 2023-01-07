@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "8c2285b7-02ac-487e-b4a6-38ed2b06402a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ad712d8c-7522-4c58-9610-237f0a36e871"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/eligo-oppeto-quidem-saluto"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

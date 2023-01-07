@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "eb7f8074-4395-4959-8f28-74eb09eaab76"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/51db9fb7-70d5-4b9b-b4d0-4525762092b5"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/distineo-mos-odio"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "30dee155-de5a-4e36-8aa0-74915f20fb4c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/8c6b4a59-f891-4d60-99b6-d3563a77d1b8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/jumentum-volutpat"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

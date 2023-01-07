@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "01bc7d9f-7ac7-40a8-a88f-e89484993d45"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/61684b87-a615-455b-9a89-35db5c177de0"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/melior-occuro-turpis"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

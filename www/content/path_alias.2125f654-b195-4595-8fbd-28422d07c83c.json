@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "2125f654-b195-4595-8fbd-28422d07c83c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/8e8807c9-7c93-4c52-9202-f751c956244e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/commoveo-jus-scisco"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

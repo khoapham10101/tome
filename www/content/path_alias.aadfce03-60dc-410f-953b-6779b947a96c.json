@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "aadfce03-60dc-410f-953b-6779b947a96c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f56e2558-7cf2-43c3-a184-c5d5648b7998"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/esse-huic"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "85e6eeaf-df11-4d54-a935-b9e91545f7ca"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3336eafa-b0b3-467c-88e3-9846e9ba4f68"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/proprius"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d9307016-84d4-4615-af41-fdf48f62bbb1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7e824028-3f06-4c6f-811f-a7a1c60f5380"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/distineo-quadrum"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "01090882-8e63-4a02-a75f-78ddae9ac655"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/e58f13fc-af98-4ec1-923c-17ece7ce7937"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/oppeto"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "69286f5e-fcde-460e-9ced-298eb2167875"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/89ca71f4-1590-4d9d-8b67-c7c93c0ee30b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/esca-minim-neo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

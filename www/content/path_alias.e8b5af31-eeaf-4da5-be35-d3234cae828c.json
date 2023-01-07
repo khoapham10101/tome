@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e8b5af31-eeaf-4da5-be35-d3234cae828c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/5d1969fd-16ad-4f9e-8036-7fba374342ed"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/abigo-nunc-sino-vulpes"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

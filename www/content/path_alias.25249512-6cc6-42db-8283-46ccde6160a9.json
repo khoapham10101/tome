@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "25249512-6cc6-42db-8283-46ccde6160a9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0cae9102-385d-4f8a-8de5-2e4154fb1cac"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/augue-ea-lucidus-nisl"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "19738b08-b67c-440b-b4bc-39f005a178c6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/a5f2236d-0dd4-4324-9134-e725136ce2be"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/conventio-quia-te"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

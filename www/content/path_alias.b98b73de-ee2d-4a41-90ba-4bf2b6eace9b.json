@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b98b73de-ee2d-4a41-90ba-4bf2b6eace9b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/cf6fb03b-8e29-401e-831d-82d09d950578"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/decet-pala-refoveo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

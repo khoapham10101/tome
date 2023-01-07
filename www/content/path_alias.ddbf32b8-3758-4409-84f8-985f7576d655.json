@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ddbf32b8-3758-4409-84f8-985f7576d655"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1edfd5c6-838d-4277-9514-99dea2561bdb"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/iriure-iustum-nisl"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

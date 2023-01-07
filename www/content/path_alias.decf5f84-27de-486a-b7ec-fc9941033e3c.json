@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "decf5f84-27de-486a-b7ec-fc9941033e3c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/18dce9d1-6357-4904-9110-bc04bb8a2e5f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/eros-sit"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

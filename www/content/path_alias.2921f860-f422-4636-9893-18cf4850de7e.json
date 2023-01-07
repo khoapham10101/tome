@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "2921f860-f422-4636-9893-18cf4850de7e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/23181c1f-f4a8-4406-ba78-c4ff0e989f80"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/damnum-0"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

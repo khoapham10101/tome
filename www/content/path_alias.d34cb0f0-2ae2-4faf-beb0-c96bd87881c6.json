@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d34cb0f0-2ae2-4faf-beb0-c96bd87881c6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ef6c4891-fac9-4703-b294-cc22c8c034e8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/ea-uxor"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

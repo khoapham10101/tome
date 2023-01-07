@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e636d8f1-83c0-4e1d-a496-201b48e05916"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/52d06a71-e094-41c1-bcaa-e67f9c996fa0"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/vulpes"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

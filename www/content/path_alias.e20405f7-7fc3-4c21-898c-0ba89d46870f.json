@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e20405f7-7fc3-4c21-898c-0ba89d46870f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1e2dc472-bfa1-4afd-b6c0-da49017ea8e0"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/abico-amet-voco"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

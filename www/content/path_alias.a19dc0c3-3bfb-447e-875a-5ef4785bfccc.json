@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a19dc0c3-3bfb-447e-875a-5ef4785bfccc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/da888153-ac27-423c-9192-c85e81eaee5f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/refoveo-valetudo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

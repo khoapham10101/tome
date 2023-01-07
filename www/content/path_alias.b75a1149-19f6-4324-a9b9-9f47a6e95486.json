@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b75a1149-19f6-4324-a9b9-9f47a6e95486"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/c59a6a87-dcca-490a-85a3-730a28cf61eb"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/distineo-persto"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "dda60f52-dffc-43a1-b436-300cb14b3bd0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/16e90f4f-0239-46fa-b7aa-54146d6b58ea"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/pertineo-veniam"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "833b006a-81b2-463a-99a2-d49cb89fa15f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2e0cc0d4-08a2-44df-9bde-80ec16d3e1ab"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/diam-eros-jumentum"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

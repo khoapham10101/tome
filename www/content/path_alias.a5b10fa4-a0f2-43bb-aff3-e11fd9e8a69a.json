@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a5b10fa4-a0f2-43bb-aff3-e11fd9e8a69a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/121fbc67-57a4-4810-b191-7fdd4ee30e03"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/metuo-pagus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

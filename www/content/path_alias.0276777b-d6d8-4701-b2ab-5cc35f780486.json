@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0276777b-d6d8-4701-b2ab-5cc35f780486"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/798fa1dc-eada-40e2-9bd8-84e4228476ff"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/gilvus-magna-pertineo-sudo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

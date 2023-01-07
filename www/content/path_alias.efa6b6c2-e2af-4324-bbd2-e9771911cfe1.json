@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "efa6b6c2-e2af-4324-bbd2-e9771911cfe1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/174f3343-5142-49c4-8ef2-fae228b62efe"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/si-vel"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "cb2fae86-ecf4-4873-a363-267d34074dfc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/891599c4-6153-4f59-a50a-618b04bd86e6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/probo-roto-saepius-sudo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

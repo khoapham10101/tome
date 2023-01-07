@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "80a3f691-5e2e-498f-9ccd-8f5b7715127d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/89b93ef3-246b-4735-b28e-9be9fb3fa612"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/qui-singularis-usitas"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

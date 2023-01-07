@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "77bd3000-cbf6-4b21-a560-793dd2c209ec"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ce68f1ce-7574-4dea-89a2-4d3b8c050a93"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/distineo-pertineo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

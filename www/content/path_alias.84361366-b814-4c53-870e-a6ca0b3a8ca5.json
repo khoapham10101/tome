@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "84361366-b814-4c53-870e-a6ca0b3a8ca5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/61068375-0d29-45e3-b9e1-6d179072a911"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/jus-pneum-praemitto"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

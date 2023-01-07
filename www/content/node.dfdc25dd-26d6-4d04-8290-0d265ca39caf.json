@@ -1,0 +1,127 @@
+{
+    "uuid": [
+        {
+            "value": "dfdc25dd-26d6-4d04-8290-0d265ca39caf"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article",
+            "target_type": "node_type",
+            "target_uuid": "6d9f0af7-9523-4833-ad58-035e1a27be0d"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-01-07T15:33:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "f0784ad9-0392-497f-a2e4-cee9e8fce093"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "f0784ad9-0392-497f-a2e4-cee9e8fce093"
+        }
+    ],
+    "title": [
+        {
+            "value": "Amet Os Tum"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-01-01T00:06:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-01-07T15:33:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "Comis occuro praesent sagaciter. Capto lucidus quis. Bene caecus feugiat ludus utinam voco. Feugiat imputo jumentum natu nulla os virtus. Abbas feugiat pertineo probo quadrum qui quia roto utinam. Commoveo meus nisl occuro qui vel. Lucidus luptatum sudo tamen tego typicus vero. Commodo facilisi gemino ille in nibh quidne valetudo.\n\nEsse jugis nisl nunc quidne scisco suscipit veniam verto ymo. Ad aptent camur iaceo lucidus melior pneum quis vero. Caecus ex inhibeo natu quadrum tego turpis. Accumsan eligo gilvus lobortis typicus.\n\nAd ea genitus inhibeo nulla paulatim secundum suscipere vulputate wisi. Amet augue comis defui eros esse ex iusto tation usitas. Abbas exerci inhibeo pneum ratis.\n\nHos oppeto tego. Commodo eros molior neo nobis singularis turpis. Consequat conventio et ideo laoreet lenis nibh si voco. Dolor proprius vulpes. Appellatio bene gilvus haero laoreet loquor molior os sagaciter. Abico eligo ibidem letalis melior tation vel. Accumsan appellatio odio praemitto.\n\nAugue cogo euismod iustum melior neque sudo ut vereor volutpat. Dolor dolore immitto importunus magna quae quidem sudo ymo zelus. Hos iaceo letalis mos qui. Iaceo interdico nimis nunc os quidem quis vero vulputate.\n\nDefui iusto nibh nutus proprius si sudo velit ymo. Acsi adipiscing consequat damnum defui diam interdico molior praemitto scisco. Abluo facilisis natu paratus populus qui.\n\nCausa fere mauris velit. Euismod importunus quis ullamcorper vulputate zelus. Lobortis ludus meus neo similis verto. Camur jus minim vulpes. Abico cui ea fere iusto jumentum quia vero vindico.\n\nAptent dolor quidem velit venio. Duis facilisis iriure neque paratus quis sino vicis. Autem damnum euismod quidne refero sed te usitas. Acsi ea importunus mos nobis sed tation torqueo velit. Elit esca gilvus jus melior nulla pagus virtus vulputate. Duis facilisis iustum minim quadrum tum veniam. Capto causa dolore huic. Te tum vereor wisi. Acsi cogo commodo conventio eu iusto secundum torqueo verto.\n\nImportunus iusto luptatum molior pala. Abbas huic praesent. Ex genitus imputo laoreet probo validus vel vindico. Ad euismod sit. Acsi feugiat hos luctus proprius ullamcorper veniam. Abico distineo pneum. Dolus duis quidem. Abbas huic illum quae quidem saepius te zelus.\n\nEum ibidem imputo quae torqueo vicis wisi. Dolus melior modo mos paratus pertineo saluto. Aptent eu nimis pagus persto veniam. Abdo aliquam antehabeo exerci modo praemitto premo quidne utrum voco.\n\nAbluo fere nimis. Loquor macto quia quidem. Commoveo iusto jugis molior nimis odio ratis. Eros facilisi nunc pagus qui tation. Aptent nulla praemitto validus voco.\n\nAbbas aliquip capto esca proprius tincidunt venio vicis. Antehabeo defui enim lucidus quae sino. Cui defui distineo enim esca importunus praesent ullamcorper. Ex facilisis gravis premo velit. Abigo antehabeo iustum premo uxor vindico ymo. Blandit cui dignissim illum pecus veniam vicis. Amet hendrerit jugis neo nibh quia wisi.\n\n",
+            "format": "plain_text",
+            "summary": "Comis occuro praesent sagaciter. Capto lucidus quis. Bene caecus feugiat ludus utinam voco. Feugiat imputo jumentum natu nulla os virtus. Abbas feugiat pertineo probo quadrum qui quia roto utinam. Commoveo meus nisl occuro qui vel. Lucidus luptatum sudo tamen tego typicus vero. Commodo facilisi gemino ille in nibh quidne valetudo.\n\nEsse jugis nisl nunc quidne scisco suscipit veniam verto ymo. Ad aptent camur iaceo lucidus melior pneum quis vero. Caecus ex inhibeo natu quadrum tego turpis. Accumsan eligo gilvus lobortis typicus.\n\nAd ea genitus inhibeo nulla paulatim secundum suscipere vulputate wisi. Amet augue comis defui eros esse ex iusto tation usitas. Abbas exerci inhibeo pneum ratis.\n\nHos oppeto tego. Commodo eros molior neo nobis singularis turpis. Consequat conventio et ideo laoreet lenis nibh si voco. Dolor proprius vulpes. Appellatio bene gilvus haero laoreet loquor molior os sagaciter. Abico eligo ibidem letalis melior tation vel. Accumsan appellatio odio praemitto.\n\nAugue cogo euismod iustum melior neque sudo ut vereor volutpat. Dolor dolore immitto importunus magna quae quidem sudo ymo zelus. Hos iaceo letalis mos qui. Iaceo interdico nimis nunc os quidem quis vero vulputate.\n\nDefui iusto nibh nutus proprius si sudo velit ymo. Acsi adipiscing consequat damnum defui diam interdico molior praemitto scisco. Abluo facilisis natu paratus populus qui.\n\nCausa fere mauris velit. Euismod importunus quis ullamcorper vulputate zelus. Lobortis ludus meus neo similis verto. Camur jus minim vulpes. Abico cui ea fere iusto jumentum quia vero vindico.\n\nAptent dolor quidem velit venio. Duis facilisis iriure neque paratus quis sino vicis. Autem damnum euismod quidne refero sed te usitas. Acsi ea importunus mos nobis sed tation torqueo velit. Elit esca gilvus jus melior nulla pagus virtus vulputate. Duis facilisis iustum minim quadrum tum veniam. Capto causa dolore huic. Te tum vereor wisi. Acsi cogo commodo conventio eu iusto secundum torqueo verto.\n\nImportunus iusto luptatum molior pala. Abbas huic praesent. Ex genitus imputo laoreet probo validus vel vindico. Ad euismod sit. Acsi feugiat hos luctus proprius ullamcorper veniam. Abico distineo pneum. Dolus duis quidem. Abbas huic illum quae quidem saepius te zelus.\n\nEum ibidem imputo quae torqueo vicis wisi. Dolus melior modo mos paratus pertineo saluto. Aptent eu nimis pagus persto veniam. Abdo aliquam antehabeo exerci modo praemitto premo quidne utrum voco.\n\nAbluo fere nimis. Loquor macto quia quidem. Commoveo iusto jugis molior nimis odio ratis. Eros facilisi nunc pagus qui tation. Aptent nulla praemitto validus voco.\n\nAbbas aliquip capto esca proprius tincidunt venio vicis. Antehabeo defui enim lucidus quae sino. Cui defui distineo enim esca importunus praesent ullamcorper. Ex facilisis gravis premo velit. Abigo antehabeo iustum premo uxor vindico ymo. Blandit cui dignissim illum pecus veniam vicis. Amet hendrerit jugis neo nibh quia wisi.\n\n"
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "Abigo conventio ibidem lucidus sagaciter saluto sino utrum ymo.",
+            "title": "Aptent blandit eligo imputo nostrud olim probo sed virtus ymo.",
+            "width": 135,
+            "height": 244,
+            "target_type": "file",
+            "target_uuid": "fadf1922-2a16-4561-be7e-7fbad9aa3952"
+        }
+    ],
+    "field_tags": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "75bbf78a-698b-4a93-a2f5-e311959ac257"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "827dba83-ec8f-4cbf-8d1f-5dec315ae96f"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "39f767d9-2c7a-4f96-9dec-7a89a7d74375"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c71a439a-cea8-434e-8d3c-4bd1a4c24ac3"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "91f26b51-dc49-4f1b-86d9-22fc12f5eaf1"
+        }
+    ]
+}

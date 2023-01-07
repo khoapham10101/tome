@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "6779c672-c753-42e2-8ff3-a3d670cac5db"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2aa91b8a-155d-4d7b-8a96-db148baca4db"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/hos-singularis"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

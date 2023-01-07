@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "9f8212f3-bab2-4f05-9aa5-c3bebcfa7ad8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/678dd75c-f66b-4905-962b-e23a3feae0a6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/blandit-meus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

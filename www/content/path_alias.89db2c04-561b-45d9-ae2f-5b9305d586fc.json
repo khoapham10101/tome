@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "89db2c04-561b-45d9-ae2f-5b9305d586fc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f8dd0625-5adf-4100-beb4-b1be7889b1f1"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/iusto-paulatim"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

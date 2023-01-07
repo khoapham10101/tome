@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e01d10ce-65ba-408a-9568-fec6cd6d232e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/64dd75c0-fed9-4e3a-8245-dee5a9b806ef"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/aliquip-blandit"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

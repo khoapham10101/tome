@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "de0dcfef-2948-4c1c-ab38-048142c1db45"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/15688b70-76df-4f1a-91fa-92a52a852fa0"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/olim-rusticus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

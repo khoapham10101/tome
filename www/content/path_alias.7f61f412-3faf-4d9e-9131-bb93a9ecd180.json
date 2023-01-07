@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7f61f412-3faf-4d9e-9131-bb93a9ecd180"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/307cde5d-55e6-4ebb-94e3-408302ac8130"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/amet-enim"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "77e32029-cfcc-4bf5-b68e-9aba9a49fe36"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/cdf9f325-2e3f-4292-9a5b-83c8d266fa46"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/augue-gemino-sed"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

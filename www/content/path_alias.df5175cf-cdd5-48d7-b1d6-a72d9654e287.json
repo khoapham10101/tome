@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "df5175cf-cdd5-48d7-b1d6-a72d9654e287"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/44cba5be-c26b-4d3f-8400-ca667fe75bd2"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/ludus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

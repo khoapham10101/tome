@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ce638fba-606b-469d-acf2-1d97d9b7f87d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/d0b3e982-c502-459a-bff6-228c60233bca"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/diam-laoreet"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
