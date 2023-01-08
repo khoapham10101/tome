@@ -79,6 +79,7 @@
         "drupal/fortytwo": "^4.6",
         "drupal/fsk_frontend": "^0.6.1",
         "drupal/gesso": "^5.1",
+        "drupal/google_tag": "^1.6",
         "drupal/govuk_theme": "^1.11",
         "drupal/guswds": "^5.1",
         "drupal/hidden_toolbar": "^2.1",
