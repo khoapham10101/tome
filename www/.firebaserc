@@ -2,7 +2,7 @@
   "projects": {
     "default": "tome-ajans",
     "aristotle": "tome-aristotle",
-    "barebones_enhanced": "tome-barebones_enhanced"
+    "barebones_enhanced": "tome-barebones-enhanced"
   },
   "targets": {},
   "etags": {}
