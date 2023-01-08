@@ -4,6 +4,7 @@ status: true
 dependencies:
   module:
     - contact
+    - google_analytics
     - search
     - shortcut
     - system
@@ -17,4 +18,5 @@ permissions:
   - 'access content'
   - 'access shortcuts'
   - 'access site-wide contact form'
+  - 'opt-in or out of google analytics tracking'
   - 'search content'
