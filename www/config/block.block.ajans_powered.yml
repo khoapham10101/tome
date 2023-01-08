@@ -1,0 +1,22 @@
+uuid: e1e31292-f6a7-4d55-9da0-c8281b569d38
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - ajans
+_core:
+  default_config_hash: GUvc9iMWK8TPY2lLV6oM-IKW49Ib2ruj0FcE4Iw9qXc
+id: ajans_powered
+theme: ajans
+region: footer
+weight: -10
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal | UIkit | SeASerNet'
+  label_display: '0'
+  provider: system
+visibility: {  }

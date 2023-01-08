@@ -1,0 +1,20 @@
+uuid: c87f72df-17d6-4c24-ab62-51d82975b51f
+langcode: en
+status: true
+dependencies:
+  theme:
+    - topplus_lite
+_core:
+  default_config_hash: GFyMdh3L5YY0fywKXywZo2a0A7Y1DdlLNeIaYSVj5tU
+id: topplus_lite_local_actions
+theme: topplus_lite
+region: content
+weight: -7
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }

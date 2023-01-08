@@ -1,0 +1,22 @@
+uuid: c583995e-db42-4f9b-9af4-7abdea1766ba
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - corporate_lite
+_core:
+  default_config_hash: crVbHPO-cksyYypH3JvHD18i1xgHkoKIBFwtPaYeYDI
+id: corporate_lite_messages
+theme: corporate_lite
+region: system_messages
+weight: -6
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  label_display: '0'
+  provider: system
+visibility: {  }

@@ -1,0 +1,27 @@
+uuid: 1d854d95-4cad-411d-9bf5-1cf9bf312ef0
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.main
+  module:
+    - system
+  theme:
+    - ajans
+_core:
+  default_config_hash: VVYF1F7M0je8PwjNOr1fpDJwrM3IcUdq5kE4zG_r-CI
+id: ajans_main_menu
+theme: ajans
+region: navbar_right
+weight: 10
+provider: null
+plugin: 'system_menu_block:main'
+settings:
+  id: 'system_menu_block:main'
+  label: 'Main navigation'
+  label_display: '0'
+  provider: system
+  level: 1
+  depth: 2
+  expand_all_items: false
+visibility: {  }

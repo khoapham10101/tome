@@ -1,0 +1,27 @@
+uuid: 21fa82f5-0762-41f7-9cfd-0a282c797ac9
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.main
+  module:
+    - system
+  theme:
+    - creative_responsive_theme
+_core:
+  default_config_hash: sAaHyx13V5tpanuFeR__cxE9RvypNbu1-ffpGZDWntU
+id: creative_responsive_theme_main_menu
+theme: creative_responsive_theme
+region: primary_menu
+weight: 10
+provider: null
+plugin: 'system_menu_block:main'
+settings:
+  id: 'system_menu_block:main'
+  label: 'Main navigation'
+  label_display: '0'
+  provider: system
+  level: 1
+  depth: 2
+  expand_all_items: false
+visibility: {  }

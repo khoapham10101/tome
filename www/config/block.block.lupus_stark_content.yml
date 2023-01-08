@@ -1,0 +1,22 @@
+uuid: 7e59d445-a8c7-440a-85ff-e2f769d5678a
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - lupus_stark
+_core:
+  default_config_hash: erQSEZF2XUjNmgTl0uNRBzmg18ZGXwUcw2FhApoeuHk
+id: lupus_stark_content
+theme: lupus_stark
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

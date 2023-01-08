@@ -1,0 +1,20 @@
+uuid: b3ede064-a640-4f88-9c2f-3f0f77ae34b5
+langcode: en
+status: true
+dependencies:
+  theme:
+    - minimal_lite
+_core:
+  default_config_hash: 9ZMF6xDjsU_N4HFABHNvmUeqtxjhgycyV1AIBqJqvXo
+id: minimal_lite_page_title
+theme: minimal_lite
+region: content
+weight: -7
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility: {  }

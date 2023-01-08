@@ -1,0 +1,22 @@
+uuid: b80b6f02-a7d4-42bc-ba9c-c9ec8bb62b35
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - startupgrowth_lite
+_core:
+  default_config_hash: BWDcThZUkxHXbrO9BOQ0MIsrWE7kaNkt9sq2dsL5QCM
+id: startupgrowth_lite_breadcrumbs
+theme: startupgrowth_lite
+region: banner
+weight: -6
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility: {  }

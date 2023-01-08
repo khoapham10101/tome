@@ -1,0 +1,22 @@
+uuid: c69bcdfc-47a6-4a4e-85f4-785bc09c5286
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - raspberry
+_core:
+  default_config_hash: pQnERuG0mKX4mgGl2xPr8DsGz75TtI15V1zDPdHGc8Y
+id: raspberry_content
+theme: raspberry
+region: content
+weight: 1
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

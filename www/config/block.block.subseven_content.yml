@@ -1,0 +1,22 @@
+uuid: 126bcbe0-559d-4193-b5bc-47aa3445abcc
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - subseven
+_core:
+  default_config_hash: erQSEZF2XUjNmgTl0uNRBzmg18ZGXwUcw2FhApoeuHk
+id: subseven_content
+theme: subseven
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

@@ -1,0 +1,25 @@
+uuid: b157d641-e1a3-4e4b-9ff4-1bde26069849
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - minimal_lite
+_core:
+  default_config_hash: E8mefhAnIKsTgALtrZGvTz6564jLa0401m8Y4HWnC68
+id: minimal_lite_branding
+theme: minimal_lite
+region: header_first
+weight: -6
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  label_display: '0'
+  provider: system
+  use_site_logo: true
+  use_site_name: true
+  use_site_slogan: true
+visibility: {  }

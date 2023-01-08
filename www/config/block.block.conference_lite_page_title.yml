@@ -1,0 +1,20 @@
+uuid: 6ee6ccb6-3479-4815-9f84-9a1e43d79dbf
+langcode: en
+status: true
+dependencies:
+  theme:
+    - conference_lite
+_core:
+  default_config_hash: S-y9o4BFwgSGBIZ9ynn1hHzxajvMcM1l5hjGsFSxH3Y
+id: conference_lite_page_title
+theme: conference_lite
+region: content
+weight: -7
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility: {  }

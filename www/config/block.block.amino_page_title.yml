@@ -1,0 +1,20 @@
+uuid: 2cda427c-c870-4caa-80e5-b0380c8450c3
+langcode: en
+status: true
+dependencies:
+  theme:
+    - amino_theme
+_core:
+  default_config_hash: 2Klk13ZXPmdbkPQvVIfgvy-mdnE9yPL3115D_C03Xp0
+id: amino_page_title
+theme: amino_theme
+region: content_top
+weight: 0
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility: {  }

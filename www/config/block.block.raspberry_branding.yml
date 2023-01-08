@@ -1,0 +1,25 @@
+uuid: 5beefed5-d186-4303-878d-9f361ed1a1b8
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - raspberry
+_core:
+  default_config_hash: qSYhu4UO1RM_RchGYiQfmQF_3wM2KR1f5AZZlPhh3r4
+id: raspberry_branding
+theme: raspberry
+region: header
+weight: 0
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  label_display: '0'
+  provider: system
+  use_site_logo: true
+  use_site_name: false
+  use_site_slogan: false
+visibility: {  }

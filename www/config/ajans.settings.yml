@@ -1,0 +1,38 @@
+_core:
+  default_config_hash: IlMhuxNNh8cIOEcpqvRBNI3QHBPuTs044j-uDpCj6sQ
+features:
+  node_user_picture: true
+  comment_user_picture: true
+  comment_user_verification: true
+  favicon: 1
+logo:
+  use_default: 1
+favicon:
+  use_default: 1
+show_about_block: 1
+about_us: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi corrupti recusandae neque error doloremque voluptate nisi, ea voluptatum consequuntur perferendis ad maxime, sint fugit ut similique, odit consectetur. Odio, voluptatem!'
+facebook_url: 'https://www.facebook.com/'
+twitter_url: 'https://twitter.com/'
+linkedin_url: 'https://www.linkedin.com/'
+instagram_url: 'https://www.instagram.com/'
+youtube_url: 'https://www.youtube.com/'
+show_contact_block: 1
+contact_title: 'For Client'
+phone: '+90 (987) 654 32 10'
+email: info@abc.com
+no_of_slides: '3'
+show_slideshow: 1
+slideshow_autoplay: 1
+slideshow_animation: fade
+slide_image_path:
+  - '4'
+slideshow_ratio: '5:2'
+slide_title_1: 'AJANS TEMPLATE'
+slide_description_1: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi corrupti recusandae neque error doloremque voluptate nisi, ea voluptatum consequuntur perferendis ad maxime, sint fugit ut similique, odit consectetur. Odio, voluptatem!'
+slide_url_1: '#'
+slide_title_2: 'RESPONSIVE MOBILE'
+slide_description_2: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi corrupti recusandae neque error doloremque voluptate nisi, ea voluptatum consequuntur perferendis ad maxime, sint fugit ut similique, odit consectetur. Odio, voluptatem!'
+slide_url_2: '#'
+slide_title_3: 'Drupal Theme'
+slide_description_3: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi corrupti recusandae neque error doloremque voluptate nisi, ea voluptatum consequuntur perferendis ad maxime, sint fugit ut similique, odit consectetur. Odio, voluptatem!'
+slide_url_3: '#'

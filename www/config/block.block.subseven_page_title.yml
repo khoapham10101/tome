@@ -1,0 +1,20 @@
+uuid: 76c549e2-27f5-4533-aab7-2320338a3648
+langcode: en
+status: true
+dependencies:
+  theme:
+    - subseven
+_core:
+  default_config_hash: 6aOgWsNTXjqrDm98TXSAjP6qd2nCijD1xw45MrnbK-Y
+id: subseven_page_title
+theme: subseven
+region: header
+weight: -5
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility: {  }

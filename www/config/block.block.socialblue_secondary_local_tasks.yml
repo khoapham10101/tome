@@ -1,0 +1,22 @@
+uuid: 16a7e3ad-a6dc-4135-9ed9-dfe763d845e6
+langcode: en
+status: true
+dependencies:
+  theme:
+    - socialblue
+_core:
+  default_config_hash: ydSxdq7R66I8UMC460rOzlfzvlUL4VRbdwc6z9DWaUI
+id: socialblue_secondary_local_tasks
+theme: socialblue
+region: hidden
+weight: -2
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: 'Secondary tabs'
+  label_display: '0'
+  provider: core
+  primary: false
+  secondary: true
+visibility: {  }

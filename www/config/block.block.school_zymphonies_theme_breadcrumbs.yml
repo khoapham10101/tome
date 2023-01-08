@@ -1,0 +1,22 @@
+uuid: c1edf334-d29c-4e2e-85b3-5e258c6d692e
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - school_zymphonies_theme
+_core:
+  default_config_hash: YkGzvdufopujWz9Ms7dN6SYFhXd8ShLj8-FOt227kZ4
+id: school_zymphonies_theme_breadcrumbs
+theme: school_zymphonies_theme
+region: breadcrumb
+weight: -100
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility: {  }

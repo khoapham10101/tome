@@ -1,0 +1,22 @@
+uuid: 4ad3261d-7534-4a90-bb52-615b2d31c5dd
+langcode: en
+status: true
+dependencies:
+  theme:
+    - photographer
+_core:
+  default_config_hash: nGE3EoPQQaQCuqTUtZgw0-KIzmrqdKDzdNQf2JyPUt4
+id: photographer_primary_local_tasks
+theme: photographer
+region: header
+weight: -4
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: 'Primary tabs'
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: false
+visibility: {  }

@@ -1,0 +1,20 @@
+uuid: 7269c0a1-d43b-40eb-b881-b5507c009e21
+langcode: en
+status: true
+dependencies:
+  theme:
+    - mobidic
+_core:
+  default_config_hash: Q9_2whdOj1YIomfvsIfopROW4FT_X5pY0DjdOiOaQ5U
+id: mobidic_primary_admin_actions
+theme: mobidic
+region: header
+weight: -5
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }

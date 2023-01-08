@@ -1,0 +1,23 @@
+uuid: b700ad69-b6f0-4de2-8e92-7d887b310def
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - fortytwo
+_core:
+  default_config_hash: yEBET0cqDbk8dkWzaJw-8CKft0961VBflsISoSR6Lj8
+id: fortytwo_search_form_narrow
+theme: fortytwo
+region: header
+weight: -4
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Search form (narrow)'
+  label_display: '0'
+  provider: search
+  page_id: ''
+visibility: {  }

@@ -1,0 +1,22 @@
+uuid: 1c3e5afc-e5d8-4dea-98ca-a125a54bec0e
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - firma
+_core:
+  default_config_hash: pG3oBTR6VHGcWpRCTswjKOZj63DGATWuBdaM04Obx-A
+id: firma_messages
+theme: firma
+region: auto_hidden_block
+weight: -50
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  label_display: '0'
+  provider: system
+visibility: {  }

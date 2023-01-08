@@ -1,0 +1,25 @@
+uuid: 2c17e3ab-8d8b-4565-8739-dcde9f729aa1
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - ajans
+_core:
+  default_config_hash: YnOGQFK1rn7s79TU8D4CGRpaWNF_0k0d6yJCdSiup80
+id: ajans_branding
+theme: ajans
+region: navbar_left
+weight: 0
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  label_display: '0'
+  provider: system
+  use_site_logo: true
+  use_site_name: false
+  use_site_slogan: false
+visibility: {  }

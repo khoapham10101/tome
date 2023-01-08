@@ -1,0 +1,27 @@
+uuid: a0c6cf7e-bdd9-4e31-a6b4-7454650180d3
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.account
+  module:
+    - system
+  theme:
+    - raspberry
+_core:
+  default_config_hash: gpWNADxVkTUbCfQfzV7kQb_BiVYrgyzmin-j8QT8UiE
+id: raspberry_account_menu
+theme: raspberry
+region: auto_hidden_block
+weight: 11
+provider: null
+plugin: 'system_menu_block:account'
+settings:
+  id: 'system_menu_block:account'
+  label: 'User account menu'
+  label_display: '0'
+  provider: system
+  level: 1
+  depth: 2
+  expand_all_items: false
+visibility: {  }

@@ -1,0 +1,23 @@
+uuid: a23c0b45-cb9d-4686-839e-d8b4db959e3f
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - clean_blog
+_core:
+  default_config_hash: imMyHD6LYci0gtXq56qr9ZKGHzbEG9uFydrN5EhKtSU
+id: clean_blog_search_form_wide
+theme: clean_blog
+region: navigation
+weight: -5
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Search form (wide)'
+  label_display: '0'
+  provider: search
+  page_id: ''
+visibility: {  }

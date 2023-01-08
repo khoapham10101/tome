@@ -1,0 +1,23 @@
+uuid: 4cb29970-edbc-45eb-80d7-b886b5432425
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - smash_lite
+_core:
+  default_config_hash: PmEa9_M_XC5UYRx0KcDWUJ8telHgPcmm_pIseb3bmdA
+id: smash_lite_searchform
+theme: smash_lite
+region: header_search
+weight: 0
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Search here'
+  label_display: visible
+  provider: search
+  page_id: ''
+visibility: {  }

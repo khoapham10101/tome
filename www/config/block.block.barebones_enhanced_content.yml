@@ -1,0 +1,22 @@
+uuid: 38d7e2db-3399-45db-b52e-53cc3838b43b
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - barebones_enhanced
+_core:
+  default_config_hash: erQSEZF2XUjNmgTl0uNRBzmg18ZGXwUcw2FhApoeuHk
+id: barebones_enhanced_content
+theme: barebones_enhanced
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

@@ -1,0 +1,22 @@
+uuid: 2b1ab1a2-2b13-4652-9971-2b586f4c2727
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - raspberry
+_core:
+  default_config_hash: 3RxMxP_HNO_VKPV-7ejKeklposgJD21aTpTJK9mIAqQ
+id: raspberry_messages
+theme: raspberry
+region: highlighted
+weight: -50
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  label_display: '0'
+  provider: system
+visibility: {  }

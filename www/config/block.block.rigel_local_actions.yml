@@ -1,0 +1,20 @@
+uuid: 52455678-f29e-4d6a-a9d0-0f461aacd3ea
+langcode: en
+status: true
+dependencies:
+  theme:
+    - rigel
+_core:
+  default_config_hash: mQ_8apiJBRnmitfo7BzQp2Rs0ZsptllexH4Fkt-wvLY
+id: rigel_local_actions
+theme: rigel
+region: content
+weight: -2
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }

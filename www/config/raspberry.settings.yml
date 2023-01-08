@@ -1,0 +1,29 @@
+_core:
+  default_config_hash: qTggusFbK97Aj8sC1iI9osqNCHKNFIz4cJjWPR4-64o
+features:
+  comment_user_picture: true
+  comment_user_verification: true
+  favicon: true
+  logo: true
+  name: true
+  node_user_picture: true
+  slogan: true
+facebook_url: 'https://www.facebook.com/ankithinglajia'
+twitter_url: 'https://twitter.com/ankithinglajia'
+linkedin_url: 'https://in.linkedin.com/in/ankithinglajia'
+show_social_icon: 1
+show_credit_link: 1
+show_slideshow: 1
+no_of_slides: 3
+slide_title_1: 'Drupal 8-9 Theme'
+slide_description_1: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Banner Images credit - <a href="http://www.freepik.com">Designed by Freepik</a>'
+slide_url_1: '#'
+slide_image_path_1: /images/slider/slide_01.jpg
+slide_title_2: 'Raspberry Theme'
+slide_description_2: 'long established fact that a reader will be distracted by the readable content of a page when looking at its layout. Banner Images credit - <a href="http://www.freepik.com">Designed by Freepik</a>'
+slide_url_2: '#'
+slide_image_path_2: /images/slider/slide_02.jpg
+slide_title_3: 'Drupal Design And Development'
+slide_description_3: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Banner Images credit - <a href="http://www.freepik.com">Designed by Freepik</a>'
+slide_url_3: '#'
+slide_image_path_3: /images/slider/slide_03.jpg

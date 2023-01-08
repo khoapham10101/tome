@@ -1,0 +1,22 @@
+uuid: 3e882f84-4333-4e77-82b8-7fea18201c87
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - wonder_zymphonies_theme
+_core:
+  default_config_hash: aLbRR_nsR8FeO16kmZn7hLy_hvP41WkyjN7vsGNNExI
+id: wonder_zymphonies_theme_powered
+theme: wonder_zymphonies_theme
+region: auto_hidden_block
+weight: -10
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  label_display: '0'
+  provider: system
+visibility: {  }

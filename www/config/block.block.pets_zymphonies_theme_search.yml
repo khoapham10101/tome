@@ -1,0 +1,23 @@
+uuid: 425148d2-d1fb-496a-87b4-1ef1b2ecafda
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - pets_zymphonies_theme
+_core:
+  default_config_hash: 65DAVyvVyE5UckJ4VJQAPRgicn6EXLvOH2jEBPAzwWI
+id: pets_zymphonies_theme_search
+theme: pets_zymphonies_theme
+region: search
+weight: -1
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: Search
+  label_display: visible
+  provider: search
+  page_id: ''
+visibility: {  }

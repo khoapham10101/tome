@@ -1,0 +1,22 @@
+uuid: 376e6b4b-42f2-428e-995a-842d00c15c2c
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - lupus_stark
+_core:
+  default_config_hash: VhBzWb7lMRtIOg9G7VSw_0uopi-7zXeHq4vXqqV1HFE
+id: lupus_stark_breadcrumbs
+theme: lupus_stark
+region: breadcrumb
+weight: 0
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility: {  }

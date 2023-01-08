@@ -1,0 +1,27 @@
+uuid: d8ff728e-cabc-4b02-8329-de120cae09d5
+langcode: en
+status: false
+dependencies:
+  config:
+    - system.menu.tools
+  module:
+    - system
+  theme:
+    - rigel
+_core:
+  default_config_hash: KpVPGTBmRvslre4rRj8DJNOt64-2vsyLrD5DpSF4zn8
+id: rigel_tools
+theme: rigel
+region: sidebar_second
+weight: 0
+provider: null
+plugin: 'system_menu_block:tools'
+settings:
+  id: 'system_menu_block:tools'
+  label: Tools
+  label_display: '0'
+  provider: system
+  level: 1
+  depth: 0
+  expand_all_items: false
+visibility: {  }

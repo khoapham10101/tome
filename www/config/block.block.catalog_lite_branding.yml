@@ -1,0 +1,25 @@
+uuid: ac1790fd-c42c-4318-9a30-21910ff8eb26
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - catalog_lite
+_core:
+  default_config_hash: 5Ltkjmja3VefEsHTOeLpiwTHvlLtx8rL_DqrfjfdhJA
+id: catalog_lite_branding
+theme: catalog_lite
+region: header_top_first
+weight: -6
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  label_display: '0'
+  provider: system
+  use_site_logo: true
+  use_site_name: true
+  use_site_slogan: true
+visibility: {  }

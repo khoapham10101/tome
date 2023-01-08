@@ -1,0 +1,22 @@
+uuid: 7e18f816-e11a-46fd-aa9a-ee6bcc46f7b0
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - clean_blog
+_core:
+  default_config_hash: VfPFqqxfkomud5CO8DUijw85QIl9GIxh_nIxLOYESxg
+id: clean_blog_help
+theme: clean_blog
+region: navigation
+weight: 0
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

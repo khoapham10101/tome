@@ -1,0 +1,20 @@
+uuid: c678391e-2a7a-45ce-8029-72dbd1cafeb3
+langcode: en
+status: true
+dependencies:
+  theme:
+    - ceremai
+_core:
+  default_config_hash: 6aOgWsNTXjqrDm98TXSAjP6qd2nCijD1xw45MrnbK-Y
+id: ceremai_page_title
+theme: ceremai
+region: top_header_left
+weight: -5
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility: {  }

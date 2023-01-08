@@ -1,0 +1,23 @@
+uuid: c7fefa11-0de5-45b9-97bb-d657229e5845
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - used_cars
+_core:
+  default_config_hash: yEBET0cqDbk8dkWzaJw-8CKft0961VBflsISoSR6Lj8
+id: used_cars_search_form_narrow
+theme: used_cars
+region: primary_menu
+weight: -4
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Search form (narrow)'
+  label_display: '0'
+  provider: search
+  page_id: ''
+visibility: {  }

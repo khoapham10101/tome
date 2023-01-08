@@ -1,0 +1,22 @@
+uuid: a5bf545c-960b-4962-af0a-da4a1bd04a39
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - writer
+_core:
+  default_config_hash: VfPFqqxfkomud5CO8DUijw85QIl9GIxh_nIxLOYESxg
+id: writer_help
+theme: writer
+region: pre_header
+weight: 0
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

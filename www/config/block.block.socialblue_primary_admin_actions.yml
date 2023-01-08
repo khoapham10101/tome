@@ -1,0 +1,20 @@
+uuid: db5ba085-eac8-461e-a72a-331289123ac6
+langcode: en
+status: true
+dependencies:
+  theme:
+    - socialblue
+_core:
+  default_config_hash: Q9_2whdOj1YIomfvsIfopROW4FT_X5pY0DjdOiOaQ5U
+id: socialblue_primary_admin_actions
+theme: socialblue
+region: hidden
+weight: -5
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }

@@ -1,0 +1,22 @@
+uuid: b0c365ed-092f-4ac7-8d04-7a83d74f86fb
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - bootbase
+_core:
+  default_config_hash: erQSEZF2XUjNmgTl0uNRBzmg18ZGXwUcw2FhApoeuHk
+id: bootbase_content
+theme: bootbase
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

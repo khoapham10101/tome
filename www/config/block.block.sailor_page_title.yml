@@ -1,0 +1,20 @@
+uuid: 9c049ada-cc15-4d63-be9d-0f5c7d32af99
+langcode: en
+status: true
+dependencies:
+  theme:
+    - sailor
+_core:
+  default_config_hash: 6aOgWsNTXjqrDm98TXSAjP6qd2nCijD1xw45MrnbK-Y
+id: sailor_page_title
+theme: sailor
+region: header
+weight: -5
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility: {  }

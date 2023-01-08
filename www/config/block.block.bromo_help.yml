@@ -1,0 +1,22 @@
+uuid: d4d40cc1-4edc-4673-bea2-7ac583ca5c28
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - bromo
+_core:
+  default_config_hash: VfPFqqxfkomud5CO8DUijw85QIl9GIxh_nIxLOYESxg
+id: bromo_help
+theme: bromo
+region: top_header_right
+weight: 0
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

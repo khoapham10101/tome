@@ -1,0 +1,20 @@
+uuid: 593a691f-edad-4b6c-bc53-032c903ba017
+langcode: en
+status: true
+dependencies:
+  theme:
+    - catalog_lite
+_core:
+  default_config_hash: m0ghwd6JBslAS6csOqut4hNGuE6ZycYdCIW5c1IlMoI
+id: catalog_lite_local_actions
+theme: catalog_lite
+region: content
+weight: -7
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }

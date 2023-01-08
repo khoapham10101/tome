@@ -1,0 +1,22 @@
+uuid: 8ddac1fc-9e27-4896-8f49-e07a0be6ddef
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - rigel
+_core:
+  default_config_hash: uh1xyZ2RYg3HTv0OiMkvoaCZFJAHAun8KaAhawvTeiQ
+id: rigel_breadcrumbs
+theme: rigel
+region: content
+weight: -6
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility: {  }

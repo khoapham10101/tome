@@ -1,0 +1,22 @@
+uuid: 31c826f8-af08-457b-9c58-9aaeacfe258a
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - edux
+_core:
+  default_config_hash: 0-ckPRB_1vOSThcdEPun0YEqpIDej9sWRecsiMcVTvs
+id: edux_content
+theme: edux
+region: content
+weight: -8
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

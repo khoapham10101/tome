@@ -1,0 +1,22 @@
+uuid: 47d7091b-b849-48cd-9aa2-f60529d6317f
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - fepper
+_core:
+  default_config_hash: erQSEZF2XUjNmgTl0uNRBzmg18ZGXwUcw2FhApoeuHk
+id: fepper_content
+theme: fepper
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

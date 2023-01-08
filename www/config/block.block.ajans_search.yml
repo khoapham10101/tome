@@ -1,0 +1,23 @@
+uuid: e1f5a4a8-28d5-495d-8b2d-363f7f13e4e0
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - ajans
+_core:
+  default_config_hash: 4_hZYPdtyXackPtigvI1djKQNDJRv5kxZpsQ0oD_oU4
+id: ajans_search
+theme: ajans
+region: auto_hidden_block
+weight: -1
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: Search
+  label_display: visible
+  provider: search
+  page_id: ''
+visibility: {  }

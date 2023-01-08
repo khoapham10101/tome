@@ -1,0 +1,22 @@
+uuid: b4c7f0bb-ee87-46d2-a7c1-fbdd0aff1bb7
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - lightship
+_core:
+  default_config_hash: VfPFqqxfkomud5CO8DUijw85QIl9GIxh_nIxLOYESxg
+id: lightship_help
+theme: lightship
+region: leaderboard
+weight: 0
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

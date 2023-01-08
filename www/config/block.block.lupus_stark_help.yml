@@ -1,0 +1,22 @@
+uuid: c9fd45b3-ec13-4d42-b9a5-bbb8b82b9575
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - lupus_stark
+_core:
+  default_config_hash: VfPFqqxfkomud5CO8DUijw85QIl9GIxh_nIxLOYESxg
+id: lupus_stark_help
+theme: lupus_stark
+region: sidebar_first
+weight: 0
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

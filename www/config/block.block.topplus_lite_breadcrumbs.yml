@@ -1,0 +1,27 @@
+uuid: 9f29211a-6d0f-4a97-8a1c-6ab8e046eb2f
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - topplus_lite
+_core:
+  default_config_hash: sI2RMoHMs_hOzRySpw2ii-YvQqYu3iVd_vVtxICt-Xs
+id: topplus_lite_breadcrumbs
+theme: topplus_lite
+region: footer_top_first
+weight: -6
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility:
+  request_path:
+    id: request_path
+    pages: '<front>'
+    negate: true
+    context_mapping: {  }

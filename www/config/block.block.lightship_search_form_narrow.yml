@@ -1,0 +1,23 @@
+uuid: ac715515-1af8-4bd8-ab27-3fd02e845e44
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - lightship
+_core:
+  default_config_hash: yEBET0cqDbk8dkWzaJw-8CKft0961VBflsISoSR6Lj8
+id: lightship_search_form_narrow
+theme: lightship
+region: leaderboard
+weight: -4
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Search form (narrow)'
+  label_display: '0'
+  provider: search
+  page_id: ''
+visibility: {  }

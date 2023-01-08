@@ -1,0 +1,20 @@
+uuid: 582ac876-20d1-42f0-9769-54036729d771
+langcode: en
+status: true
+dependencies:
+  theme:
+    - chahmirian
+_core:
+  default_config_hash: 6aOgWsNTXjqrDm98TXSAjP6qd2nCijD1xw45MrnbK-Y
+id: chahmirian_page_title
+theme: chahmirian
+region: topbar
+weight: -5
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility: {  }

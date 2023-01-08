@@ -1,0 +1,10 @@
+uuid: 8505f8e0-cfe2-451a-83f3-f8f4dd3d0f3a
+langcode: it
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ehYzdsPVqguqCRGEOr9qrm75KVBHENnwGpMzk5efde8
+id: small-prints
+label: 'Small prints'
+description: 'Small prints'
+locked: false

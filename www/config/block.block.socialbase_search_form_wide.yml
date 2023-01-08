@@ -1,0 +1,23 @@
+uuid: e9c434ff-862a-4bc3-91b2-25c521dbe82b
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - socialbase
+_core:
+  default_config_hash: imMyHD6LYci0gtXq56qr9ZKGHzbEG9uFydrN5EhKtSU
+id: socialbase_search_form_wide
+theme: socialbase
+region: header
+weight: -5
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Search form (wide)'
+  label_display: '0'
+  provider: search
+  page_id: ''
+visibility: {  }

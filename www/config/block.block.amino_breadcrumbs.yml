@@ -1,0 +1,22 @@
+uuid: 8b583b56-7c34-4927-b5f2-c2dcc721a79f
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - amino_theme
+_core:
+  default_config_hash: mk8VbKVmfM9ieB1OyjOMWwgjQTDZKEVYrg9NfL2eXgY
+id: amino_breadcrumbs
+theme: amino_theme
+region: breadcrumb
+weight: 0
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility: {  }

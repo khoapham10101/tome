@@ -1,0 +1,22 @@
+uuid: 299af551-91b9-44c1-8260-92b799b27e66
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - pets_zymphonies_theme
+_core:
+  default_config_hash: w0-ary3Ln5o43KCelLnq1hCw77o8oEQqcVxjD29i0wc
+id: pets_zymphonies_theme_breadcrumbs
+theme: pets_zymphonies_theme
+region: breadcrumb
+weight: -100
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility: {  }

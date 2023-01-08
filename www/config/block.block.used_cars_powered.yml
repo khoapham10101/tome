@@ -1,0 +1,22 @@
+uuid: 7cde75a8-0a33-46e6-a201-8c0d01664b42
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - used_cars
+_core:
+  default_config_hash: eYL19CLDyinGTWYQfBD1DswWzglEotE_kHnHx3AxTXM
+id: used_cars_powered
+theme: used_cars
+region: header
+weight: 0
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  label_display: '0'
+  provider: system
+visibility: {  }

@@ -1,0 +1,23 @@
+uuid: 657c3790-baf9-4698-8390-29c1c2ad5ff3
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+  theme:
+    - fepper
+_core:
+  default_config_hash: 0gq3VPg-_UM69FCCWurLFIrrnIjC2HLKhwo9iQNtcUo
+id: fepper_syndicate
+theme: fepper
+region: header
+weight: 0
+provider: null
+plugin: node_syndicate_block
+settings:
+  id: node_syndicate_block
+  label: 'RSS feed'
+  label_display: '0'
+  provider: node
+  block_count: 10
+visibility: {  }

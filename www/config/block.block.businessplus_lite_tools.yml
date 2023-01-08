@@ -1,0 +1,27 @@
+uuid: 787d7d79-4bcb-4ed5-94a9-0a25326d451c
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.tools
+  module:
+    - system
+  theme:
+    - businessplus_lite
+_core:
+  default_config_hash: u8ghJpG0sBA8xaBrZc99wCVSdixD-qTbX-d1eX63P9g
+id: businessplus_lite_tools
+theme: businessplus_lite
+region: sidebar_first
+weight: 0
+provider: null
+plugin: 'system_menu_block:tools'
+settings:
+  id: 'system_menu_block:tools'
+  label: Tools
+  label_display: visible
+  provider: system
+  level: 1
+  depth: 0
+  expand_all_items: false
+visibility: {  }

@@ -1,0 +1,22 @@
+uuid: def39eaf-e172-4d6b-97b3-21fa8765049f
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - raspberry
+_core:
+  default_config_hash: b_qWLXjUrEu3FMx-NziJViKtqQym3TeWi5kKSWLR2tU
+id: raspberry_breadcrumbs
+theme: raspberry
+region: breadcrumb
+weight: -100
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility: {  }

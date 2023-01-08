@@ -1,0 +1,22 @@
+uuid: 00ff2b18-9443-4e16-9a7f-f8e993ecac44
+langcode: en
+status: true
+dependencies:
+  theme:
+    - writer
+_core:
+  default_config_hash: ydSxdq7R66I8UMC460rOzlfzvlUL4VRbdwc6z9DWaUI
+id: writer_secondary_local_tasks
+theme: writer
+region: highlighted
+weight: -2
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: 'Secondary tabs'
+  label_display: '0'
+  provider: core
+  primary: false
+  secondary: true
+visibility: {  }

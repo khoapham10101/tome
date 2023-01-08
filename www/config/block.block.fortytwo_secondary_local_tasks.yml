@@ -1,0 +1,22 @@
+uuid: 7c16bb8b-c245-47c3-9ea2-e6dd5b54bdba
+langcode: en
+status: true
+dependencies:
+  theme:
+    - fortytwo
+_core:
+  default_config_hash: ydSxdq7R66I8UMC460rOzlfzvlUL4VRbdwc6z9DWaUI
+id: fortytwo_secondary_local_tasks
+theme: fortytwo
+region: highlighted
+weight: -2
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: 'Secondary tabs'
+  label_display: '0'
+  provider: core
+  primary: false
+  secondary: true
+visibility: {  }

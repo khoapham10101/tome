@@ -1,0 +1,20 @@
+uuid: b710cfd2-b770-4ab8-b0a6-3f2afc16eeea
+langcode: en
+status: true
+dependencies:
+  theme:
+    - panache
+_core:
+  default_config_hash: No8KKqPzyJVO6KLTN8L1i6K-nkRHg8YB8hwue2LgBFM
+id: primaryadminactions
+theme: panache
+region: content
+weight: -1
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }

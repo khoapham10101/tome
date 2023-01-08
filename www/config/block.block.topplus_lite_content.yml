@@ -1,0 +1,22 @@
+uuid: 6c1848cb-9c40-43e9-b07e-fed74c023006
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - topplus_lite
+_core:
+  default_config_hash: jydIliGw5xlbNepZNqPUPPSPSf4eMJeNpVU4mZsOWhw
+id: topplus_lite_content
+theme: topplus_lite
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

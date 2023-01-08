@@ -1,0 +1,22 @@
+uuid: 155f9a94-f40c-4ffd-9e0e-4176ff167f44
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - lightship
+_core:
+  default_config_hash: eYL19CLDyinGTWYQfBD1DswWzglEotE_kHnHx3AxTXM
+id: lightship_powered
+theme: lightship
+region: leaderboard
+weight: 0
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  label_display: '0'
+  provider: system
+visibility: {  }

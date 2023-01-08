@@ -1,0 +1,22 @@
+uuid: f5e17f82-022c-4dfb-9244-e5a4eb8a4ea8
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - zinble
+_core:
+  default_config_hash: 2vHzfX3GgYh9aqKmSF8ytur25YYLDseZJSn9dfsSoSM
+id: zinble_content
+theme: zinble
+region: content
+weight: -3
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

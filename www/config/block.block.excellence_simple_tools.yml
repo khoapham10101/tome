@@ -1,0 +1,27 @@
+uuid: 020298f8-b8a8-472a-9fa2-317165f1898a
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.tools
+  module:
+    - system
+  theme:
+    - excellence_simple
+_core:
+  default_config_hash: FFWp8oFbllcWW9ZIDDa6A8Hd6B61jSPxVXVdFOjrAt8
+id: excellence_simple_tools
+theme: excellence_simple
+region: sidebar_second
+weight: -5
+provider: null
+plugin: 'system_menu_block:tools'
+settings:
+  id: 'system_menu_block:tools'
+  label: Tools
+  label_display: visible
+  provider: system
+  level: 1
+  depth: 0
+  expand_all_items: false
+visibility: {  }

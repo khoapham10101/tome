@@ -1,0 +1,22 @@
+uuid: 9bacca23-3e7c-43d0-8c7a-ae9ee95be978
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - chahmirian
+_core:
+  default_config_hash: erQSEZF2XUjNmgTl0uNRBzmg18ZGXwUcw2FhApoeuHk
+id: chahmirian_content
+theme: chahmirian
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

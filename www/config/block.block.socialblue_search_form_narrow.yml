@@ -1,0 +1,23 @@
+uuid: b48caaa6-06f0-4d63-95ed-834131b5e457
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - socialblue
+_core:
+  default_config_hash: yEBET0cqDbk8dkWzaJw-8CKft0961VBflsISoSR6Lj8
+id: socialblue_search_form_narrow
+theme: socialblue
+region: hidden
+weight: -4
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Search form (narrow)'
+  label_display: '0'
+  provider: search
+  page_id: ''
+visibility: {  }

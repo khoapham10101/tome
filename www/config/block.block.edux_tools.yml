@@ -1,0 +1,27 @@
+uuid: f47b7f24-8ac5-41c8-9501-694ec89f622d
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.tools
+  module:
+    - system
+  theme:
+    - edux
+_core:
+  default_config_hash: 2HrSoEWkYsmWbX-HaJBMMB5EQbpeGj3Z2ybOEyC9sNw
+id: edux_tools
+theme: edux
+region: hidden
+weight: -14
+provider: null
+plugin: 'system_menu_block:tools'
+settings:
+  id: 'system_menu_block:tools'
+  label: Tools
+  label_display: visible
+  provider: system
+  level: 1
+  depth: 0
+  expand_all_items: false
+visibility: {  }

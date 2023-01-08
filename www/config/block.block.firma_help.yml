@@ -1,0 +1,22 @@
+uuid: 4a88a1ab-6576-47f0-9c81-41222c38f78a
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - firma
+_core:
+  default_config_hash: CbWnWmTkl5Udt-9UpGo8vuAQHUEEJw35fDHhWoMW4WA
+id: firma_help
+theme: firma
+region: auto_hidden_block
+weight: -30
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

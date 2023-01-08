@@ -1,0 +1,23 @@
+uuid: aa65759a-d8c4-449d-93c7-532255b67f1d
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+  theme:
+    - bromo
+_core:
+  default_config_hash: 0gq3VPg-_UM69FCCWurLFIrrnIjC2HLKhwo9iQNtcUo
+id: bromo_syndicate
+theme: bromo
+region: top_header_right
+weight: 0
+provider: null
+plugin: node_syndicate_block
+settings:
+  id: node_syndicate_block
+  label: 'RSS feed'
+  label_display: '0'
+  provider: node
+  block_count: 10
+visibility: {  }

@@ -1,0 +1,22 @@
+uuid: 593cd251-8b9d-4267-8694-d8850ab9d1a0
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - alz
+_core:
+  default_config_hash: eYL19CLDyinGTWYQfBD1DswWzglEotE_kHnHx3AxTXM
+id: alz_powered
+theme: alz
+region: breadcrumb
+weight: 0
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  label_display: '0'
+  provider: system
+visibility: {  }

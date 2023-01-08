@@ -1,0 +1,20 @@
+uuid: e35c3a1f-7c57-4574-b662-e37a8b0d5cf4
+langcode: en
+status: true
+dependencies:
+  theme:
+    - seaside_admin
+_core:
+  default_config_hash: sE63XqqFQtGpF1FbK4MFRgM1okQgbE8Sg3psfzpiT8Y
+id: seaside_admin_local_actions
+theme: seaside_admin
+region: content
+weight: -3
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }

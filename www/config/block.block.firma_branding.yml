@@ -1,0 +1,25 @@
+uuid: d9e4cd37-91ef-431f-9f4f-964d3d52a23a
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - firma
+_core:
+  default_config_hash: x0LzPNwkaWDQ7d-KEztN7H5Xi4RUZjG95j1Z1haRlNc
+id: firma_branding
+theme: firma
+region: navbar_left
+weight: 0
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  label_display: '0'
+  provider: system
+  use_site_logo: true
+  use_site_name: false
+  use_site_slogan: false
+visibility: {  }

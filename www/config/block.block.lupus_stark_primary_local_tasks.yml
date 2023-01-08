@@ -1,0 +1,22 @@
+uuid: c634e177-a364-40ed-a151-7d800a67bffc
+langcode: en
+status: true
+dependencies:
+  theme:
+    - lupus_stark
+_core:
+  default_config_hash: nGE3EoPQQaQCuqTUtZgw0-KIzmrqdKDzdNQf2JyPUt4
+id: lupus_stark_primary_local_tasks
+theme: lupus_stark
+region: highlighted
+weight: -4
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: 'Primary tabs'
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: false
+visibility: {  }

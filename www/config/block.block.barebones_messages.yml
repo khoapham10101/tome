@@ -1,0 +1,22 @@
+uuid: b501f4a1-36a3-4ab4-8dbd-ad7281ac805e
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - barebones
+_core:
+  default_config_hash: BZ5tpW7H8X4PVGRm3MImTIHd2tN0eF7zOtp4SpRYUA0
+id: barebones_messages
+theme: barebones
+region: header
+weight: -5
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  label_display: '0'
+  provider: system
+visibility: {  }

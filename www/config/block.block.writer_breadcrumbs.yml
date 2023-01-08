@@ -1,0 +1,22 @@
+uuid: cce85a23-8e9c-441a-9cd9-1096b88b1b0b
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - writer
+_core:
+  default_config_hash: VhBzWb7lMRtIOg9G7VSw_0uopi-7zXeHq4vXqqV1HFE
+id: writer_breadcrumbs
+theme: writer
+region: pre_header
+weight: 0
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility: {  }

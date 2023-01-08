@@ -1,0 +1,20 @@
+uuid: a85937cd-0d35-48b3-b306-f67a50174115
+langcode: en
+status: true
+dependencies:
+  theme:
+    - fepper
+_core:
+  default_config_hash: 6aOgWsNTXjqrDm98TXSAjP6qd2nCijD1xw45MrnbK-Y
+id: fepper_page_title
+theme: fepper
+region: header
+weight: -5
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility: {  }

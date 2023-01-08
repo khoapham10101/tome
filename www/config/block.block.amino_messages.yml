@@ -1,0 +1,22 @@
+uuid: 525170c5-8dc1-4284-9fd9-65b0997d80b0
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - amino_theme
+_core:
+  default_config_hash: M9bs3_whND4lTJ4jhLWzg1WlMChY-N8lrPmiJx_Nx_Y
+id: amino_messages
+theme: amino_theme
+region: content_top
+weight: -3
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: Messages
+  label_display: '0'
+  provider: system
+visibility: {  }

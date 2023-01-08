@@ -1,0 +1,22 @@
+uuid: ec0a0e7b-b41b-4b2d-9345-4313ead88089
+langcode: en
+status: true
+dependencies:
+  module:
+    - user
+  theme:
+    - seaside_admin
+_core:
+  default_config_hash: m6siP0Gl8UR2aDnTF3Q8lSHM6H08HtX2xnITkm5uCFw
+id: seaside_admin_login
+theme: seaside_admin
+region: content
+weight: -1
+provider: null
+plugin: user_login_block
+settings:
+  id: user_login_block
+  label: 'User login'
+  label_display: visible
+  provider: user
+visibility: {  }

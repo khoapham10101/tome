@@ -1,0 +1,22 @@
+uuid: e3dda40e-2f82-4114-b7fe-176e3b90fe4a
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - topplus_lite
+_core:
+  default_config_hash: E3xTRbhOf-3DCuZ6-s1Rsw-axXRUAzFZ2_QQdvgUfaI
+id: topplus_lite_powered
+theme: topplus_lite
+region: footer_first
+weight: -7
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  label_display: '0'
+  provider: system
+visibility: {  }

@@ -1,0 +1,23 @@
+uuid: e68b7858-66dc-4eb2-aafb-dbed967b6de6
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - raspberry
+_core:
+  default_config_hash: v0Pie7NB_uwrHIXHIwDxXpZbvTi4iEXNXcl8f7flxcE
+id: raspberry_search
+theme: raspberry
+region: auto_hidden_block
+weight: -1
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: Search
+  label_display: visible
+  provider: search
+  page_id: ''
+visibility: {  }

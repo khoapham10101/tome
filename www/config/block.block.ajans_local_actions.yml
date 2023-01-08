@@ -1,0 +1,20 @@
+uuid: 552e8521-d1f3-479c-904d-2cbedd570020
+langcode: en
+status: true
+dependencies:
+  theme:
+    - ajans
+_core:
+  default_config_hash: eB-eLUb7X67vZHvrYBLGx0O6-aPZ37l8l7y9rHaStf8
+id: ajans_local_actions
+theme: ajans
+region: auto_hidden_block
+weight: 20
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }

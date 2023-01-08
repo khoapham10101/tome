@@ -1,0 +1,22 @@
+uuid: fb3bb612-572c-429e-a8f5-93009cb5e4c1
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - ceremai
+_core:
+  default_config_hash: eYL19CLDyinGTWYQfBD1DswWzglEotE_kHnHx3AxTXM
+id: ceremai_powered
+theme: ceremai
+region: top_header_left
+weight: 0
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  label_display: '0'
+  provider: system
+visibility: {  }

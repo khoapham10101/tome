@@ -1,0 +1,25 @@
+uuid: 5a405c3e-f068-4279-b167-82397ddf4c9c
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - restaurant_lite
+_core:
+  default_config_hash: ZFlKuIUjtRa4f0nkeyZeT6okbQ5398-GMAUevrNbuaY
+id: restaurant_lite_branding
+theme: restaurant_lite
+region: header_first
+weight: -6
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  label_display: '0'
+  provider: system
+  use_site_logo: true
+  use_site_name: true
+  use_site_slogan: true
+visibility: {  }

@@ -1,0 +1,22 @@
+uuid: 5e764780-0fb6-4315-a585-1f5be8df036c
+langcode: en
+status: true
+dependencies:
+  theme:
+    - professional_responsive_theme
+_core:
+  default_config_hash: mptISj2B8NSCOK38BjNney4m_ces09DA-9O5twiIHAM
+id: professional_responsive_theme_local_tasks
+theme: professional_responsive_theme
+region: content
+weight: 0
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Tabs
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: true
+visibility: {  }

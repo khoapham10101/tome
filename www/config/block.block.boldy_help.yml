@@ -1,0 +1,22 @@
+uuid: 27185582-1b95-4aac-956f-1b7ccfbb8c2b
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - boldy
+_core:
+  default_config_hash: VfPFqqxfkomud5CO8DUijw85QIl9GIxh_nIxLOYESxg
+id: boldy_help
+theme: boldy
+region: site_branding
+weight: 0
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

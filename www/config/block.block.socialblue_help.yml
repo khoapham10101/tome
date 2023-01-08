@@ -1,0 +1,22 @@
+uuid: a8efa94e-1d70-4226-b95c-fafe7e5c716c
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - socialblue
+_core:
+  default_config_hash: VfPFqqxfkomud5CO8DUijw85QIl9GIxh_nIxLOYESxg
+id: socialblue_help
+theme: socialblue
+region: hidden
+weight: 0
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

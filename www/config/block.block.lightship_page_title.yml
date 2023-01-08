@@ -1,0 +1,20 @@
+uuid: 0262f3e6-ec61-4e34-8aba-e7c2a28dfded
+langcode: en
+status: true
+dependencies:
+  theme:
+    - lightship
+_core:
+  default_config_hash: 6aOgWsNTXjqrDm98TXSAjP6qd2nCijD1xw45MrnbK-Y
+id: lightship_page_title
+theme: lightship
+region: leaderboard
+weight: -5
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility: {  }

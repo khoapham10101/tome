@@ -1,0 +1,22 @@
+uuid: 1dcd4f6b-2574-4f09-9506-1f060f6eb654
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - excellence_simple
+_core:
+  default_config_hash: '-7FeN_Tpnlai_X1xayCcpDaQlFLx1AQ7AJt3JtGkk_4'
+id: excellence_simple_breadcrumbs
+theme: excellence_simple
+region: promoted
+weight: -6
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility: {  }

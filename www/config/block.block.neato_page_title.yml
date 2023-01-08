@@ -1,0 +1,20 @@
+uuid: d5f7a6b2-8b55-4544-b7e5-3025c0c11f98
+langcode: en
+status: true
+dependencies:
+  theme:
+    - neato
+_core:
+  default_config_hash: 6aOgWsNTXjqrDm98TXSAjP6qd2nCijD1xw45MrnbK-Y
+id: neato_page_title
+theme: neato
+region: header
+weight: -5
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility: {  }

@@ -1,0 +1,20 @@
+uuid: 46fefeb8-91d6-4ae4-a099-635ac63f9f7e
+langcode: en
+status: true
+dependencies:
+  theme:
+    - used_cars
+_core:
+  default_config_hash: Q9_2whdOj1YIomfvsIfopROW4FT_X5pY0DjdOiOaQ5U
+id: used_cars_primary_admin_actions
+theme: used_cars
+region: header
+weight: -5
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }

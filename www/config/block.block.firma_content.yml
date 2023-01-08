@@ -1,0 +1,22 @@
+uuid: cb9b4008-5851-4854-abf8-41d358df3e72
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - firma
+_core:
+  default_config_hash: blOidF0dy5VGwnir-6psJnAMex58_pURrCDG6JPVPHs
+id: firma_content
+theme: firma
+region: content
+weight: 3
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

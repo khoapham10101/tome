@@ -1,0 +1,20 @@
+uuid: b0878ff6-ebd9-42f9-9bf5-a7baf2f52587
+langcode: en
+status: false
+dependencies:
+  theme:
+    - firma
+_core:
+  default_config_hash: ds_SUI5janTim9UQBxXnP3l7U1bBxrkbC3Cm2KTN5bc
+id: firma_page_title
+theme: firma
+region: auto_hidden_block
+weight: 2
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility: {  }

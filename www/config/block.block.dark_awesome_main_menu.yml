@@ -1,0 +1,27 @@
+uuid: c0c396f0-7647-4188-8c42-5474bf3db63e
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.main
+  module:
+    - system
+  theme:
+    - dark_awesome
+_core:
+  default_config_hash: yxKjdvtzmQz9PyO_c6cgzCSiqOKeJZZGbT0Yz2I62vI
+id: dark_awesome_main_menu
+theme: dark_awesome
+region: top_header
+weight: -4
+provider: null
+plugin: 'system_menu_block:main'
+settings:
+  id: 'system_menu_block:main'
+  label: 'Main navigation'
+  label_display: '0'
+  provider: system
+  level: 1
+  depth: 0
+  expand_all_items: true
+visibility: {  }

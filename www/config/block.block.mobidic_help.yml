@@ -1,0 +1,22 @@
+uuid: 55478e96-2c10-48f4-a06f-2907ac0dc4f9
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - mobidic
+_core:
+  default_config_hash: VfPFqqxfkomud5CO8DUijw85QIl9GIxh_nIxLOYESxg
+id: mobidic_help
+theme: mobidic
+region: header
+weight: 0
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

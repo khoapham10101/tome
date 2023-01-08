@@ -1,0 +1,22 @@
+uuid: 5d5df2ce-9b44-485e-b054-640cade1a9cb
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - mobidic
+_core:
+  default_config_hash: BZ5tpW7H8X4PVGRm3MImTIHd2tN0eF7zOtp4SpRYUA0
+id: mobidic_messages
+theme: mobidic
+region: header
+weight: -5
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  label_display: '0'
+  provider: system
+visibility: {  }

@@ -1,0 +1,20 @@
+uuid: 05fb80c0-72b2-485e-980b-1b64b8f26705
+langcode: en
+status: true
+dependencies:
+  theme:
+    - businessplus_lite
+_core:
+  default_config_hash: c_vU5lNyKO5Y-q1jXwFBT1Rr7-CvR_ViUvmFwKu6_AQ
+id: businessplus_lite_local_actions
+theme: businessplus_lite
+region: content
+weight: -7
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }

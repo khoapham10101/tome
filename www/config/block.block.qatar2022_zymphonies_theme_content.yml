@@ -1,0 +1,22 @@
+uuid: 58679724-f58b-40ad-b420-d376286af3b4
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - qatar2022_zymphonies_theme
+_core:
+  default_config_hash: gA6sTDv2zbnSDJ79hY-9WT-it7sxdS4zAVxwNMasZcc
+id: qatar2022_zymphonies_theme_content
+theme: qatar2022_zymphonies_theme
+region: content
+weight: 1
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

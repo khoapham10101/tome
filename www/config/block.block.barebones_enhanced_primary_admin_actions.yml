@@ -1,0 +1,20 @@
+uuid: 3b580e59-86fb-4182-b41b-6f010651230a
+langcode: en
+status: true
+dependencies:
+  theme:
+    - barebones_enhanced
+_core:
+  default_config_hash: Q9_2whdOj1YIomfvsIfopROW4FT_X5pY0DjdOiOaQ5U
+id: barebones_enhanced_primary_admin_actions
+theme: barebones_enhanced
+region: header
+weight: -5
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }

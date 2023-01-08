@@ -1,0 +1,22 @@
+uuid: 4851044b-3235-4c5f-8991-7049f4cbd258
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - restaurant_lite
+_core:
+  default_config_hash: 4qqPC1_8_GlWUSpiObIrDLCpLKUfYVlyWV-ZPTV7kQo
+id: restaurant_lite_content
+theme: restaurant_lite
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

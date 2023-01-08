@@ -1,0 +1,22 @@
+uuid: 3530a106-bff7-4932-ac55-77f447452031
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - mobidic
+_core:
+  default_config_hash: eYL19CLDyinGTWYQfBD1DswWzglEotE_kHnHx3AxTXM
+id: mobidic_powered
+theme: mobidic
+region: header
+weight: 0
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  label_display: '0'
+  provider: system
+visibility: {  }

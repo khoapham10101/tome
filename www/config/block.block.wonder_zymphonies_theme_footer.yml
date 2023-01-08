@@ -1,0 +1,27 @@
+uuid: 7626d4bf-2d22-4ff9-ac08-0fd683230b1a
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.footer
+  module:
+    - system
+  theme:
+    - wonder_zymphonies_theme
+_core:
+  default_config_hash: 1R4KHqyvcxij6CNrQln2rLMQ_hS56ceGK-gdHAykVAk
+id: wonder_zymphonies_theme_footer
+theme: wonder_zymphonies_theme
+region: auto_hidden_block
+weight: 0
+provider: null
+plugin: 'system_menu_block:footer'
+settings:
+  id: 'system_menu_block:footer'
+  label: 'Footer menu'
+  label_display: '0'
+  provider: system
+  level: 1
+  depth: 0
+  expand_all_items: false
+visibility: {  }

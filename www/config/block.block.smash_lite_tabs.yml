@@ -1,0 +1,22 @@
+uuid: dff2bbd4-bdb2-45f1-89ed-f3d4eda51127
+langcode: en
+status: true
+dependencies:
+  theme:
+    - smash_lite
+_core:
+  default_config_hash: 9Vfo5Fw_v5ds7q8bFAazElLDoX68bZy0SgwTLZmnw0A
+id: smash_lite_tabs
+theme: smash_lite
+region: content
+weight: -3
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Tabs
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: true
+visibility: {  }

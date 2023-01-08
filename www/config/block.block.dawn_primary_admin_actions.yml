@@ -1,0 +1,20 @@
+uuid: 0d0f7f39-1546-4ebe-8d7c-5319f7b98dd2
+langcode: en
+status: true
+dependencies:
+  theme:
+    - dawn
+_core:
+  default_config_hash: Q9_2whdOj1YIomfvsIfopROW4FT_X5pY0DjdOiOaQ5U
+id: dawn_primary_admin_actions
+theme: dawn
+region: highlighted
+weight: -5
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }

@@ -1,0 +1,23 @@
+uuid: ed9b6cc2-13d7-4926-96b9-4120d4c38bba
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - subseven
+_core:
+  default_config_hash: yEBET0cqDbk8dkWzaJw-8CKft0961VBflsISoSR6Lj8
+id: subseven_search_form_narrow
+theme: subseven
+region: header
+weight: -4
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Search form (narrow)'
+  label_display: '0'
+  provider: search
+  page_id: ''
+visibility: {  }

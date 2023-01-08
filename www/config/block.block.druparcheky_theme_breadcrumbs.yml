@@ -1,0 +1,22 @@
+uuid: 4eeddd3d-b022-4f3b-a273-c2a5b3ad7e12
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - druparcheky_theme
+_core:
+  default_config_hash: VhBzWb7lMRtIOg9G7VSw_0uopi-7zXeHq4vXqqV1HFE
+id: druparcheky_theme_breadcrumbs
+theme: druparcheky_theme
+region: breadcrumb
+weight: 0
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility: {  }

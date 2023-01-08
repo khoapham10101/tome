@@ -1,0 +1,22 @@
+uuid: 9461b10f-8d7c-466a-870f-4bf5f0959edb
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - restaurant_lite
+_core:
+  default_config_hash: roq6KtdeDIJndMJefFrQiCXVKSWgoKKcj7YSvtPuu6c
+id: restaurant_lite_breadcrumbs
+theme: restaurant_lite
+region: banner
+weight: -6
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility: {  }

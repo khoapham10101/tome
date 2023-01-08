@@ -1,0 +1,22 @@
+uuid: 934025e1-26bd-4dc2-ac57-2c4f650c7162
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - seventeen
+_core:
+  default_config_hash: OWb5o3Os7BU-B0qVFJSz4yURMVMFcXbDENDCs4OuN_s
+id: seventeen_main_page_content
+theme: seventeen
+region: content
+weight: -2
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

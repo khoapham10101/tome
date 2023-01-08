@@ -1,0 +1,22 @@
+uuid: c46aeaeb-60b5-416e-a009-8f1d291011a6
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - qatar2022_zymphonies_theme
+_core:
+  default_config_hash: sKNTnsd5SMdun14pNINWtkoLOuVVskzKbfHvl2N6hcw
+id: qatar2022_zymphonies_theme_help
+theme: qatar2022_zymphonies_theme
+region: highlighted
+weight: -30
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

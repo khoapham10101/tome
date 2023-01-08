@@ -1,0 +1,22 @@
+uuid: 72277ef1-c133-47ff-aa8d-eae6d45d7ac0
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - seven_dark
+_core:
+  default_config_hash: eYL19CLDyinGTWYQfBD1DswWzglEotE_kHnHx3AxTXM
+id: seven_dark_powered
+theme: seven_dark
+region: sidebar_first
+weight: 0
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  label_display: '0'
+  provider: system
+visibility: {  }

@@ -1,0 +1,22 @@
+uuid: 304ef33a-9ff8-498c-9f8f-227d5e99d004
+langcode: en
+status: true
+dependencies:
+  theme:
+    - wonder_zymphonies_theme
+_core:
+  default_config_hash: o-OwyvsVr1x-v8k4nMY1KNh9J4b6PLmch1mtginCAsI
+id: wonder_zymphonies_theme_local_tasks
+theme: wonder_zymphonies_theme
+region: content
+weight: 0
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Tabs
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: true
+visibility: {  }

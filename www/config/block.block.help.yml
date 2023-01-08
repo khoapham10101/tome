@@ -1,0 +1,28 @@
+uuid: f77af275-06ce-4ea3-8b90-80f8be48a2d1
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+    - system
+  theme:
+    - electra
+_core:
+  default_config_hash: YQeAOirgyWsg4sfkFtReIB9egvPm_LevW9KuwhvQhHM
+id: help
+theme: electra
+region: content_top
+weight: 0
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility:
+  request_path:
+    id: request_path
+    pages: '<front>'
+    negate: true
+    context_mapping: {  }

@@ -1,0 +1,18 @@
+_core:
+  default_config_hash: nAM45DKcOfk_4EhL8dQquLQxiR03klaLR_bj8yy2BDw
+use_grid: 3
+sidebarfw_sm: 3
+contentwidth_sm: 9
+sidebarsw_sm: 2
+sidebarfw_md: 4
+contentwidth_md: 8
+sidebarsw_md: 3
+sidebarfw_lg: 3
+contentwidth_lg: 9
+sidebarsw_lg: 2
+fluid_header: 1
+fluid_content: 0
+fluid_footer: 1
+meta_cleartype: 1
+meta_httpequiv: 'IE=edge, chrome=1'
+meta_viewport: 'width=device-width, initial-scale=1.0'

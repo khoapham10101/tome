@@ -1,0 +1,22 @@
+uuid: a6cb64c0-933a-42c8-86c3-82cb32948230
+langcode: en
+status: false
+dependencies:
+  module:
+    - system
+  theme:
+    - firma
+_core:
+  default_config_hash: YuMCkfEMMAVXRyO-LjDg6ySVgUAfNURSbHg7MT8fDEo
+id: firma_breadcrumbs
+theme: firma
+region: auto_hidden_block
+weight: -100
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility: {  }

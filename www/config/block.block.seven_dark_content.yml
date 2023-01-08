@@ -1,0 +1,22 @@
+uuid: a10b5d2d-50db-4fee-8a9a-771200c814cf
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - seven_dark
+_core:
+  default_config_hash: erQSEZF2XUjNmgTl0uNRBzmg18ZGXwUcw2FhApoeuHk
+id: seven_dark_content
+theme: seven_dark
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

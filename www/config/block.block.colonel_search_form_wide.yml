@@ -1,0 +1,23 @@
+uuid: 974a03df-9ccd-49e0-9e0a-c05f6f0b3713
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - colonel
+_core:
+  default_config_hash: imMyHD6LYci0gtXq56qr9ZKGHzbEG9uFydrN5EhKtSU
+id: colonel_search_form_wide
+theme: colonel
+region: secondary_menu
+weight: -5
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Search form (wide)'
+  label_display: '0'
+  provider: search
+  page_id: ''
+visibility: {  }

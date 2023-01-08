@@ -1,0 +1,22 @@
+uuid: ac983ca2-cd1f-421b-aef0-ed14321dd0c5
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - creative_responsive_theme
+_core:
+  default_config_hash: uWy58nYjWIMwjBpWG3bpQw4-czZknk6co5KbdGN8dxA
+id: creative_responsive_theme_messages
+theme: creative_responsive_theme
+region: highlighted
+weight: -50
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  label_display: '0'
+  provider: system
+visibility: {  }

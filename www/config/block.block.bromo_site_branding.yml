@@ -1,0 +1,25 @@
+uuid: 2dee282a-8f37-413c-84a8-558985cf4470
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - bromo
+_core:
+  default_config_hash: n_nlgjggHVfQt2H__zvLOKB2YtjPDbQ5tHijF9LE1aM
+id: bromo_site_branding
+theme: bromo
+region: header
+weight: 0
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  label_display: '0'
+  provider: system
+  use_site_logo: true
+  use_site_name: true
+  use_site_slogan: false
+visibility: {  }

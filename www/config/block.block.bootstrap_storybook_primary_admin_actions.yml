@@ -1,0 +1,20 @@
+uuid: ddce58ac-8d86-4e34-9c0e-1f65b3b897a8
+langcode: en
+status: true
+dependencies:
+  theme:
+    - bootstrap_storybook
+_core:
+  default_config_hash: Q9_2whdOj1YIomfvsIfopROW4FT_X5pY0DjdOiOaQ5U
+id: bootstrap_storybook_primary_admin_actions
+theme: bootstrap_storybook
+region: navbar_branding
+weight: -5
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }

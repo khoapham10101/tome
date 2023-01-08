@@ -1,0 +1,23 @@
+uuid: 625b9ed6-7f99-4664-acdc-95baca6a0009
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - lupus_stark
+_core:
+  default_config_hash: imMyHD6LYci0gtXq56qr9ZKGHzbEG9uFydrN5EhKtSU
+id: lupus_stark_search_form_wide
+theme: lupus_stark
+region: secondary_menu
+weight: -5
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Search form (wide)'
+  label_display: '0'
+  provider: search
+  page_id: ''
+visibility: {  }

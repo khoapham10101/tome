@@ -1,0 +1,23 @@
+uuid: ba16068b-8e53-4e6c-bac7-c6a7284c2d11
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - wonder_zymphonies_theme
+_core:
+  default_config_hash: GruAG6G8yFuUWSBqow9E04zukiiJhMZ0w8Cs_x_9_DI
+id: wonder_zymphonies_theme_search
+theme: wonder_zymphonies_theme
+region: auto_hidden_block
+weight: -1
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: Search
+  label_display: visible
+  provider: search
+  page_id: ''
+visibility: {  }

@@ -1,0 +1,22 @@
+uuid: ae2bd244-f101-4d53-b85e-f07368b0c173
+langcode: en
+status: true
+dependencies:
+  theme:
+    - ajans
+_core:
+  default_config_hash: Qd8PXM3dAqfp0vfDijCY2BnCUDPP_Pt4vbzmO6eMSmc
+id: ajans_local_tasks
+theme: ajans
+region: content
+weight: 1
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Tabs
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: true
+visibility: {  }

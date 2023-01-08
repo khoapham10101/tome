@@ -1,0 +1,20 @@
+uuid: a7d87ec1-d195-4d9c-954e-afd772bb8f84
+langcode: en
+status: true
+dependencies:
+  theme:
+    - lupus_stark
+_core:
+  default_config_hash: 6aOgWsNTXjqrDm98TXSAjP6qd2nCijD1xw45MrnbK-Y
+id: lupus_stark_page_title
+theme: lupus_stark
+region: sidebar_first
+weight: -5
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility: {  }

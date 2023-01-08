@@ -1,0 +1,22 @@
+uuid: 684ebc14-7957-41be-bda4-5ff6b500bbf1
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - qatar2022_zymphonies_theme
+_core:
+  default_config_hash: BlbUvm614lAlidcFvyhBOdTMNdqLazb8t5yAPGNsmp0
+id: qatar2022_zymphonies_theme_breadcrumbs
+theme: qatar2022_zymphonies_theme
+region: breadcrumb
+weight: -100
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility: {  }

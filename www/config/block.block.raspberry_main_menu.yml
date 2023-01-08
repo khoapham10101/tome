@@ -1,0 +1,27 @@
+uuid: 1ad5e144-8ba7-49dd-815e-a3ebe0e9b4e0
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.main
+  module:
+    - system
+  theme:
+    - raspberry
+_core:
+  default_config_hash: CUTkwA5-WH6l8KVAtpLF6vt7fmVd9nC16GrRPas5fSg
+id: raspberry_main_menu
+theme: raspberry
+region: primary_menu
+weight: 10
+provider: null
+plugin: 'system_menu_block:main'
+settings:
+  id: 'system_menu_block:main'
+  label: 'Main navigation'
+  label_display: '0'
+  provider: system
+  level: 1
+  depth: 2
+  expand_all_items: false
+visibility: {  }

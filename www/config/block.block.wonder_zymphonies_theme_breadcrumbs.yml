@@ -1,0 +1,22 @@
+uuid: f0513937-5eda-4339-89d3-09b671d580f4
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - wonder_zymphonies_theme
+_core:
+  default_config_hash: KJTNumuvb5sRmsi3eTTC_e9-tCj6AW5_u9lZcNGmTXc
+id: wonder_zymphonies_theme_breadcrumbs
+theme: wonder_zymphonies_theme
+region: breadcrumb
+weight: -100
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility: {  }

@@ -1,0 +1,27 @@
+uuid: 8a8929fd-aec1-498b-9612-5e3efb2ce8ce
+langcode: en
+status: false
+dependencies:
+  config:
+    - system.menu.footer
+  module:
+    - system
+  theme:
+    - bootstrap_cloud
+_core:
+  default_config_hash: z8oSFcnyJ9ce2kIFIYq4Nb-0fUnC3_tfIayqJxe2Ar0
+id: bootstrap_cloud_footer
+theme: bootstrap_cloud
+region: footer
+weight: 0
+provider: null
+plugin: 'system_menu_block:footer'
+settings:
+  id: 'system_menu_block:footer'
+  label: 'Footer menu'
+  label_display: '0'
+  provider: system
+  level: 1
+  depth: 0
+  expand_all_items: false
+visibility: {  }

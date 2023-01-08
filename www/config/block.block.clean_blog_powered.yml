@@ -1,0 +1,22 @@
+uuid: 002760de-9050-4333-a854-73c1adeed795
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - clean_blog
+_core:
+  default_config_hash: eYL19CLDyinGTWYQfBD1DswWzglEotE_kHnHx3AxTXM
+id: clean_blog_powered
+theme: clean_blog
+region: navigation
+weight: 0
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  label_display: '0'
+  provider: system
+visibility: {  }

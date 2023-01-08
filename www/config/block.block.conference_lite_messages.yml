@@ -1,0 +1,22 @@
+uuid: c72424c2-0713-4322-af32-92fe2c886cdd
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - conference_lite
+_core:
+  default_config_hash: bzk5UBBQt1rvuXnDrmcfi4lwTFM7md8-E1u0swI7dgA
+id: conference_lite_messages
+theme: conference_lite
+region: system_messages
+weight: -4
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  label_display: '0'
+  provider: system
+visibility: {  }

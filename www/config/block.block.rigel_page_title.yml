@@ -1,0 +1,20 @@
+uuid: 1ef5a83b-6de5-4fb5-9517-fad0faafe021
+langcode: en
+status: true
+dependencies:
+  theme:
+    - rigel
+_core:
+  default_config_hash: kQYCHmvBTiTuO_6U7V42uH0PtVo9yc3wopeu89VYdwg
+id: rigel_page_title
+theme: rigel
+region: content
+weight: -6
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility: {  }

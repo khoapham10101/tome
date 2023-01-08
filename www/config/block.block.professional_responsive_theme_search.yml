@@ -1,0 +1,23 @@
+uuid: c2041bea-46b5-4042-88f4-f72522f10ad6
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - professional_responsive_theme
+_core:
+  default_config_hash: JM8_Iyo3pw-NaEtTd6WFiMCP-pDUgWZU-2D0eag5QZk
+id: professional_responsive_theme_search
+theme: professional_responsive_theme
+region: footer_first
+weight: -1
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: Search
+  label_display: visible
+  provider: search
+  page_id: ''
+visibility: {  }

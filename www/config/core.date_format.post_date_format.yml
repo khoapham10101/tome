@@ -1,0 +1,10 @@
+uuid: 9208d4fd-92ac-4edf-be47-e4decaac58d7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0URtoN6ETGt8Hk0jYtfsnaQDi-zimGyrp26FvPLL2Bo
+id: post_date_format
+label: 'Post Date Format'
+locked: false
+pattern: 'd M, Y'

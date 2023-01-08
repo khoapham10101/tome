@@ -1,0 +1,20 @@
+uuid: adfd2006-4418-4cf7-81ae-2543fb4c6b7b
+langcode: en
+status: true
+dependencies:
+  theme:
+    - amino_theme
+_core:
+  default_config_hash: 5ehBGpGxh3kW_Ei9mpF2GWt2MfmIGFnXwrxRpbxzkPQ
+id: amino_primary_admin_actions
+theme: amino_theme
+region: content_top
+weight: -2
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }

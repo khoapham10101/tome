@@ -1,0 +1,22 @@
+uuid: 94f97dda-5a22-47b7-8c17-3a5694e3a62c
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - ajans
+_core:
+  default_config_hash: vOcsjbEIVeP6ABbxq1Gj08Jt8jPZdQN8YaWnoTgzJFI
+id: ajans_help
+theme: ajans
+region: auto_hidden_block
+weight: -30
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

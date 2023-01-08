@@ -1,0 +1,22 @@
+uuid: 2282497e-1eb4-4a06-a67c-eb87b30084fa
+langcode: en
+status: true
+dependencies:
+  theme:
+    - topplus_lite
+_core:
+  default_config_hash: sevcDqFJw63e8rTDRlYIU8R9zZx--Xmg_gBKcqOpvEM
+id: topplus_lite_local_tasks
+theme: topplus_lite
+region: content
+weight: -7
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Tabs
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: true
+visibility: {  }

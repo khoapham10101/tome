@@ -1,0 +1,22 @@
+uuid: bcafc8e3-1c0e-4bc0-955b-73d2148f5dc2
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - lupus_stark
+_core:
+  default_config_hash: eYL19CLDyinGTWYQfBD1DswWzglEotE_kHnHx3AxTXM
+id: lupus_stark_powered
+theme: lupus_stark
+region: sidebar_first
+weight: 0
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  label_display: '0'
+  provider: system
+visibility: {  }

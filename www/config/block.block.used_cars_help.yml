@@ -1,0 +1,22 @@
+uuid: 348182d7-52e3-4b64-ab06-f8f1b749a903
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - used_cars
+_core:
+  default_config_hash: VfPFqqxfkomud5CO8DUijw85QIl9GIxh_nIxLOYESxg
+id: used_cars_help
+theme: used_cars
+region: header
+weight: 0
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

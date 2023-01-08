@@ -1,0 +1,23 @@
+uuid: 885b0ec3-9d52-4ff6-82d6-783d9692b08d
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - writer
+_core:
+  default_config_hash: imMyHD6LYci0gtXq56qr9ZKGHzbEG9uFydrN5EhKtSU
+id: writer_search_form_wide
+theme: writer
+region: pre_header
+weight: -5
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Search form (wide)'
+  label_display: '0'
+  provider: search
+  page_id: ''
+visibility: {  }

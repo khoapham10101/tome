@@ -1,0 +1,22 @@
+uuid: ce4d804c-d1c6-4846-b866-592c32addbf7
+langcode: en
+status: false
+dependencies:
+  module:
+    - system
+  theme:
+    - ajans
+_core:
+  default_config_hash: Gm7J11zWup6xWRuzyIWHoXU6lN7FGgFfrw7dkbfBJtQ
+id: ajans_breadcrumbs
+theme: ajans
+region: auto_hidden_block
+weight: -100
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility: {  }

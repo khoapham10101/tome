@@ -1,0 +1,22 @@
+uuid: 24dd68eb-ad82-4da1-984c-63b9a9ca816b
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - druparcheky_theme
+_core:
+  default_config_hash: VfPFqqxfkomud5CO8DUijw85QIl9GIxh_nIxLOYESxg
+id: druparcheky_theme_help
+theme: druparcheky_theme
+region: header
+weight: 0
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

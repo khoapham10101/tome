@@ -1,0 +1,22 @@
+uuid: dedfe9f5-e94d-4803-9283-28d6595adf45
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - boldy
+_core:
+  default_config_hash: eYL19CLDyinGTWYQfBD1DswWzglEotE_kHnHx3AxTXM
+id: boldy_powered
+theme: boldy
+region: site_branding
+weight: 0
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  label_display: '0'
+  provider: system
+visibility: {  }

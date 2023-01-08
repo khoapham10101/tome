@@ -1,0 +1,22 @@
+uuid: 0c9374ab-563d-4900-8ab5-60bf5e437ee7
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - mobidic
+_core:
+  default_config_hash: erQSEZF2XUjNmgTl0uNRBzmg18ZGXwUcw2FhApoeuHk
+id: mobidic_content
+theme: mobidic
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

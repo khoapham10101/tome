@@ -1,0 +1,22 @@
+uuid: 8bc49a92-75a1-477d-854e-45cf238f9603
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - rigel
+_core:
+  default_config_hash: zqJbAOodPuosOS5QxDejWFdF__IKnVctKP4CMcEmeCI
+id: rigel_content
+theme: rigel
+region: content
+weight: -1
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

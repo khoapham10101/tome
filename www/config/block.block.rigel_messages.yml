@@ -1,0 +1,22 @@
+uuid: f246e719-67a6-4ef5-8be2-4087847244fc
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - rigel
+_core:
+  default_config_hash: 7rJZJ7OtqJJIxgCpsJuEYreuVnd9X5f9v2TyNR3jVlg
+id: rigel_messages
+theme: rigel
+region: content
+weight: -7
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: Messages
+  label_display: '0'
+  provider: system
+visibility: {  }

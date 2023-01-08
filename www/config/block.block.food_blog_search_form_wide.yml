@@ -1,0 +1,23 @@
+uuid: 08ed00d3-948e-488d-9492-455f8937c427
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - food_blog
+_core:
+  default_config_hash: imMyHD6LYci0gtXq56qr9ZKGHzbEG9uFydrN5EhKtSU
+id: food_blog_search_form_wide
+theme: food_blog
+region: header
+weight: -5
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Search form (wide)'
+  label_display: '0'
+  provider: search
+  page_id: ''
+visibility: {  }

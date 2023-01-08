@@ -1,0 +1,20 @@
+uuid: 6eef485c-e5c2-4a73-a457-5fdf0974ec0a
+langcode: en
+status: true
+dependencies:
+  theme:
+    - raspberry
+_core:
+  default_config_hash: CcdZ_r0_g5RF214XBkhB7wJEjEA3h0wHB3bhY3t3t7s
+id: raspberry_local_actions
+theme: raspberry
+region: auto_hidden_block
+weight: 20
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }

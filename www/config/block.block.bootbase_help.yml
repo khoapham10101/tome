@@ -1,0 +1,22 @@
+uuid: 7e188d8d-776d-4b2b-876e-531b07e81554
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - bootbase
+_core:
+  default_config_hash: VfPFqqxfkomud5CO8DUijw85QIl9GIxh_nIxLOYESxg
+id: bootbase_help
+theme: bootbase
+region: header
+weight: 0
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

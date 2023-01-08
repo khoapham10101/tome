@@ -1,0 +1,25 @@
+uuid: bab6b456-033d-4b38-9eaf-1e55da5b9db5
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - amino_theme
+_core:
+  default_config_hash: Brf738Dg592ve3cTxXJrUh1Ld-AE91qrCFAzG6-ajkE
+id: amino_branding
+theme: amino_theme
+region: header
+weight: -3
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  label_display: '0'
+  provider: system
+  use_site_logo: true
+  use_site_name: true
+  use_site_slogan: true
+visibility: {  }

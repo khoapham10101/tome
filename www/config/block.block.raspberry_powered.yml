@@ -1,0 +1,22 @@
+uuid: 52e4bcb8-2e3b-45ca-85be-59d475ae088e
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - raspberry
+_core:
+  default_config_hash: SAW3YSu2tCEiDUY5oqjhc7vv6Sx0CNRc1QcgG5RIWsA
+id: raspberry_powered
+theme: raspberry
+region: auto_hidden_block
+weight: -10
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  label_display: '0'
+  provider: system
+visibility: {  }

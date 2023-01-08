@@ -1,0 +1,20 @@
+uuid: cc71dbd9-2b2d-40e3-924c-4220918b439b
+langcode: en
+status: true
+dependencies:
+  theme:
+    - alz
+_core:
+  default_config_hash: 6aOgWsNTXjqrDm98TXSAjP6qd2nCijD1xw45MrnbK-Y
+id: alz_page_title
+theme: alz
+region: breadcrumb
+weight: -5
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility: {  }

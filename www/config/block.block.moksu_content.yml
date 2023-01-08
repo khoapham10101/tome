@@ -1,0 +1,22 @@
+uuid: efde6f00-72b8-4808-b174-bac6c338c1b4
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - moksu
+_core:
+  default_config_hash: erQSEZF2XUjNmgTl0uNRBzmg18ZGXwUcw2FhApoeuHk
+id: moksu_content
+theme: moksu
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

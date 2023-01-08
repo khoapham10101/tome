@@ -1,0 +1,22 @@
+uuid: e2d32e41-dc04-4e2f-b5be-d5268a4b04b7
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - raspberry
+_core:
+  default_config_hash: CuWsU1j1RUfZ4LGHruuo8qRY5Wxlu-0WK2T-hbX5a7o
+id: raspberry_help
+theme: raspberry
+region: highlighted
+weight: -30
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

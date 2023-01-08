@@ -1,0 +1,22 @@
+uuid: 5ccf2520-19a7-4386-aecd-a2cec96325a4
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - photographer
+_core:
+  default_config_hash: eYL19CLDyinGTWYQfBD1DswWzglEotE_kHnHx3AxTXM
+id: photographer_powered
+theme: photographer
+region: header
+weight: 0
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  label_display: '0'
+  provider: system
+visibility: {  }

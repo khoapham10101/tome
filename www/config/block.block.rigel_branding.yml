@@ -1,0 +1,25 @@
+uuid: 4d043f3b-0b4c-4924-8771-7d9caaf96fe7
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - rigel
+_core:
+  default_config_hash: FW1wDnrIqSY-y5tWLw4F9rSatBqYZIdnwUSN_cgWXj4
+id: rigel_branding
+theme: rigel
+region: navigation
+weight: -6
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  label_display: '0'
+  provider: system
+  use_site_logo: true
+  use_site_name: true
+  use_site_slogan: false
+visibility: {  }

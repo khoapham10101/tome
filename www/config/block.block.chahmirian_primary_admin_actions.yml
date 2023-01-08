@@ -1,0 +1,20 @@
+uuid: 0d8c1191-4d49-46be-a990-be7e5b260e15
+langcode: en
+status: true
+dependencies:
+  theme:
+    - chahmirian
+_core:
+  default_config_hash: Q9_2whdOj1YIomfvsIfopROW4FT_X5pY0DjdOiOaQ5U
+id: chahmirian_primary_admin_actions
+theme: chahmirian
+region: highlighted
+weight: -5
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }

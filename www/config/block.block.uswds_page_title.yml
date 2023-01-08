@@ -1,0 +1,20 @@
+uuid: 9346b1a6-9ff5-4ec4-8e50-e2bb3c540bf7
+langcode: en
+status: true
+dependencies:
+  theme:
+    - uswds
+_core:
+  default_config_hash: 6aOgWsNTXjqrDm98TXSAjP6qd2nCijD1xw45MrnbK-Y
+id: uswds_page_title
+theme: uswds
+region: header_top
+weight: -5
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility: {  }

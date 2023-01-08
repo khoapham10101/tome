@@ -1,0 +1,22 @@
+uuid: f80b4e34-405a-4a29-bc17-5ac3ada4b74f
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - photographer
+_core:
+  default_config_hash: VfPFqqxfkomud5CO8DUijw85QIl9GIxh_nIxLOYESxg
+id: photographer_help
+theme: photographer
+region: header
+weight: 0
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

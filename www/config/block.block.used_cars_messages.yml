@@ -1,0 +1,22 @@
+uuid: 2033d34c-893a-4e92-a9ea-8946b827f62c
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - used_cars
+_core:
+  default_config_hash: BZ5tpW7H8X4PVGRm3MImTIHd2tN0eF7zOtp4SpRYUA0
+id: used_cars_messages
+theme: used_cars
+region: header
+weight: -5
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  label_display: '0'
+  provider: system
+visibility: {  }

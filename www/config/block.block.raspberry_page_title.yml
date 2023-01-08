@@ -1,0 +1,20 @@
+uuid: bb45a5a4-430a-40b4-a78d-ba8fbbbbe9c5
+langcode: en
+status: true
+dependencies:
+  theme:
+    - raspberry
+_core:
+  default_config_hash: aK7X_l8_ArXa6nCNVJQslO5Yr3JsNif5JErQv9RySfI
+id: raspberry_page_title
+theme: raspberry
+region: page_title
+weight: 0
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility: {  }

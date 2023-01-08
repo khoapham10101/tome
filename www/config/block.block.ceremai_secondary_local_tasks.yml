@@ -1,0 +1,22 @@
+uuid: c81f4bd7-a4bf-4319-9314-45fbd70b162a
+langcode: en
+status: true
+dependencies:
+  theme:
+    - ceremai
+_core:
+  default_config_hash: ydSxdq7R66I8UMC460rOzlfzvlUL4VRbdwc6z9DWaUI
+id: ceremai_secondary_local_tasks
+theme: ceremai
+region: highlighted
+weight: -2
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: 'Secondary tabs'
+  label_display: '0'
+  provider: core
+  primary: false
+  secondary: true
+visibility: {  }

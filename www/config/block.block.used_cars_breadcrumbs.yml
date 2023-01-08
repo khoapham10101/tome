@@ -1,0 +1,22 @@
+uuid: d3d1d8c3-3254-4774-b929-2b574582a2c1
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - used_cars
+_core:
+  default_config_hash: VhBzWb7lMRtIOg9G7VSw_0uopi-7zXeHq4vXqqV1HFE
+id: used_cars_breadcrumbs
+theme: used_cars
+region: breadcrumb
+weight: 0
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility: {  }

@@ -1,0 +1,27 @@
+uuid: 175ad136-ff4b-49d9-859e-a16940e59ab2
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.footer
+  module:
+    - system
+  theme:
+    - ajans
+_core:
+  default_config_hash: MwzN03nRrS3IqSNEhXyNj3tzehYOSIS7DgszKze9Vg8
+id: ajans_footer
+theme: ajans
+region: auto_hidden_block
+weight: 0
+provider: null
+plugin: 'system_menu_block:footer'
+settings:
+  id: 'system_menu_block:footer'
+  label: 'Footer menu'
+  label_display: '0'
+  provider: system
+  level: 1
+  depth: 0
+  expand_all_items: false
+visibility: {  }

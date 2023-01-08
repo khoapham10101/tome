@@ -1,0 +1,10 @@
+uuid: a633972d-46b4-484c-81f2-9c7be01e3240
+langcode: it
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: JoZxY8p8ihPA06KJYqh1j8RPF7dgk4UQJLSS4SaAaWg
+id: slim
+label: Slim
+description: 'Slim menu in Header'
+locked: false

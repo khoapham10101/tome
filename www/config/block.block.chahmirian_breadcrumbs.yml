@@ -1,0 +1,22 @@
+uuid: 4541d08d-2917-48d5-9b39-a1817e3e4878
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - chahmirian
+_core:
+  default_config_hash: VhBzWb7lMRtIOg9G7VSw_0uopi-7zXeHq4vXqqV1HFE
+id: chahmirian_breadcrumbs
+theme: chahmirian
+region: topbar
+weight: 0
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility: {  }

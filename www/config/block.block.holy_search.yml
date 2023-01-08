@@ -1,0 +1,23 @@
+uuid: fcc42e45-0613-44fd-b877-a5e7dc3723e9
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - holy
+_core:
+  default_config_hash: qLaaSgOUweBjnKk52Y2kaQ9phXDZ_IE17Uwk7m4UrAI
+id: holy_search
+theme: holy
+region: header
+weight: -5
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: ''
+  label_display: visible
+  provider: search
+  page_id: ''
+visibility: {  }

@@ -1,0 +1,20 @@
+uuid: 3025c3a9-8c5b-4c56-895b-d9a2fd6713d1
+langcode: en
+status: true
+dependencies:
+  theme:
+    - bromo
+_core:
+  default_config_hash: Q9_2whdOj1YIomfvsIfopROW4FT_X5pY0DjdOiOaQ5U
+id: bromo_primary_admin_actions
+theme: bromo
+region: highlighted
+weight: -5
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }

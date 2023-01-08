@@ -1,0 +1,22 @@
+uuid: 76712376-53c4-4e42-9d65-3f300b4a69f4
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - zinble
+_core:
+  default_config_hash: Tfd-Xz_k6nSkBC3D47orGtsryBxe0EN2ODHHdAWg4jw
+id: zinble_help
+theme: zinble
+region: help
+weight: -10
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

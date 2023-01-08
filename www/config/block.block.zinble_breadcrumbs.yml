@@ -1,0 +1,27 @@
+uuid: 96375058-3fbc-4fbc-a78c-11a74c1529ee
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - zinble
+_core:
+  default_config_hash: zxQEIgHTXR_BKbGi2EVQ7fhVofdLUrW5MX7yUss3MRI
+id: zinble_breadcrumbs
+theme: zinble
+region: banner
+weight: -6
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility:
+  request_path:
+    id: request_path
+    pages: '<front>'
+    negate: true
+    context_mapping: {  }

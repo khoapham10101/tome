@@ -1,0 +1,25 @@
+uuid: e257bbdf-b3c4-4d13-a34d-85f450d3ead1
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - clean_blog
+_core:
+  default_config_hash: n_nlgjggHVfQt2H__zvLOKB2YtjPDbQ5tHijF9LE1aM
+id: clean_blog_site_branding
+theme: clean_blog
+region: header
+weight: 0
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  label_display: '0'
+  provider: system
+  use_site_logo: true
+  use_site_name: true
+  use_site_slogan: false
+visibility: {  }

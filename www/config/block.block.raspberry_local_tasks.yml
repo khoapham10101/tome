@@ -1,0 +1,22 @@
+uuid: f641255d-f481-492a-96ba-ae3657c436f0
+langcode: en
+status: true
+dependencies:
+  theme:
+    - raspberry
+_core:
+  default_config_hash: ZTJmQAaORAcmWz2Kfp6BllD_aXwwE6a2-LpgFYYRrOQ
+id: raspberry_local_tasks
+theme: raspberry
+region: content
+weight: 0
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Tabs
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: true
+visibility: {  }

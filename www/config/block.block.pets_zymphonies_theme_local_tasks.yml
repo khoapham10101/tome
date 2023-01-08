@@ -1,0 +1,22 @@
+uuid: 298e4334-a325-4469-ab1b-b9153819d758
+langcode: en
+status: true
+dependencies:
+  theme:
+    - pets_zymphonies_theme
+_core:
+  default_config_hash: Qj-6eGCkbJnqJhEPElbxiyE0d2T6HZyODXc-uGiEbpc
+id: pets_zymphonies_theme_local_tasks
+theme: pets_zymphonies_theme
+region: content
+weight: 0
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Tabs
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: true
+visibility: {  }

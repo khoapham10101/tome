@@ -1,0 +1,22 @@
+uuid: fb3c5a98-4b3a-4d47-a0c4-73e86a440f5d
+langcode: en
+status: true
+dependencies:
+  theme:
+    - boldy
+_core:
+  default_config_hash: nGE3EoPQQaQCuqTUtZgw0-KIzmrqdKDzdNQf2JyPUt4
+id: boldy_primary_local_tasks
+theme: boldy
+region: site_branding
+weight: -4
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: 'Primary tabs'
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: false
+visibility: {  }

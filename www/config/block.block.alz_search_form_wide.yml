@@ -1,0 +1,23 @@
+uuid: c607ab94-ed00-45a7-a715-162f610d4856
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - alz
+_core:
+  default_config_hash: imMyHD6LYci0gtXq56qr9ZKGHzbEG9uFydrN5EhKtSU
+id: alz_search_form_wide
+theme: alz
+region: breadcrumb
+weight: -5
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Search form (wide)'
+  label_display: '0'
+  provider: search
+  page_id: ''
+visibility: {  }

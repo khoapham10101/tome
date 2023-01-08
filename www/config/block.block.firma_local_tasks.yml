@@ -1,0 +1,22 @@
+uuid: 2e7d0486-850d-473b-9292-32c9bbb0ff50
+langcode: en
+status: true
+dependencies:
+  theme:
+    - firma
+_core:
+  default_config_hash: TC15u4V5Del1gBpbuaV8DhV6_oygDahAiuh9Ef7Ulc8
+id: firma_local_tasks
+theme: firma
+region: content
+weight: 1
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Tabs
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: true
+visibility: {  }

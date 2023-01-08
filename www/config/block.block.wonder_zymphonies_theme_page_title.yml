@@ -1,0 +1,20 @@
+uuid: 55dfda79-ed02-47ab-a069-4d9148261c94
+langcode: en
+status: true
+dependencies:
+  theme:
+    - wonder_zymphonies_theme
+_core:
+  default_config_hash: OlVLwzCBmR0B6MLMghTKHaGrzMPujaAYz1UEilzxvCE
+id: wonder_zymphonies_theme_page_title
+theme: wonder_zymphonies_theme
+region: page_title
+weight: 0
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility: {  }

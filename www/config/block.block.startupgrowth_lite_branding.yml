@@ -1,0 +1,25 @@
+uuid: dcd19df6-ebb9-4542-aeb2-ebe5dc9cb6f3
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - startupgrowth_lite
+_core:
+  default_config_hash: t3IVwKyQh9d4mVa8BV_-Frk5dniknc12wC1TyDDlLrk
+id: startupgrowth_lite_branding
+theme: startupgrowth_lite
+region: header_first
+weight: 0
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  label_display: '0'
+  provider: system
+  use_site_logo: true
+  use_site_name: true
+  use_site_slogan: true
+visibility: {  }

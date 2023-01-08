@@ -1,0 +1,22 @@
+uuid: e6e000bb-295c-4edf-8132-52c82b235bff
+langcode: en
+status: true
+dependencies:
+  theme:
+    - rigel
+_core:
+  default_config_hash: BkFAjMarmpvEOVnkMtShoMFLGnVgllZY-Zr6XuI3PrY
+id: rigel_local_tasks
+theme: rigel
+region: content
+weight: -4
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Tabs
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: true
+visibility: {  }

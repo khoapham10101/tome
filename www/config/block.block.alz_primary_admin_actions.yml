@@ -1,0 +1,20 @@
+uuid: 69acc7fa-3b2a-4910-b90e-12d8f54e7380
+langcode: en
+status: true
+dependencies:
+  theme:
+    - alz
+_core:
+  default_config_hash: Q9_2whdOj1YIomfvsIfopROW4FT_X5pY0DjdOiOaQ5U
+id: alz_primary_admin_actions
+theme: alz
+region: breadcrumb
+weight: -5
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }

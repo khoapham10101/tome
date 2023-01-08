@@ -1,0 +1,22 @@
+uuid: 50439f1e-38a4-4d45-b4bb-fce8db9a2d73
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - rigel
+_core:
+  default_config_hash: EBH2Tm8E3dGPTn5M1s1r1OAOmfZanSbLduigNqxPqwE
+id: rigel_powered_by_drupal
+theme: rigel
+region: footer
+weight: 0
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  label_display: '0'
+  provider: system
+visibility: {  }

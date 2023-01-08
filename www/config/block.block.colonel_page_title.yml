@@ -1,0 +1,20 @@
+uuid: 16950410-107e-44cf-8927-3540243b577e
+langcode: en
+status: true
+dependencies:
+  theme:
+    - colonel
+_core:
+  default_config_hash: 6aOgWsNTXjqrDm98TXSAjP6qd2nCijD1xw45MrnbK-Y
+id: colonel_page_title
+theme: colonel
+region: sidebar_first
+weight: -5
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility: {  }

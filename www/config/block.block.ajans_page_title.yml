@@ -1,0 +1,20 @@
+uuid: 681f46bc-0411-42af-8931-2d9457dacf4b
+langcode: en
+status: false
+dependencies:
+  theme:
+    - ajans
+_core:
+  default_config_hash: Nws27Id9DRoQcrA9W8RdGPbZXSzQ9oXp3lSPr33KdmE
+id: ajans_page_title
+theme: ajans
+region: auto_hidden_block
+weight: 2
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility: {  }

@@ -1,0 +1,22 @@
+uuid: 70a184be-06dd-437a-82a7-eea7e7379319
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - dawn
+_core:
+  default_config_hash: eYL19CLDyinGTWYQfBD1DswWzglEotE_kHnHx3AxTXM
+id: dawn_powered
+theme: dawn
+region: menu
+weight: 0
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  label_display: '0'
+  provider: system
+visibility: {  }

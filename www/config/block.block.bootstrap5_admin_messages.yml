@@ -1,0 +1,22 @@
+uuid: 1c482aa4-dcc5-46b8-b1be-ff2ee5c9cf5c
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - bootstrap5_admin
+_core:
+  default_config_hash: NhD4sPhA8fGFgaRFZkB_NsZlO6ZObkyYLloKNVkjar8
+id: bootstrap5_admin_messages
+theme: bootstrap5_admin
+region: content
+weight: -7
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: Messages
+  label_display: '0'
+  provider: system
+visibility: {  }

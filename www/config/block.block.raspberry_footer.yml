@@ -1,0 +1,27 @@
+uuid: 1a2c6a57-fc28-41da-8eb0-a92baaa8e5df
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.footer
+  module:
+    - system
+  theme:
+    - raspberry
+_core:
+  default_config_hash: 80BEhOWGsbvVrV_4WpnKbHbUJgdY3DmY5VCDXFRa-tc
+id: raspberry_footer
+theme: raspberry
+region: auto_hidden_block
+weight: 0
+provider: null
+plugin: 'system_menu_block:footer'
+settings:
+  id: 'system_menu_block:footer'
+  label: 'Footer menu'
+  label_display: '0'
+  provider: system
+  level: 1
+  depth: 0
+  expand_all_items: false
+visibility: {  }

@@ -1,0 +1,27 @@
+uuid: e68a920c-e65e-445e-b9ee-d7daa349b3e6
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.main
+  module:
+    - system
+  theme:
+    - pets_zymphonies_theme
+_core:
+  default_config_hash: zbhwUnVfgDxkjqbh4q6QRRUTOAN7Bsw1XAm0a9ZixGs
+id: pets_zymphonies_theme_main_menu
+theme: pets_zymphonies_theme
+region: primary_menu
+weight: 10
+provider: null
+plugin: 'system_menu_block:main'
+settings:
+  id: 'system_menu_block:main'
+  label: 'Main navigation'
+  label_display: '0'
+  provider: system
+  level: 1
+  depth: 2
+  expand_all_items: false
+visibility: {  }

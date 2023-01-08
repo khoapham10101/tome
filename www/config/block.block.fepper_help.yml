@@ -1,0 +1,22 @@
+uuid: bc166777-843a-47f6-a5aa-6c6b5c6e89a8
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - fepper
+_core:
+  default_config_hash: VfPFqqxfkomud5CO8DUijw85QIl9GIxh_nIxLOYESxg
+id: fepper_help
+theme: fepper
+region: header
+weight: 0
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

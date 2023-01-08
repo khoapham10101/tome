@@ -1,0 +1,22 @@
+uuid: 8f409f94-acf5-429c-9f04-fdb3c9fb9b6d
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - druparcheky_theme
+_core:
+  default_config_hash: erQSEZF2XUjNmgTl0uNRBzmg18ZGXwUcw2FhApoeuHk
+id: druparcheky_theme_content
+theme: druparcheky_theme
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

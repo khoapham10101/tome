@@ -1,0 +1,27 @@
+uuid: 74b1a669-06da-4026-9e2e-bebd1da2124e
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.main
+  module:
+    - system
+  theme:
+    - amino_theme
+_core:
+  default_config_hash: dB6d6cjf1mhbozuntKBH-AeJQKds6bBtj4BxuCLisjg
+id: amino_navigation
+theme: amino_theme
+region: header
+weight: -2
+provider: null
+plugin: 'system_menu_block:main'
+settings:
+  id: 'system_menu_block:main'
+  label: 'Main navigation'
+  label_display: '0'
+  provider: system
+  level: 1
+  depth: 0
+  expand_all_items: false
+visibility: {  }

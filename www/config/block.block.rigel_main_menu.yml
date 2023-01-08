@@ -1,0 +1,27 @@
+uuid: 0c5ae79d-6572-4be1-9dc6-6f72187b3d47
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.main
+  module:
+    - system
+  theme:
+    - rigel
+_core:
+  default_config_hash: 8AQ3gHFA7k5hbnDDRyjTg77xzHtddkIPke6qoLd176w
+id: rigel_main_menu
+theme: rigel
+region: navigation_collapsible
+weight: 10
+provider: null
+plugin: 'system_menu_block:main'
+settings:
+  id: 'system_menu_block:main'
+  label: 'Main navigation'
+  label_display: '0'
+  provider: system
+  level: 1
+  depth: 3
+  expand_all_items: false
+visibility: {  }

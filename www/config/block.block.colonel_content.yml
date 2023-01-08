@@ -1,0 +1,22 @@
+uuid: 108ff029-e198-4073-8bab-f9a7d61b06e9
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - colonel
+_core:
+  default_config_hash: erQSEZF2XUjNmgTl0uNRBzmg18ZGXwUcw2FhApoeuHk
+id: colonel_content
+theme: colonel
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

@@ -1,0 +1,23 @@
+uuid: 692c18ee-f6eb-4181-b598-924eaf8d7354
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - neato
+_core:
+  default_config_hash: yEBET0cqDbk8dkWzaJw-8CKft0961VBflsISoSR6Lj8
+id: neato_search_form_narrow
+theme: neato
+region: header
+weight: -4
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Search form (narrow)'
+  label_display: '0'
+  provider: search
+  page_id: ''
+visibility: {  }

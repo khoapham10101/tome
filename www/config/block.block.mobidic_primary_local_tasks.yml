@@ -1,0 +1,22 @@
+uuid: aaae875f-a139-4d40-a85b-e479cceeb5f5
+langcode: en
+status: true
+dependencies:
+  theme:
+    - mobidic
+_core:
+  default_config_hash: nGE3EoPQQaQCuqTUtZgw0-KIzmrqdKDzdNQf2JyPUt4
+id: mobidic_primary_local_tasks
+theme: mobidic
+region: header
+weight: -4
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: 'Primary tabs'
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: false
+visibility: {  }

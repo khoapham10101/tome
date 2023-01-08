@@ -1,0 +1,22 @@
+uuid: 32e4d185-5186-4018-bff9-1f03b8dadfc1
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - holy
+_core:
+  default_config_hash: dogmXicNQN0PDolGOMxuZ-B25dQ85aKXB2QbjexKZCY
+id: holy_messages
+theme: holy
+region: highlighted
+weight: 0
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: ''
+  label_display: '0'
+  provider: system
+visibility: {  }

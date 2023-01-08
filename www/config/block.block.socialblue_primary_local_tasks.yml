@@ -1,0 +1,22 @@
+uuid: e9ad00b9-f4ac-4cd4-9532-e754a91073c2
+langcode: en
+status: true
+dependencies:
+  theme:
+    - socialblue
+_core:
+  default_config_hash: nGE3EoPQQaQCuqTUtZgw0-KIzmrqdKDzdNQf2JyPUt4
+id: socialblue_primary_local_tasks
+theme: socialblue
+region: hidden
+weight: -4
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: 'Primary tabs'
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: false
+visibility: {  }

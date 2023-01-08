@@ -1,0 +1,22 @@
+uuid: 255cc673-bcd2-429d-bc7e-ae76ec9b4959
+langcode: en
+status: true
+dependencies:
+  theme:
+    - chahmirian
+_core:
+  default_config_hash: ydSxdq7R66I8UMC460rOzlfzvlUL4VRbdwc6z9DWaUI
+id: chahmirian_secondary_local_tasks
+theme: chahmirian
+region: highlighted
+weight: -2
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: 'Secondary tabs'
+  label_display: '0'
+  provider: core
+  primary: false
+  secondary: true
+visibility: {  }

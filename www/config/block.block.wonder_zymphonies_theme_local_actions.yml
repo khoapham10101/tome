@@ -1,0 +1,20 @@
+uuid: 4adc2bc2-ca07-4b1b-aa3c-e8ef53d5bd88
+langcode: en
+status: true
+dependencies:
+  theme:
+    - wonder_zymphonies_theme
+_core:
+  default_config_hash: Tx2CZrZPfmIK8jqtch0znWkjJYSDeN1RAxkDkMsv-QU
+id: wonder_zymphonies_theme_local_actions
+theme: wonder_zymphonies_theme
+region: auto_hidden_block
+weight: 20
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }

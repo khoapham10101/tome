@@ -1,0 +1,23 @@
+uuid: 5d44c6e4-e2cb-4f15-90f9-9969cd3505c7
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - portfolio_theme_explore
+_core:
+  default_config_hash: imMyHD6LYci0gtXq56qr9ZKGHzbEG9uFydrN5EhKtSU
+id: portfolio_theme_explore_search_form_wide
+theme: portfolio_theme_explore
+region: secondary_menu
+weight: -5
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Search form (wide)'
+  label_display: '0'
+  provider: search
+  page_id: ''
+visibility: {  }

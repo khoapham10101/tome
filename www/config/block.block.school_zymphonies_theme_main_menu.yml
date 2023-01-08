@@ -1,0 +1,27 @@
+uuid: d1d20a68-5377-434b-862d-8f8c7a278ed7
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.main
+  module:
+    - system
+  theme:
+    - school_zymphonies_theme
+_core:
+  default_config_hash: CwRXLWZlSbZc_Fu8GLAzTcGEb_700GksVYj6D5FfzeM
+id: school_zymphonies_theme_main_menu
+theme: school_zymphonies_theme
+region: primary_menu
+weight: 10
+provider: null
+plugin: 'system_menu_block:main'
+settings:
+  id: 'system_menu_block:main'
+  label: 'Main navigation'
+  label_display: '0'
+  provider: system
+  level: 1
+  depth: 2
+  expand_all_items: false
+visibility: {  }

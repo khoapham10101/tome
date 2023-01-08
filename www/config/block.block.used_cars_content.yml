@@ -1,0 +1,22 @@
+uuid: 5c13f2ca-cc1f-449b-b9e8-b0f75e7a720a
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - used_cars
+_core:
+  default_config_hash: erQSEZF2XUjNmgTl0uNRBzmg18ZGXwUcw2FhApoeuHk
+id: used_cars_content
+theme: used_cars
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

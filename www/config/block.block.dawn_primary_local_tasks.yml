@@ -1,0 +1,22 @@
+uuid: 04bb90ef-ee55-4707-9184-e7658fe137d0
+langcode: en
+status: true
+dependencies:
+  theme:
+    - dawn
+_core:
+  default_config_hash: nGE3EoPQQaQCuqTUtZgw0-KIzmrqdKDzdNQf2JyPUt4
+id: dawn_primary_local_tasks
+theme: dawn
+region: highlighted
+weight: -4
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: 'Primary tabs'
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: false
+visibility: {  }

@@ -1,0 +1,22 @@
+uuid: 860a864c-4ea0-4226-a10e-8a07988985b0
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - visually_impaired_theme
+_core:
+  default_config_hash: VfPFqqxfkomud5CO8DUijw85QIl9GIxh_nIxLOYESxg
+id: visually_impaired_theme_help
+theme: visually_impaired_theme
+region: header
+weight: 0
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

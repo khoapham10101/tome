@@ -1,0 +1,22 @@
+uuid: 4ca5c4d0-046d-4c73-9444-e4656cb8b63b
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - seventeen
+_core:
+  default_config_hash: ne6OKYVheG28yKh2LCUO0jX2hTqc3iL5VVMrucm99Ok
+id: seventeen_messages
+theme: seventeen
+region: highlighted
+weight: -4
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: Messages
+  label_display: '0'
+  provider: system
+visibility: {  }

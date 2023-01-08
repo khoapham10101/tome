@@ -1,0 +1,22 @@
+uuid: 955b403a-779e-44a8-9cb2-37b5561e74c7
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - bromo
+_core:
+  default_config_hash: eYL19CLDyinGTWYQfBD1DswWzglEotE_kHnHx3AxTXM
+id: bromo_powered
+theme: bromo
+region: top_header_right
+weight: 0
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  label_display: '0'
+  provider: system
+visibility: {  }

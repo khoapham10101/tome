@@ -1,0 +1,22 @@
+uuid: a99bf18f-b7c4-40da-a152-a058a09dfecb
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - food_blog
+_core:
+  default_config_hash: eYL19CLDyinGTWYQfBD1DswWzglEotE_kHnHx3AxTXM
+id: food_blog_powered
+theme: food_blog
+region: header
+weight: 0
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  label_display: '0'
+  provider: system
+visibility: {  }

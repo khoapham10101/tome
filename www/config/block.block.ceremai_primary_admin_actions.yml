@@ -1,0 +1,20 @@
+uuid: 060c5c7f-ef2c-490f-8c06-95f91e1843e8
+langcode: en
+status: true
+dependencies:
+  theme:
+    - ceremai
+_core:
+  default_config_hash: Q9_2whdOj1YIomfvsIfopROW4FT_X5pY0DjdOiOaQ5U
+id: ceremai_primary_admin_actions
+theme: ceremai
+region: highlighted
+weight: -5
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }

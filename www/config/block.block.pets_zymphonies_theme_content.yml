@@ -1,0 +1,22 @@
+uuid: b5f816d7-3716-42e6-84a5-93e96692da93
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - pets_zymphonies_theme
+_core:
+  default_config_hash: y4SFw8R2UBLnuCM5wPtpk5fTwRwb_4bCG7hhEst9HQc
+id: pets_zymphonies_theme_content
+theme: pets_zymphonies_theme
+region: content
+weight: 1
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

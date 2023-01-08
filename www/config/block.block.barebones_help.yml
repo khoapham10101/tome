@@ -1,0 +1,22 @@
+uuid: ca86c33a-7afc-4059-be63-bdfe5eff36e5
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - barebones
+_core:
+  default_config_hash: VfPFqqxfkomud5CO8DUijw85QIl9GIxh_nIxLOYESxg
+id: barebones_help
+theme: barebones
+region: header
+weight: 0
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

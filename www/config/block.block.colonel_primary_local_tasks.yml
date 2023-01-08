@@ -1,0 +1,22 @@
+uuid: 61bb906f-6389-4345-a443-74a47cba0b80
+langcode: en
+status: true
+dependencies:
+  theme:
+    - colonel
+_core:
+  default_config_hash: nGE3EoPQQaQCuqTUtZgw0-KIzmrqdKDzdNQf2JyPUt4
+id: colonel_primary_local_tasks
+theme: colonel
+region: highlighted
+weight: -4
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: 'Primary tabs'
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: false
+visibility: {  }

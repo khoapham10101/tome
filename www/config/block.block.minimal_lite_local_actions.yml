@@ -1,0 +1,20 @@
+uuid: 8ab25942-6d7d-4aae-8a9a-455843ed8c59
+langcode: en
+status: true
+dependencies:
+  theme:
+    - minimal_lite
+_core:
+  default_config_hash: r7oWYeZ75T4LPjf2CC-BVjrXEq2Q3u1Okt7yINQ6y7E
+id: minimal_lite_local_actions
+theme: minimal_lite
+region: content
+weight: -7
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }

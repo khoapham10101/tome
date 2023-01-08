@@ -1,0 +1,23 @@
+uuid: f80a2bd3-5d98-498c-8494-684f1f6318f7
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - barebones
+_core:
+  default_config_hash: imMyHD6LYci0gtXq56qr9ZKGHzbEG9uFydrN5EhKtSU
+id: barebones_search_form_wide
+theme: barebones
+region: header
+weight: -5
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Search form (wide)'
+  label_display: '0'
+  provider: search
+  page_id: ''
+visibility: {  }

@@ -1,0 +1,25 @@
+uuid: 2b67355e-9d9d-4f9c-8ca8-75949071c58b
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - chahmirian
+_core:
+  default_config_hash: n_nlgjggHVfQt2H__zvLOKB2YtjPDbQ5tHijF9LE1aM
+id: chahmirian_site_branding
+theme: chahmirian
+region: topbar
+weight: 0
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  label_display: '0'
+  provider: system
+  use_site_logo: true
+  use_site_name: true
+  use_site_slogan: false
+visibility: {  }

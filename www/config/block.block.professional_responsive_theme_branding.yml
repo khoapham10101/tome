@@ -1,0 +1,25 @@
+uuid: ffd5729a-3b2c-40ec-a18e-002915331e26
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - professional_responsive_theme
+_core:
+  default_config_hash: qcAPUWk34dkzxn_J1ugDC0oZ-7UCy64vKGQ05DxoBoY
+id: professional_responsive_theme_branding
+theme: professional_responsive_theme
+region: header
+weight: 0
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  label_display: '0'
+  provider: system
+  use_site_logo: true
+  use_site_name: true
+  use_site_slogan: false
+visibility: {  }

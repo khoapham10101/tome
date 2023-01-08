@@ -1,0 +1,22 @@
+uuid: 3604589b-aa13-491a-97dc-bc24c0c436cc
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - food_blog
+_core:
+  default_config_hash: VfPFqqxfkomud5CO8DUijw85QIl9GIxh_nIxLOYESxg
+id: food_blog_help
+theme: food_blog
+region: header
+weight: 0
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

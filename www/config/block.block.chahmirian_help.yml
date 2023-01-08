@@ -1,0 +1,22 @@
+uuid: dd82ea28-b62a-4991-88dc-910e2ad26dc2
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - chahmirian
+_core:
+  default_config_hash: VfPFqqxfkomud5CO8DUijw85QIl9GIxh_nIxLOYESxg
+id: chahmirian_help
+theme: chahmirian
+region: topbar
+weight: 0
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

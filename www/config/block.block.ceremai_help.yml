@@ -1,0 +1,22 @@
+uuid: c21bed1c-d33f-4e45-ac73-afce10398978
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - ceremai
+_core:
+  default_config_hash: VfPFqqxfkomud5CO8DUijw85QIl9GIxh_nIxLOYESxg
+id: ceremai_help
+theme: ceremai
+region: top_header_left
+weight: 0
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

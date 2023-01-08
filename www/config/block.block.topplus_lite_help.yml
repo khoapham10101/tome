@@ -1,0 +1,22 @@
+uuid: 8a0c4ac0-0aae-4d73-a445-505260f8fdcf
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - topplus_lite
+_core:
+  default_config_hash: v-7YibBPwUvUjMjh0aG4sIY4I-B_l0_3cUKXa77OBIU
+id: topplus_lite_help
+theme: topplus_lite
+region: content
+weight: -7
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

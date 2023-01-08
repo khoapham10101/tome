@@ -1,0 +1,22 @@
+uuid: aa804485-94e2-44b7-85ad-c446170f8388
+langcode: en
+status: true
+dependencies:
+  theme:
+    - barebones_enhanced
+_core:
+  default_config_hash: ydSxdq7R66I8UMC460rOzlfzvlUL4VRbdwc6z9DWaUI
+id: barebones_enhanced_secondary_local_tasks
+theme: barebones_enhanced
+region: header
+weight: -2
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: 'Secondary tabs'
+  label_display: '0'
+  provider: core
+  primary: false
+  secondary: true
+visibility: {  }

@@ -1,0 +1,22 @@
+uuid: 13b82660-fddf-4bab-bebf-516d4ee61618
+langcode: en
+status: true
+dependencies:
+  theme:
+    - simpleblog
+_core:
+  default_config_hash: AePks-fwbScpOJRWURNL3eMTnH6q5K56_W_J-qTEAtc
+id: simpleblog_local_tasks
+theme: simpleblog
+region: help
+weight: 30
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Tabs
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: true
+visibility: {  }

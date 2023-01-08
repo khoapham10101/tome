@@ -1,0 +1,23 @@
+uuid: ad155634-b3a7-4cb5-93f7-61e677e61150
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - firma
+_core:
+  default_config_hash: 0ofqnb6qQw4wFJZ3KA_YsrZ2T232hElkHRaiIYZIqC8
+id: firma_search
+theme: firma
+region: auto_hidden_block
+weight: -1
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: Search
+  label_display: visible
+  provider: search
+  page_id: ''
+visibility: {  }

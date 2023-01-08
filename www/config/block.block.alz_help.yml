@@ -1,0 +1,22 @@
+uuid: 8392e621-a231-409c-9703-4ab8e834679c
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - alz
+_core:
+  default_config_hash: VfPFqqxfkomud5CO8DUijw85QIl9GIxh_nIxLOYESxg
+id: alz_help
+theme: alz
+region: breadcrumb
+weight: 0
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

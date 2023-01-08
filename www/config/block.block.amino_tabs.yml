@@ -1,0 +1,22 @@
+uuid: becf5419-df5c-4b55-b64f-14e3ebba814e
+langcode: en
+status: true
+dependencies:
+  theme:
+    - amino_theme
+_core:
+  default_config_hash: fqLtRi7rc4Xp-ajPCnTYZC4pjfIFdpCKzTRF8bF8mmo
+id: amino_tabs
+theme: amino_theme
+region: content_top
+weight: -1
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Tabs
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: true
+visibility: {  }

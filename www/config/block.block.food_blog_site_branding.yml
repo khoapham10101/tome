@@ -1,0 +1,25 @@
+uuid: 2a1483f4-476c-4133-9e10-1325c0a5ccaf
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - food_blog
+_core:
+  default_config_hash: n_nlgjggHVfQt2H__zvLOKB2YtjPDbQ5tHijF9LE1aM
+id: food_blog_site_branding
+theme: food_blog
+region: header
+weight: 0
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  label_display: '0'
+  provider: system
+  use_site_logo: true
+  use_site_name: true
+  use_site_slogan: false
+visibility: {  }

@@ -1,0 +1,20 @@
+uuid: aaba99e7-5333-48d0-baba-d1b2c5bc24af
+langcode: en
+status: true
+dependencies:
+  theme:
+    - excellence_simple
+_core:
+  default_config_hash: 7F3lQfBz_UIE5R6CYrevOOSGn7nXfXtYVOrVRwtmOPA
+id: excellence_simple_local_actions
+theme: excellence_simple
+region: content
+weight: -5
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }

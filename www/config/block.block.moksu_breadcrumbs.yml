@@ -1,0 +1,22 @@
+uuid: e567d0ed-c2a2-450f-9938-1c10c8ccfc4a
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - moksu
+_core:
+  default_config_hash: VhBzWb7lMRtIOg9G7VSw_0uopi-7zXeHq4vXqqV1HFE
+id: moksu_breadcrumbs
+theme: moksu
+region: header
+weight: 0
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility: {  }

@@ -1,0 +1,22 @@
+uuid: b29b3e32-513f-4818-8e99-ccb7a54cce39
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - barebones_enhanced
+_core:
+  default_config_hash: eYL19CLDyinGTWYQfBD1DswWzglEotE_kHnHx3AxTXM
+id: barebones_enhanced_powered
+theme: barebones_enhanced
+region: header
+weight: 0
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  label_display: '0'
+  provider: system
+visibility: {  }

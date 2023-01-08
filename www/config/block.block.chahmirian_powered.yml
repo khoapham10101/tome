@@ -1,0 +1,22 @@
+uuid: edb0ae40-a162-424e-9671-0da8d2f832c7
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - chahmirian
+_core:
+  default_config_hash: eYL19CLDyinGTWYQfBD1DswWzglEotE_kHnHx3AxTXM
+id: chahmirian_powered
+theme: chahmirian
+region: topbar
+weight: 0
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  label_display: '0'
+  provider: system
+visibility: {  }

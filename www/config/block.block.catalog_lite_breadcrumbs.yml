@@ -1,0 +1,27 @@
+uuid: bc9386ba-0783-46d3-9219-78aed418e80b
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - catalog_lite
+_core:
+  default_config_hash: pM-Cdc_0GZTcaIr9fwI9fWEhwiFzDrf8Ont9MdZ-z9w
+id: catalog_lite_breadcrumbs
+theme: catalog_lite
+region: banner
+weight: -7
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility:
+  request_path:
+    id: request_path
+    pages: '<front>'
+    negate: true
+    context_mapping: {  }

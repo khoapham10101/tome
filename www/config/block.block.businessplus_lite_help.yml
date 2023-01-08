@@ -1,0 +1,22 @@
+uuid: 9ede3268-f4e3-474f-94ca-b26783fd7373
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - businessplus_lite
+_core:
+  default_config_hash: 2QnUumKJvSUFBQpJ7c2MAHahfrgvy4qZI9qZW1iv16I
+id: businessplus_lite_help
+theme: businessplus_lite
+region: content
+weight: -7
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

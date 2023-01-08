@@ -1,0 +1,22 @@
+uuid: 15bd386a-67f2-4e42-bbc8-a1a0259d7af8
+langcode: en
+status: true
+dependencies:
+  theme:
+    - used_cars
+_core:
+  default_config_hash: nGE3EoPQQaQCuqTUtZgw0-KIzmrqdKDzdNQf2JyPUt4
+id: used_cars_primary_local_tasks
+theme: used_cars
+region: header
+weight: -4
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: 'Primary tabs'
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: false
+visibility: {  }

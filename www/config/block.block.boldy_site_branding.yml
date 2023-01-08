@@ -1,0 +1,25 @@
+uuid: be3c3926-8b67-4060-aa8d-a68b58528db7
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - boldy
+_core:
+  default_config_hash: n_nlgjggHVfQt2H__zvLOKB2YtjPDbQ5tHijF9LE1aM
+id: boldy_site_branding
+theme: boldy
+region: site_branding
+weight: 0
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  label_display: '0'
+  provider: system
+  use_site_logo: true
+  use_site_name: true
+  use_site_slogan: false
+visibility: {  }
