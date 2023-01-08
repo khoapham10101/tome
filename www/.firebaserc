@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "tome-ajans"
-  }
+    "default": "tome-ajans",
+    "aristotle": "tome-aristotle"
+  },
+  "targets": {},
+  "etags": {}
 }
