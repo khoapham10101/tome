@@ -8,6 +8,7 @@ services:
         ports:
             - "8009:80"
             - "8010:80"
+            - "8008:80"
             - "3009:3000"
         env_file: .env
         environment:
